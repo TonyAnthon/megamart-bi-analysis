@@ -9,7 +9,7 @@ st.set_page_config(
     layout="wide",
 )
 
-DEFAULT_CLEAN_DIR = r"C:\Users\anthony\Desktop\MEGAMART_ETL\data\CLEANED_OUTPUT"
+DEFAULT_CLEAN_DIR = "CLEANED_OUTPUT"
 
 
 def normalize_date_key(series: pd.Series) -> pd.Series:
