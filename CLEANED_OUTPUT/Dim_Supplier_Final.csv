@@ -1,0 +1,543 @@
+supplier_key,supplier_id,supplier_name,supplier_type,country,contact_name,phone,email,lead_time_days,supplier_rating
+1,NCC-10001,Alcar Construction & Haulage Co. Ltd.,Logistics & Security,Jamaica,Accounts Desk - Alcar Construction & Haul,876-920-1000,procurement@alcarconstructionh.com.jm,3,5.0
+2,NCC-10002,Surrey Paving & Aggregate Co. Ltd,Facilities & Maintenance,Jamaica,Accounts Desk - Surrey Paving & Aggregate,876-921-1037,procurement@surreypavingaggreg.com.jm,3,5.0
+3,NCC-10003,Toyota Jamaica Limited,Logistics & Security,Jamaica,Accounts Desk - Toyota Jamaica Limited,876-922-1074,procurement@toyotajamaicalimit.com.jm,3,5.0
+4,NCC-10004,Illuminat (Jamaica) Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Illuminat (Jamaica) Limit,876-923-1111,procurement@illuminatjamaicali.com.jm,3,5.0
+5,NCC-10005,Ibm World Trade Corporation,IT & Office Supplies,Jamaica,Accounts Desk - Ibm World Trade Corporati,876-924-1148,procurement@ibmworldtradecorpo.com.jm,3,5.0
+6,NCC-10006,D.Bisasor & Associates Ltd,Facilities & Maintenance,Jamaica,Accounts Desk - D.Bisasor & Associates Lt,876-925-1185,procurement@dbisasorassociates.com.jm,3,5.0
+7,NCC-10007,Construction Solutions Ltd.,Facilities & Maintenance,Jamaica,Accounts Desk - Construction Solutions Lt,876-926-1222,procurement@constructionsoluti.com.jm,3,5.0
+8,NCC-10008,Atlas Protection Limited,Food & Perishables,Jamaica,Accounts Desk - Atlas Protection Limited,876-927-1259,procurement@atlasprotectionlim.com.jm,3,5.0
+9,NCC-10009,Fujitsu Transaction Solutions (Ja) Limited,IT & Office Supplies,Jamaica,Accounts Desk - Fujitsu Transaction Solut,876-928-1296,procurement@fujitsutransaction.com.jm,3,5.0
+10,NCC-10010,Allied Insurance Brokers Limited,Food & Perishables,Jamaica,Accounts Desk - Allied Insurance Brokers ,876-929-1333,procurement@alliedinsurancebro.com.jm,3,5.0
+11,NCC-10011,Share Con Ltd,Facilities & Maintenance,Jamaica,Accounts Desk - Share Con Ltd,876-920-1370,procurement@shareconltd.com.jm,3,5.0
+12,NCC-10012,Allied Protection Limited,Food & Perishables,Jamaica,Accounts Desk - Allied Protection Limited,876-921-1407,procurement@alliedprotectionli.com.jm,3,5.0
+13,NCC-10013,Bacchus Engineering Works Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Bacchus Engineering Works,876-922-1444,procurement@bacchusengineering.com.jm,3,5.0
+14,NCC-10014,Contraxx Enterprise Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Contraxx Enterprise Limit,876-923-1481,procurement@contraxxenterprise.com.jm,3,5.0
+15,NCC-10015,Arel Limited,IT & Office Supplies,Jamaica,Accounts Desk - Arel Limited,876-924-1518,procurement@arellimited.com.jm,3,5.0
+16,NCC-10016,Ashtrom Building Systems Ltd.,Facilities & Maintenance,Jamaica,Accounts Desk - Ashtrom Building Systems ,876-925-1555,procurement@ashtrombuildingsys.com.jm,3,5.0
+17,NCC-10017,Build Rite Construction Co.Ltd.,Facilities & Maintenance,Jamaica,Accounts Desk - Build Rite Construction C,876-926-1592,procurement@buildriteconstruct.com.jm,3,5.0
+18,NCC-10018,Swc Woodwork Construction Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Swc Woodwork Construction,876-927-1629,procurement@swcwoodworkconstru.com.jm,3,5.0
+19,NCC-10019,Carlong Publishers (Caribbean) Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Carlong Publishers (Carib,876-928-1666,procurement@carlongpublishersc.com.jm,3,5.0
+20,NCC-10020,Y.P. Seaton & Associates Company Ltd,General Merchandise & Goods,Jamaica,Accounts Desk - Y.P. Seaton & Associates ,876-929-1703,procurement@ypseatonassociates.com.jm,3,5.0
+21,NCC-10021,Guardsman Limited,Food & Perishables,Jamaica,Accounts Desk - Guardsman Limited,876-920-1740,procurement@guardsmanlimited.com.jm,3,5.0
+22,NCC-10022,Marshall Construction Company Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Marshall Construction Com,876-921-1777,procurement@marshallconstructi.com.jm,3,5.0
+23,NCC-10023,Quality Plus Contracting Company Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Quality Plus Contracting ,876-922-1814,procurement@qualitypluscontrac.com.jm,3,5.0
+24,NCC-10024,Dwight'S Construction Ltd.,Facilities & Maintenance,Jamaica,Accounts Desk - Dwight'S Construction Ltd,876-923-1851,procurement@dwightsconstructio.com.jm,3,5.0
+25,NCC-10025,Marksman Limited,Food & Perishables,Jamaica,Accounts Desk - Marksman Limited,876-924-1888,procurement@marksmanlimited.com.jm,3,5.0
+26,NCC-10026,General Paving Company Ltd.,Facilities & Maintenance,Jamaica,Accounts Desk - General Paving Company Lt,876-925-1925,procurement@generalpavingcompa.com.jm,3,5.0
+27,NCC-10027,Ksa Engineering Consultants Ltd,Facilities & Maintenance,Jamaica,Accounts Desk - Ksa Engineering Consultan,876-926-1962,procurement@ksaengineeringcons.com.jm,3,5.0
+28,NCC-10028,Ricam Construction,IT & Office Supplies,Jamaica,Accounts Desk - Ricam Construction,876-927-1999,procurement@ricamconstruction.com.jm,3,5.0
+29,NCC-10029,Lasco Distributors Limited,Food & Perishables,Jamaica,Accounts Desk - Lasco Distributors Limite,876-928-2036,procurement@lascodistributorsl.com.jm,3,5.0
+30,NCC-10030,Chin'S Construction Ltd.,Facilities & Maintenance,Jamaica,Accounts Desk - Chin'S Construction Ltd.,876-929-2073,procurement@chinsconstructionl.com.jm,3,5.0
+31,NCC-10031,Bacchus Engineering Works Ltd.,Facilities & Maintenance,Jamaica,Accounts Desk - Bacchus Engineering Works,876-920-2110,procurement@bacchusengineering.com.jm,3,5.0
+32,NCC-10032,Seematt Construction Co. Ltd.,Facilities & Maintenance,Jamaica,Accounts Desk - Seematt Construction Co. ,876-921-2147,procurement@seemattconstructio.com.jm,3,5.0
+33,NCC-10033,Rogers Land Development Ltd.,General Merchandise & Goods,Jamaica,Accounts Desk - Rogers Land Development L,876-922-2184,procurement@rogerslanddevelopm.com.jm,3,5.0
+34,NCC-10034,Tankweld Ltd.,General Merchandise & Goods,Jamaica,Accounts Desk - Tankweld Ltd.,876-923-2221,procurement@tankweldltd.com.jm,3,5.0
+35,NCC-10035,Jamaica Drip Irrigation Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Jamaica Drip Irrigation L,876-924-2258,procurement@jamaicadripirrigat.com.jm,3,5.0
+36,NCC-10036,Cari-Med Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Cari-Med Limited,876-925-2295,procurement@carimedlimited.com.jm,3,5.0
+37,NCC-10037,Cac 2000 Limited,IT & Office Supplies,Jamaica,Accounts Desk - Cac 2000 Limited,876-926-2332,procurement@cac2000limited.com.jm,3,5.0
+38,NCC-10038,Garan-Tee Construction Company Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Garan-Tee Construction Co,876-927-2369,procurement@garanteeconstructi.com.jm,3,5.0
+39,NCC-10039,M & M Jamaica Limited,Facilities & Maintenance,Jamaica,Accounts Desk - M & M Jamaica Limited,876-928-2406,procurement@mmjamaicalimited.com.jm,3,5.0
+40,NCC-10040,D.R. Foote Construction Company Limited,General Merchandise & Goods,Jamaica,Accounts Desk - D.R. Foote Construction C,876-929-2443,procurement@drfooteconstructio.com.jm,3,5.0
+41,NCC-10041,Marathon Insurance Brokers Limited,Food & Perishables,Jamaica,Accounts Desk - Marathon Insurance Broker,876-920-2480,procurement@marathoninsuranceb.com.jm,3,5.0
+42,NCC-10042,Stewart'S Auto Sales Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Stewart'S Auto Sales Limi,876-921-2517,procurement@stewartsautosalesl.com.jm,3,5.0
+43,NCC-10043,Quest Security Services Limited,Food & Perishables,Jamaica,Accounts Desk - Quest Security Services L,876-922-2554,procurement@questsecurityservi.com.jm,3,5.0
+44,NCC-10044,Alfrasure Structures & Roofing Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Alfrasure Structures & Ro,876-923-2591,procurement@alfrasurestructure.com.jm,3,5.0
+45,NCC-10045,Tropical Metal Products Limited,Food & Perishables,Jamaica,Accounts Desk - Tropical Metal Products L,876-924-2628,procurement@tropicalmetalprodu.com.jm,3,5.0
+46,NCC-10046,Lewin'S Hardware Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Lewin'S Hardware Limited,876-925-2665,procurement@lewinshardwarelimi.com.jm,3,5.0
+47,NCC-10047,M & M Jamaica Limited,Food & Perishables,Jamaica,Accounts Desk - M & M Jamaica Limited,876-926-2702,procurement@mmjamaicalimited.com.jm,3,5.0
+48,NCC-10048,A1 Construction Company Limited,Facilities & Maintenance,Jamaica,Accounts Desk - A1 Construction Company L,876-927-2739,procurement@a1constructioncomp.com.jm,3,5.0
+49,NCC-10049,S.W.C. Woodwork & Construction Co. Ltd.,Facilities & Maintenance,Jamaica,Accounts Desk - S.W.C. Woodwork & Constru,876-928-2776,procurement@swcwoodworkconstru.com.jm,3,5.0
+50,NCC-10050,D. R. Foote Construction Co. Ltd.,Facilities & Maintenance,Jamaica,Accounts Desk - D. R. Foote Construction ,876-929-2813,procurement@drfooteconstructio.com.jm,3,5.0
+51,NCC-10051,M.L.O Services Limited,Food & Perishables,Jamaica,Accounts Desk - M.L.O Services Limited,876-920-2850,procurement@mloserviceslimited.com.jm,3,5.0
+52,NCC-10052,Pavement & Structures Ltd.,Facilities & Maintenance,Jamaica,Accounts Desk - Pavement & Structures Ltd,876-921-2887,procurement@pavementstructures.com.jm,3,5.0
+53,NCC-10053,Bajad Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Bajad Limited,876-922-2924,procurement@bajadlimited.com.jm,3,5.0
+54,NCC-10054,Howard Construction Company Ltd.,Facilities & Maintenance,Jamaica,Accounts Desk - Howard Construction Compa,876-923-2961,procurement@howardconstruction.com.jm,3,5.0
+55,NCC-10055,Wamex Construction Services,Facilities & Maintenance,Jamaica,Accounts Desk - Wamex Construction Servic,876-924-2998,procurement@wamexconstructions.com.jm,3,5.0
+56,NCC-10056,Construction Solutions Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Construction Solutions Li,876-925-3035,procurement@constructionsoluti.com.jm,3,5.0
+57,NCC-10057,Hdb Construction Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Hdb Construction Limited,876-926-3072,procurement@hdbconstructionlim.com.jm,3,5.0
+58,NCC-10058,Milestone Environmental Limited,Food & Perishables,Jamaica,Accounts Desk - Milestone Environmental L,876-927-3109,procurement@milestoneenvironme.com.jm,3,5.0
+59,NCC-10059,Share Con Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Share Con Limited,876-928-3146,procurement@shareconlimited.com.jm,3,5.0
+60,NCC-10060,Industrial Gases Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Industrial Gases Limited,876-929-3183,procurement@industrialgaseslim.com.jm,3,5.0
+61,NCC-10061,Tankweld Construction Co. Ltd.,Facilities & Maintenance,Jamaica,Accounts Desk - Tankweld Construction Co.,876-920-3220,procurement@tankweldconstructi.com.jm,3,5.0
+62,NCC-10062,Dwight'S Construction Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Dwight'S Construction Lim,876-921-3257,procurement@dwightsconstructio.com.jm,3,5.0
+63,NCC-10063,Alcar Construction & Haulage Company Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Alcar Construction & Haul,876-922-3294,procurement@alcarconstructionh.com.jm,3,5.0
+64,NCC-10064,D&D Welding And Equipment Hireage,General Merchandise & Goods,Jamaica,Accounts Desk - D&D Welding And Equipment,876-923-3331,procurement@ddweldingandequipm.com.jm,3,5.0
+65,NCC-10065,Ports Security Corps Limited,Food & Perishables,Jamaica,Accounts Desk - Ports Security Corps Limi,876-924-3368,procurement@portssecuritycorps.com.jm,3,5.0
+66,NCC-10066,Arel Ltd.,General Merchandise & Goods,Jamaica,Accounts Desk - Arel Ltd.,876-925-3405,procurement@arelltd.com.jm,3,5.0
+67,NCC-10067,Jamaica Wells & Services Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Jamaica Wells & Services ,876-926-3442,procurement@jamaicawellsservic.com.jm,3,5.0
+68,NCC-10068,Powergen Limited,Food & Perishables,Jamaica,Accounts Desk - Powergen Limited,876-927-3479,procurement@powergenlimited.com.jm,3,5.0
+69,NCC-10069,Artrog Construction Company,Facilities & Maintenance,Jamaica,Accounts Desk - Artrog Construction Compa,876-928-3516,procurement@artrogconstruction.com.jm,3,5.0
+70,NCC-10070,Garan-Tee Construction Company Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Garan-Tee Construction Co,876-929-3553,procurement@garanteeconstructi.com.jm,3,5.0
+71,NCC-10071,N.F Barnes Construction & Equip. Co. Ltd,Facilities & Maintenance,Jamaica,Accounts Desk - N.F Barnes Construction &,876-920-3590,procurement@nfbarnesconstructi.com.jm,3,5.0
+72,NCC-10072,Palm Rose Commodity Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Palm Rose Commodity Limit,876-921-3627,procurement@palmrosecommodityl.com.jm,3,5.0
+73,NCC-10073,Michelin,General Merchandise & Goods,Jamaica,Accounts Desk - Michelin,876-922-3664,procurement@michelin.com.jm,3,5.0
+74,NCC-10074,Garan-Tee Construction Co. Ltd,Facilities & Maintenance,Jamaica,Accounts Desk - Garan-Tee Construction Co,876-923-3701,procurement@garanteeconstructi.com.jm,3,5.0
+75,NCC-10075,Fredrick Rodriques & Associates Ltd.,General Merchandise & Goods,Jamaica,Accounts Desk - Fredrick Rodriques & Asso,876-924-3738,procurement@fredrickrodriquesa.com.jm,3,5.0
+76,NCC-10076,Lime,General Merchandise & Goods,Jamaica,Accounts Desk - Lime,876-925-3775,procurement@lime.com.jm,3,5.0
+77,NCC-10077,Sean D. Construction Co. Ltd.,Logistics & Security,Jamaica,Accounts Desk - Sean D. Construction Co. ,876-926-3812,procurement@seandconstructionc.com.jm,3,5.0
+78,NCC-10078,Howard Construction Company Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Howard Construction Compa,876-927-3849,procurement@howardconstruction.com.jm,3,5.0
+79,NCC-10079,Kingston Bookshop Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Kingston Bookshop Limited,876-928-3886,procurement@kingstonbookshopli.com.jm,3,5.0
+80,NCC-10080,Tankweld Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Tankweld Limited,876-929-3923,procurement@tankweldlimited.com.jm,3,5.0
+81,NCC-10081,Vehicles & Supplies Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Vehicles & Supplies Limit,876-920-3960,procurement@vehiclessuppliesli.com.jm,3,5.0
+82,NCC-10082,Book Wizard Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Book Wizard Limited,876-921-3997,procurement@bookwizardlimited.com.jm,3,5.0
+83,NCC-10083,Sangster'S Book Stores Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Sangster'S Book Stores Li,876-922-4034,procurement@sangstersbookstore.com.jm,3,5.0
+84,NCC-10084,Shalk Electronic Security Limited,Food & Perishables,Jamaica,Accounts Desk - Shalk Electronic Security,876-923-4071,procurement@shalkelectronicsec.com.jm,3,5.0
+85,NCC-10085,Hdb Construction Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Hdb Construction Limited,876-924-4108,procurement@hdbconstructionlim.com.jm,3,5.0
+86,NCC-10086,Fujitsu Caribbean (Jamaica) Limited,IT & Office Supplies,Jamaica,Accounts Desk - Fujitsu Caribbean (Jamaic,876-925-4145,procurement@fujitsucaribbeanja.com.jm,3,5.0
+87,NCC-10087,Kpmg,Food & Perishables,Jamaica,Accounts Desk - Kpmg,876-926-4182,procurement@kpmg.com.jm,3,5.0
+88,NCC-10088,Ricam Construction Limited,Food & Perishables,Jamaica,Accounts Desk - Ricam Construction Limite,876-927-4219,procurement@ricamconstructionl.com.jm,3,5.0
+89,NCC-10089,Xsomo International Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Xsomo International Limit,876-928-4256,procurement@xsomointernational.com.jm,3,5.0
+90,NCC-10090,Coloured Fin Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Coloured Fin Limited,876-929-4293,procurement@colouredfinlimited.com.jm,3,5.0
+91,NCC-10091,Incomparable Enterprises Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Incomparable Enterprises ,876-920-4330,procurement@incomparableenterp.com.jm,3,5.0
+92,NCC-10092,Arel Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Arel Limited,876-921-4367,procurement@arellimited.com.jm,3,5.0
+93,NCC-10093,Seematt Construction Company Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Seematt Construction Comp,876-922-4404,procurement@seemattconstructio.com.jm,3,5.0
+94,NCC-10094,Syncon Technologies Limited,Food & Perishables,Jamaica,Accounts Desk - Syncon Technologies Limit,876-923-4441,procurement@syncontechnologies.com.jm,3,5.0
+95,NCC-10095,L.P. Azar Limited,General Merchandise & Goods,Jamaica,Accounts Desk - L.P. Azar Limited,876-924-4478,procurement@lpazarlimited.com.jm,3,5.0
+96,NCC-10096,Champion Industrial Equipment & Supplies Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Champion Industrial Equip,876-925-4515,procurement@championindustrial.com.jm,3,5.0
+97,NCC-10097,South'S Woodcraft & Construction,Facilities & Maintenance,Jamaica,Accounts Desk - South'S Woodcraft & Const,876-926-4552,procurement@southswoodcraftcon.com.jm,3,5.0
+98,NCC-10098,Tropical Metal Products,General Merchandise & Goods,Jamaica,Accounts Desk - Tropical Metal Products,876-927-4589,procurement@tropicalmetalprodu.com.jm,3,5.0
+99,NCC-10099,Dell World Trade Corporation,General Merchandise & Goods,Jamaica,Accounts Desk - Dell World Trade Corporat,876-928-4626,procurement@dellworldtradecorp.com.jm,3,4.9
+100,NCC-10100,Deryck A. Gibson Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Deryck A. Gibson Limited,876-929-4663,procurement@deryckagibsonlimit.com.jm,3,4.9
+101,NCC-10101,Kier Construction Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Kier Construction Limited,876-920-4700,procurement@kierconstructionli.com.jm,3,4.9
+102,NCC-10102,Patrick E. Thompson Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Patrick E. Thompson Limit,876-921-4737,procurement@patrickethompsonli.com.jm,3,4.9
+103,NCC-10103,Lamasa Limited,Food & Perishables,Jamaica,Accounts Desk - Lamasa Limited,876-922-4774,procurement@lamasalimited.com.jm,3,4.9
+104,NCC-10104,Vanguard Security Limited,Food & Perishables,Jamaica,Accounts Desk - Vanguard Security Limited,876-923-4811,procurement@vanguardsecurityli.com.jm,3,4.9
+105,NCC-10105,Atos Consulting Ltd.,General Merchandise & Goods,Jamaica,Accounts Desk - Atos Consulting Ltd.,876-924-4848,procurement@atosconsultingltd.com.jm,3,4.9
+106,NCC-10106,Pavements & Structures Ltd.,General Merchandise & Goods,Jamaica,Accounts Desk - Pavements & Structures Lt,876-925-4885,procurement@pavementsstructure.com.jm,3,4.9
+107,NCC-10107,Executive Motors Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Executive Motors Limited,876-926-4922,procurement@executivemotorslim.com.jm,3,4.9
+108,NCC-10108,Supreme Laundry Services Limited,Food & Perishables,Jamaica,Accounts Desk - Supreme Laundry Services ,876-927-4959,procurement@supremelaundryserv.com.jm,3,4.9
+109,NCC-10109,Cable & Wireless Jamaica Limited,IT & Office Supplies,Jamaica,Accounts Desk - Cable & Wireless Jamaica ,876-928-4996,procurement@cablewirelessjamai.com.jm,3,4.9
+110,NCC-10110,Y.P. Seaton & Associates Company Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Y.P. Seaton & Associates ,876-929-5033,procurement@ypseatonassociates.com.jm,3,4.9
+111,NCC-10111,Science Applications International Corporation (Saic),General Merchandise & Goods,Jamaica,Accounts Desk - Science Applications Inte,876-920-5070,procurement@scienceapplication.com.jm,3,4.9
+112,NCC-10112,National Safety Limited,General Merchandise & Goods,Jamaica,Accounts Desk - National Safety Limited,876-921-5107,procurement@nationalsafetylimi.com.jm,3,4.9
+113,NCC-10113,Pearson Education Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Pearson Education Limited,876-922-5144,procurement@pearsoneducationli.com.jm,3,4.9
+114,NCC-10114,Alfrasure Structures And Roofing Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Alfrasure Structures And ,876-923-5181,procurement@alfrasurestructure.com.jm,3,4.9
+115,NCC-10115,Swc Woodwork Construction,Facilities & Maintenance,Jamaica,Accounts Desk - Swc Woodwork Construction,876-924-5218,procurement@swcwoodworkconstru.com.jm,3,4.9
+116,NCC-10116,Lascar Fencing & Construction Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Lascar Fencing & Construc,876-925-5255,procurement@lascarfencingconst.com.jm,3,4.9
+117,NCC-10117,Atlas Protection Limited,Food & Perishables,Jamaica,Accounts Desk - Atlas Protection Limited,876-926-5292,procurement@atlasprotectionlim.com.jm,3,4.9
+118,NCC-10118,Thomas Hamilton & Associates Limited,IT & Office Supplies,Jamaica,Accounts Desk - Thomas Hamilton & Associa,876-927-5329,procurement@thomashamiltonasso.com.jm,3,4.9
+119,NCC-10119,Cac 2000,IT & Office Supplies,Jamaica,Accounts Desk - Cac 2000,876-928-5366,procurement@cac2000.com.jm,3,4.9
+120,NCC-10120,L & K Construction Company Limited,Logistics & Security,Jamaica,Accounts Desk - L & K Construction Compan,876-929-5403,procurement@lkconstructioncomp.com.jm,3,4.9
+121,NCC-10121,Melody Heavy Equipment & Construction,General Merchandise & Goods,Jamaica,Accounts Desk - Melody Heavy Equipment & ,876-920-5440,procurement@melodyheavyequipme.com.jm,3,4.9
+122,NCC-10122,Latmar Enterprise Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Latmar Enterprise Limited,876-921-5477,procurement@latmarenterpriseli.com.jm,3,4.9
+123,NCC-10123,Apec Consultants,Food & Perishables,Jamaica,Accounts Desk - Apec Consultants,876-922-5514,procurement@apecconsultants.com.jm,3,4.9
+124,NCC-10124,Asphaltic Concrete Enterprise Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Asphaltic Concrete Enterp,876-923-5551,procurement@asphalticconcretee.com.jm,3,4.8
+125,NCC-10125,Chin'S Construction Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Chin'S Construction Limit,876-924-5588,procurement@chinsconstructionl.com.jm,3,4.8
+126,NCC-10126,Bacchus Engineering Works Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Bacchus Engineering Works,876-925-5625,procurement@bacchusengineering.com.jm,3,4.8
+127,NCC-10127,Life Of Jamaica Limited,IT & Office Supplies,Jamaica,Accounts Desk - Life Of Jamaica Limited,876-926-5662,procurement@lifeofjamaicalimit.com.jm,3,4.8
+128,NCC-10128,T. Geddes Grant (Dist.) Limited,General Merchandise & Goods,Jamaica,Accounts Desk - T. Geddes Grant (Dist.) L,876-927-5699,procurement@tgeddesgrantdistli.com.jm,3,4.8
+129,NCC-10129,Seaport Equipment Limited,Food & Perishables,Jamaica,Accounts Desk - Seaport Equipment Limited,876-928-5736,procurement@seaportequipmentli.com.jm,3,4.8
+130,NCC-10130,General Maintenance & Construction Services Limited,General Merchandise & Goods,Jamaica,Accounts Desk - General Maintenance & Con,876-929-5773,procurement@generalmaintenance.com.jm,3,4.8
+131,NCC-10131,T. Geddes Grant (Distributors) Limited,General Merchandise & Goods,Jamaica,Accounts Desk - T. Geddes Grant (Distribu,876-920-5810,procurement@tgeddesgrantdistri.com.jm,3,4.8
+132,NCC-10132,Nakash Construction & Equipment Ltd.,Facilities & Maintenance,Jamaica,Accounts Desk - Nakash Construction & Equ,876-921-5847,procurement@nakashconstruction.com.jm,3,4.8
+133,NCC-10133,Asphalting Specialists Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Asphalting Specialists Li,876-922-5884,procurement@asphaltingspeciali.com.jm,3,4.8
+134,NCC-10134,Matrix Engineering Works Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Matrix Engineering Works ,876-923-5921,procurement@matrixengineeringw.com.jm,3,4.8
+135,NCC-10135,T. Geddes Grant (Distributors) Ltd.,General Merchandise & Goods,Jamaica,Accounts Desk - T. Geddes Grant (Distribu,876-924-5958,procurement@tgeddesgrantdistri.com.jm,3,4.8
+136,NCC-10136,Beta Milk Company Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Beta Milk Company Limited,876-925-5995,procurement@betamilkcompanylim.com.jm,3,4.8
+137,NCC-10137,Quality Plus Contracting Co. Ltd.,General Merchandise & Goods,Jamaica,Accounts Desk - Quality Plus Contracting ,876-926-6032,procurement@qualitypluscontrac.com.jm,3,4.8
+138,NCC-10138,Contrax Enterprise Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Contrax Enterprise Limite,876-927-6069,procurement@contraxenterprisel.com.jm,3,4.8
+139,NCC-10139,Amba Dockside Technology Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Amba Dockside Technology ,876-928-6106,procurement@ambadocksidetechno.com.jm,3,4.8
+140,NCC-10140,Y.P. Seaton And Associates Company Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Y.P. Seaton And Associate,876-929-6143,procurement@ypseatonandassocia.com.jm,3,4.8
+141,NCC-10141,Contraxx Enterprises Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Contraxx Enterprises Limi,876-920-6180,procurement@contraxxenterprise.com.jm,3,4.8
+142,NCC-10142,Fujitsu Transaction Solutions (Ja) Ltd,IT & Office Supplies,Jamaica,Accounts Desk - Fujitsu Transaction Solut,876-921-6217,procurement@fujitsutransaction.com.jm,3,4.8
+143,NCC-10143,Ehc Industries Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Ehc Industries Limited,876-922-6254,procurement@ehcindustrieslimit.com.jm,3,4.8
+144,NCC-10144,Fabric Consultants Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Fabric Consultants Limite,876-923-6291,procurement@fabricconsultantsl.com.jm,3,4.8
+145,NCC-10145,Industrial & Technical Supples (Ja.) Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Industrial & Technical Su,876-924-6328,procurement@industrialtechnica.com.jm,3,4.8
+146,NCC-10146,Sibron Company Limited,IT & Office Supplies,Jamaica,Accounts Desk - Sibron Company Limited,876-925-6365,procurement@sibroncompanylimit.com.jm,3,4.8
+147,NCC-10147,Digital Transtec Limited,IT & Office Supplies,Jamaica,Accounts Desk - Digital Transtec Limited,876-926-6402,procurement@digitaltransteclim.com.jm,3,4.8
+148,NCC-10148,Asb Construction Ltd,General Merchandise & Goods,Jamaica,Accounts Desk - Asb Construction Ltd,876-927-6439,procurement@asbconstructionltd.com.jm,3,4.8
+149,NCC-10149,D. Bisasor & Associates Ltd.,General Merchandise & Goods,Jamaica,Accounts Desk - D. Bisasor & Associates L,876-928-6476,procurement@dbisasorassociates.com.jm,3,4.8
+150,NCC-10150,Vinci Construction Grands Projets,Facilities & Maintenance,Jamaica,Accounts Desk - Vinci Construction Grands,876-929-6513,procurement@vinciconstructiong.com.jm,4,4.7
+151,NCC-10151,West Indies Home Contractors Ltd.,Facilities & Maintenance,Jamaica,Accounts Desk - West Indies Home Contract,876-920-6550,procurement@westindieshomecont.com.jm,4,4.7
+152,NCC-10152,H.D.B. Construction Limited,General Merchandise & Goods,Jamaica,Accounts Desk - H.D.B. Construction Limit,876-921-6587,procurement@hdbconstructionlim.com.jm,4,4.7
+153,NCC-10153,National Solid Waste Management Authority,General Merchandise & Goods,Jamaica,Accounts Desk - National Solid Waste Mana,876-922-6624,procurement@nationalsolidwaste.com.jm,4,4.7
+154,NCC-10154,Jatlin Construction & Association Ltd.,General Merchandise & Goods,Jamaica,Accounts Desk - Jatlin Construction & Ass,876-923-6661,procurement@jatlinconstruction.com.jm,4,4.7
+155,NCC-10155,Ranger Protection & Security Company Limited,Food & Perishables,Jamaica,Accounts Desk - Ranger Protection & Secur,876-924-6698,procurement@rangerprotectionse.com.jm,4,4.7
+156,NCC-10156,Pricewaterhousecoopers,IT & Office Supplies,Jamaica,Accounts Desk - Pricewaterhousecoopers,876-925-6735,procurement@pricewaterhousecoo.com.jm,4,4.7
+157,NCC-10157,Protection And Security Limited,Logistics & Security,Jamaica,Accounts Desk - Protection And Security L,876-926-6772,procurement@protectionandsecur.com.jm,4,4.7
+158,NCC-10158,Sagicor Life Jamaica Limited,Food & Perishables,Jamaica,Accounts Desk - Sagicor Life Jamaica Limi,876-927-6809,procurement@sagicorlifejamaica.com.jm,4,4.7
+159,NCC-10159,Matrix Engineering Works Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Matrix Engineering Works ,876-928-6846,procurement@matrixengineeringw.com.jm,4,4.7
+160,NCC-10160,Abbott Laboratories,General Merchandise & Goods,Jamaica,Accounts Desk - Abbott Laboratories,876-929-6883,procurement@abbottlaboratories.com.jm,4,4.7
+161,NCC-10161,W.G. Walters Construction Company Limited,General Merchandise & Goods,Jamaica,Accounts Desk - W.G. Walters Construction,876-920-6920,procurement@wgwaltersconstruct.com.jm,4,4.7
+162,NCC-10162,Uop Llc,General Merchandise & Goods,Jamaica,Accounts Desk - Uop Llc,876-921-6957,procurement@uopllc.com.jm,4,4.7
+163,NCC-10163,Ranger Protection And Security Company Limited,Logistics & Security,Jamaica,Accounts Desk - Ranger Protection And Sec,876-922-6994,procurement@rangerprotectionan.com.jm,4,4.7
+164,NCC-10164,Dpk Information Systems Ja. Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Dpk Information Systems J,876-923-7031,procurement@dpkinformationsyst.com.jm,4,4.7
+165,NCC-10165,Pricewaterhousecoopers (Pwc),General Merchandise & Goods,Jamaica,Accounts Desk - Pricewaterhousecoopers (P,876-924-7068,procurement@pricewaterhousecoo.com.jm,4,4.7
+166,NCC-10166,Tankweld Construction Co. Ltd.,Facilities & Maintenance,Jamaica,Accounts Desk - Tankweld Construction Co.,876-925-7105,procurement@tankweldconstructi.com.jm,4,4.7
+167,NCC-10167,Disposables Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Disposables Limited,876-926-7142,procurement@disposableslimited.com.jm,4,4.7
+168,NCC-10168,Tridel Construction Group Inc. Ltd,General Merchandise & Goods,Jamaica,Accounts Desk - Tridel Construction Group,876-927-7179,procurement@tridelconstruction.com.jm,4,4.7
+169,NCC-10169,3M Interamerica Inc.,General Merchandise & Goods,Jamaica,Accounts Desk - 3M Interamerica Inc.,876-928-7216,procurement@3minteramericainc.com.jm,4,4.7
+170,NCC-10170,Gabions & Structures Co. Ltd,Logistics & Security,Jamaica,Accounts Desk - Gabions & Structures Co. ,876-929-7253,procurement@gabionsstructuresc.com.jm,4,4.7
+171,NCC-10171,Danem Engineers Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Danem Engineers Limited,876-920-7290,procurement@danemengineerslimi.com.jm,4,4.7
+172,NCC-10172,Go Global (Ja) Limited,Food & Perishables,Jamaica,Accounts Desk - Go Global (Ja) Limited,876-921-7327,procurement@goglobaljalimited.com.jm,4,4.7
+173,NCC-10173,Price Waterhouse Coopers,Food & Perishables,Jamaica,Accounts Desk - Price Waterhouse Coopers,876-922-7364,procurement@pricewaterhousecoo.com.jm,4,4.7
+174,NCC-10174,Alcar Construction & Haulage Company Ltd.,Facilities & Maintenance,Jamaica,Accounts Desk - Alcar Construction & Haul,876-923-7401,procurement@alcarconstructionh.com.jm,4,4.7
+175,NCC-10175,Multi-Angle Development Enterprise Ltd.,Facilities & Maintenance,Jamaica,Accounts Desk - Multi-Angle Development E,876-924-7438,procurement@multiangledevelopm.com.jm,4,4.7
+176,NCC-10176,Dell World Trade L.P.,IT & Office Supplies,Jamaica,Accounts Desk - Dell World Trade L.P.,876-925-7475,procurement@dellworldtradelp.com.jm,4,4.7
+177,NCC-10177,Digicel Jamaica Ltd,General Merchandise & Goods,Jamaica,Accounts Desk - Digicel Jamaica Ltd,876-926-7512,procurement@digiceljamaicaltd.com.jm,4,4.7
+178,NCC-10178,Chicon Enterprises Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Chicon Enterprises Limite,876-927-7549,procurement@chiconenterprisesl.com.jm,4,4.7
+179,NCC-10179,Walcan & Assoc. Ltd.,IT & Office Supplies,Jamaica,Accounts Desk - Walcan & Assoc. Ltd.,876-928-7586,procurement@walcanassocltd.com.jm,4,4.7
+180,NCC-10180,Appliance Traders Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Appliance Traders Limited,876-929-7623,procurement@appliancetradersli.com.jm,4,4.7
+181,NCC-10181,Ronham & Associates Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Ronham & Associates Limit,876-920-7660,procurement@ronhamassociatesli.com.jm,4,4.7
+182,NCC-10182,Stationery & Office Supplies Limited,IT & Office Supplies,Jamaica,Accounts Desk - Stationery & Office Suppl,876-921-7697,procurement@stationeryofficesu.com.jm,4,4.7
+183,NCC-10183,Sanjon Asphalting Co. Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Sanjon Asphalting Co. Lim,876-922-7734,procurement@sanjonasphaltingco.com.jm,4,4.7
+184,NCC-10184,Millers Electrical And Construction Co. Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Millers Electrical And Co,876-923-7771,procurement@millerselectricala.com.jm,4,4.7
+185,NCC-10185,Comfortair Engineering Limited,IT & Office Supplies,Jamaica,Accounts Desk - Comfortair Engineering Li,876-924-7808,procurement@comfortairengineer.com.jm,4,4.7
+186,NCC-10186,Neville Diaram,General Merchandise & Goods,Jamaica,Accounts Desk - Neville Diaram,876-925-7845,procurement@nevillediaram.com.jm,4,4.7
+187,NCC-10187,Chicon Enterprise Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Chicon Enterprise Limited,876-926-7882,procurement@chiconenterpriseli.com.jm,4,4.7
+188,NCC-10188,Cornwall Development & Engineers Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Cornwall Development & En,876-927-7919,procurement@cornwalldevelopmen.com.jm,4,4.7
+189,NCC-10189,Fidelity Motors Limited,Logistics & Security,Jamaica,Accounts Desk - Fidelity Motors Limited,876-928-7956,procurement@fidelitymotorslimi.com.jm,4,4.7
+190,NCC-10190,Patrick E. Thompson Ltd.,Facilities & Maintenance,Jamaica,Accounts Desk - Patrick E. Thompson Ltd.,876-929-7993,procurement@patrickethompsonlt.com.jm,4,4.7
+191,NCC-10191,E Pihl & Sons A.S.,Facilities & Maintenance,Jamaica,Accounts Desk - E Pihl & Sons A.S.,876-920-8030,procurement@epihlsonsas.com.jm,5,4.6
+192,NCC-10192,Surrey Paving & Aggregate Company Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Surrey Paving & Aggregate,876-921-8067,procurement@surreypavingaggreg.com.jm,5,4.6
+193,NCC-10193,Ashtrom Building Systems Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Ashtrom Building Systems ,876-922-8104,procurement@ashtrombuildingsys.com.jm,5,4.6
+194,NCC-10194,D. T. Brown Construction Ltd.,General Merchandise & Goods,Jamaica,Accounts Desk - D. T. Brown Construction ,876-923-8141,procurement@dtbrownconstructio.com.jm,5,4.6
+195,NCC-10195,Diving & Salvaging Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Diving & Salvaging Limite,876-924-8178,procurement@divingsalvaginglim.com.jm,5,4.6
+196,NCC-10196,Facey Commodity Company Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Facey Commodity Company L,876-925-8215,procurement@faceycommoditycomp.com.jm,5,4.6
+197,NCC-10197,Guardian Life Limited,Food & Perishables,Jamaica,Accounts Desk - Guardian Life Limited,876-926-8252,procurement@guardianlifelimite.com.jm,5,4.6
+198,NCC-10198,Carlong Publishers Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Carlong Publishers Limite,876-927-8289,procurement@carlongpublishersl.com.jm,5,4.6
+199,NCC-10199,Cooper & Associates Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Cooper & Associates Limit,876-928-8326,procurement@cooperassociatesli.com.jm,5,4.6
+200,NCC-10200,General Paving Company Limited,Facilities & Maintenance,Jamaica,Accounts Desk - General Paving Company Li,876-929-8363,procurement@generalpavingcompa.com.jm,5,4.6
+201,NCC-10201,Manpower And Maintenance Services Limited,Food & Perishables,Jamaica,Accounts Desk - Manpower And Maintenance ,876-920-8400,procurement@manpowerandmainten.com.jm,5,4.6
+202,NCC-10202,M & M Jamaica Ltd.,Facilities & Maintenance,Jamaica,Accounts Desk - M & M Jamaica Ltd.,876-921-8437,procurement@mmjamaicaltd.com.jm,5,4.6
+203,NCC-10203,Alcar Construction And Haulage Company Limited,IT & Office Supplies,Jamaica,Accounts Desk - Alcar Construction And Ha,876-922-8474,procurement@alcarconstructiona.com.jm,5,4.6
+204,NCC-10204,Medical Products Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Medical Products Limited,876-923-8511,procurement@medicalproductslim.com.jm,5,4.6
+205,NCC-10205,Sentry Services Security Company Limited,Food & Perishables,Jamaica,Accounts Desk - Sentry Services Security ,876-924-8548,procurement@sentryservicessecu.com.jm,5,4.6
+206,NCC-10206,Mott Macdonald,Facilities & Maintenance,Jamaica,Accounts Desk - Mott Macdonald,876-925-8585,procurement@mottmacdonald.com.jm,5,4.6
+207,NCC-10207,Jamaica Industrial Equipment Co. Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Jamaica Industrial Equipm,876-926-8622,procurement@jamaicaindustriale.com.jm,5,4.6
+208,NCC-10208,A.S. Edwards & Associates Limited,General Merchandise & Goods,Jamaica,Accounts Desk - A.S. Edwards & Associates,876-927-8659,procurement@asedwardsassociate.com.jm,5,4.6
+209,NCC-10209,Spatial Innovision Limited,IT & Office Supplies,Jamaica,Accounts Desk - Spatial Innovision Limite,876-928-8696,procurement@spatialinnovisionl.com.jm,5,4.6
+210,NCC-10210,G.M. & Associates Ltd.,General Merchandise & Goods,Jamaica,Accounts Desk - G.M. & Associates Ltd.,876-929-8733,procurement@gmassociatesltd.com.jm,5,4.6
+211,NCC-10211,Hetero Drugs Ltd,General Merchandise & Goods,Jamaica,Accounts Desk - Hetero Drugs Ltd,876-920-8770,procurement@heterodrugsltd.com.jm,5,4.6
+212,NCC-10212,Kalmar Industries Corp,General Merchandise & Goods,Jamaica,Accounts Desk - Kalmar Industries Corp,876-921-8807,procurement@kalmarindustriesco.com.jm,5,4.6
+213,NCC-10213,Enviro Planners Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Enviro Planners Limited,876-922-8844,procurement@enviroplannerslimi.com.jm,5,4.6
+214,NCC-10214,Industrial Sales Limited/Seprod,General Merchandise & Goods,Jamaica,Accounts Desk - Industrial Sales Limited/,876-923-8881,procurement@industrialsaleslim.com.jm,5,4.6
+215,NCC-10215,Renal Dynamics Llc,General Merchandise & Goods,Jamaica,Accounts Desk - Renal Dynamics Llc,876-924-8918,procurement@renaldynamicsllc.com.jm,5,4.6
+216,NCC-10216,Management Institute For National Development (Mind),General Merchandise & Goods,Jamaica,Accounts Desk - Management Institute For ,876-925-8955,procurement@managementinstitut.com.jm,5,4.6
+217,NCC-10217,Hydav Construction Company Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Hydav Construction Compan,876-926-8992,procurement@hydavconstructionc.com.jm,5,4.6
+218,NCC-10218,Minott Janitorial Services Limited,Food & Perishables,Jamaica,Accounts Desk - Minott Janitorial Service,876-927-9029,procurement@minottjanitorialse.com.jm,5,4.6
+219,NCC-10219,Another Star Is Born (Asb) Construction Company Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Another Star Is Born (Asb,876-928-9066,procurement@anotherstarisborna.com.jm,5,4.6
+220,NCC-10220,Chin'S Construction Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Chin'S Construction Limit,876-929-9103,procurement@chinsconstructionl.com.jm,5,4.6
+221,NCC-10221,Hood-Daniel Well Company Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Hood-Daniel Well Company ,876-920-9140,procurement@hooddanielwellcomp.com.jm,5,4.6
+222,NCC-10222,Tank-Weld Limited,Logistics & Security,Jamaica,Accounts Desk - Tank-Weld Limited,876-921-9177,procurement@tankweldlimited.com.jm,5,4.6
+223,NCC-10223,W.A. Reid Construction Company Limited,Facilities & Maintenance,Jamaica,Accounts Desk - W.A. Reid Construction Co,876-922-9214,procurement@wareidconstruction.com.jm,5,4.6
+224,NCC-10224,A.A. Laquis Limited,General Merchandise & Goods,Jamaica,Accounts Desk - A.A. Laquis Limited,876-923-9251,procurement@aalaquislimited.com.jm,5,4.6
+225,NCC-10225,Kingston Industrial Agencies Limited,Logistics & Security,Jamaica,Accounts Desk - Kingston Industrial Agenc,876-924-9288,procurement@kingstonindustrial.com.jm,5,4.6
+226,NCC-10226,Scientific & Medical Supplies Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Scientific & Medical Supp,876-925-9325,procurement@scientificmedicals.com.jm,5,4.6
+227,NCC-10227,Miller'S Electric And Construction Company Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Miller'S Electric And Con,876-926-9362,procurement@millerselectricand.com.jm,5,4.6
+228,NCC-10228,Kingston Industrial Construction Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Kingston Industrial Const,876-927-9399,procurement@kingstonindustrial.com.jm,5,4.6
+229,NCC-10229,Kiwijah Transportation Limited,IT & Office Supplies,Jamaica,Accounts Desk - Kiwijah Transportation Li,876-928-9436,procurement@kiwijahtransportat.com.jm,5,4.6
+230,NCC-10230,Y.P. Seaton & Associates Company Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Y.P. Seaton & Associates ,876-929-9473,procurement@ypseatonassociates.com.jm,5,4.6
+231,NCC-10231,Ronham & Associates Ltd,Facilities & Maintenance,Jamaica,Accounts Desk - Ronham & Associates Ltd,876-920-9510,procurement@ronhamassociateslt.com.jm,5,4.6
+232,NCC-10232,Robertson'S Motor Service Company Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Robertson'S Motor Service,876-921-9547,procurement@robertsonsmotorser.com.jm,5,4.6
+233,NCC-10233,Jentech Consultants Ltd,Food & Perishables,Jamaica,Accounts Desk - Jentech Consultants Ltd,876-922-9584,procurement@jentechconsultants.com.jm,5,4.6
+234,NCC-10234,Wayne Rich Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Wayne Rich Limited,876-923-9621,procurement@waynerichlimited.com.jm,5,4.6
+235,NCC-10235,Ibm World Trade Corporation,IT & Office Supplies,Jamaica,Accounts Desk - Ibm World Trade Corporati,876-924-9658,procurement@ibmworldtradecorpo.com.jm,5,4.6
+236,NCC-10236,Grace Kennedy & Company Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Grace Kennedy & Company L,876-925-9695,procurement@gracekennedycompan.com.jm,5,4.6
+237,NCC-10237,Microsurfacing Ltd.,General Merchandise & Goods,Jamaica,Accounts Desk - Microsurfacing Ltd.,876-926-9732,procurement@microsurfacingltd.com.jm,5,4.6
+238,NCC-10238,Moore Business Forms Caribbean Limited,IT & Office Supplies,Jamaica,Accounts Desk - Moore Business Forms Cari,876-927-9769,procurement@moorebusinessforms.com.jm,5,4.6
+239,NCC-10239,Synergy Engineering Limited,IT & Office Supplies,Jamaica,Accounts Desk - Synergy Engineering Limit,876-928-9806,procurement@synergyengineering.com.jm,5,4.6
+240,NCC-10240,Deloitte & Touche,Food & Perishables,Jamaica,Accounts Desk - Deloitte & Touche,876-929-9843,procurement@deloittetouche.com.jm,5,4.6
+241,NCC-10241,Donaldson Enterprises Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Donaldson Enterprises Lim,876-920-9880,procurement@donaldsonenterpris.com.jm,5,4.6
+242,NCC-10242,Donaldson'S Engineering Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Donaldson'S Engineering L,876-921-9917,procurement@donaldsonsengineer.com.jm,5,4.6
+243,NCC-10243,Sun Medico Ja. Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Sun Medico Ja. Limited,876-922-9954,procurement@sunmedicojalimited.com.jm,5,4.6
+244,NCC-10244,El-Mech Engineers Limited,General Merchandise & Goods,Jamaica,Accounts Desk - El-Mech Engineers Limited,876-923-9991,procurement@elmechengineerslim.com.jm,5,4.6
+245,NCC-10245,21St Century Building Services Limited,Facilities & Maintenance,Jamaica,Accounts Desk - 21St Century Building Ser,876-924-1029,procurement@21stcenturybuildin.com.jm,5,4.6
+246,NCC-10246,Guardsman Limited,Logistics & Security,Jamaica,Accounts Desk - Guardsman Limited,876-925-1066,procurement@guardsmanlimited.com.jm,5,4.6
+247,NCC-10247,Xyz Construction Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Xyz Construction Limited,876-926-1103,procurement@xyzconstructionlim.com.jm,5,4.6
+248,NCC-10248,Illuminat Jamaica Ltd.,IT & Office Supplies,Jamaica,Accounts Desk - Illuminat Jamaica Ltd.,876-927-1140,procurement@illuminatjamaicalt.com.jm,5,4.6
+249,NCC-10249,Focal Point Consulting Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Focal Point Consulting Li,876-928-1177,procurement@focalpointconsulti.com.jm,5,4.6
+250,NCC-10250,Central Supplies & Construction,General Merchandise & Goods,Jamaica,Accounts Desk - Central Supplies & Constr,876-929-1214,procurement@centralsuppliescon.com.jm,5,4.6
+251,NCC-10251,Management Control System Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Management Control System,876-920-1251,procurement@managementcontrols.com.jm,5,4.6
+252,NCC-10252,Leycar Engineers Ltd.,General Merchandise & Goods,Jamaica,Accounts Desk - Leycar Engineers Ltd.,876-921-1288,procurement@leycarengineersltd.com.jm,5,4.6
+253,NCC-10253,Phillida Hutchinson,IT & Office Supplies,Jamaica,Accounts Desk - Phillida Hutchinson,876-922-1325,procurement@phillidahutchinson.com.jm,5,4.6
+254,NCC-10254,Eagle Construction Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Eagle Construction Limite,876-923-1362,procurement@eagleconstructionl.com.jm,5,4.6
+255,NCC-10255,Laidmar Irrigation Company Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Laidmar Irrigation Compan,876-924-1399,procurement@laidmarirrigationc.com.jm,5,4.6
+256,NCC-10256,Seal Sprayed Solutions Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Seal Sprayed Solutions Li,876-925-1436,procurement@sealsprayedsolutio.com.jm,5,4.6
+257,NCC-10257,Ssp Aptec Limited,IT & Office Supplies,Jamaica,Accounts Desk - Ssp Aptec Limited,876-926-1473,procurement@sspapteclimited.com.jm,5,4.6
+258,NCC-10258,Contraxx Enterprises Limited,IT & Office Supplies,Jamaica,Accounts Desk - Contraxx Enterprises Limi,876-927-1510,procurement@contraxxenterprise.com.jm,5,4.6
+259,NCC-10259,General Painting Limited,Facilities & Maintenance,Jamaica,Accounts Desk - General Painting Limited,876-928-1547,procurement@generalpaintinglim.com.jm,5,4.6
+260,NCC-10260,Business Management Limited,IT & Office Supplies,Jamaica,Accounts Desk - Business Management Limit,876-929-1584,procurement@businessmanagement.com.jm,5,4.6
+261,NCC-10261,Sealand Electrical Sales & Services Co. Ltd,General Merchandise & Goods,Jamaica,Accounts Desk - Sealand Electrical Sales ,876-920-1621,procurement@sealandelectricals.com.jm,5,4.6
+262,NCC-10262,W.A. Reid Construction Company Ltd.,Facilities & Maintenance,Jamaica,Accounts Desk - W.A. Reid Construction Co,876-921-1658,procurement@wareidconstruction.com.jm,5,4.6
+263,NCC-10263,Maxwell Construction Company Ltd,Facilities & Maintenance,Jamaica,Accounts Desk - Maxwell Construction Comp,876-922-1695,procurement@maxwellconstructio.com.jm,5,4.6
+264,NCC-10264,Bbaiijing E-Design & Construction Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Bbaiijing E-Design & Cons,876-923-1732,procurement@bbaiijingedesignco.com.jm,5,4.6
+265,NCC-10265,Knightsman Limited,Food & Perishables,Jamaica,Accounts Desk - Knightsman Limited,876-924-1769,procurement@knightsmanlimited.com.jm,5,4.6
+266,NCC-10266,Bouygues Travaux Public,General Merchandise & Goods,Jamaica,Accounts Desk - Bouygues Travaux Public,876-925-1806,procurement@bouyguestravauxpub.com.jm,6,4.5
+267,NCC-10267,Sogea Satom,General Merchandise & Goods,Jamaica,Accounts Desk - Sogea Satom,876-926-1843,procurement@sogeasatom.com.jm,6,4.5
+268,NCC-10268,Jatlin Construction & Associates Ltd,Facilities & Maintenance,Jamaica,Accounts Desk - Jatlin Construction & Ass,876-927-1880,procurement@jatlinconstruction.com.jm,6,4.5
+269,NCC-10269,Motorola Inc,General Merchandise & Goods,Jamaica,Accounts Desk - Motorola Inc,876-928-1917,procurement@motorolainc.com.jm,6,4.5
+270,NCC-10270,Petroleum Company Of Jamaica Limited,Logistics & Security,Jamaica,Accounts Desk - Petroleum Company Of Jama,876-929-1954,procurement@petroleumcompanyof.com.jm,6,4.5
+271,NCC-10271,Tank-Weld Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Tank-Weld Limited,876-920-1991,procurement@tankweldlimited.com.jm,6,4.5
+272,NCC-10272,Stanley Consultants Inc.,Food & Perishables,Jamaica,Accounts Desk - Stanley Consultants Inc.,876-921-2028,procurement@stanleyconsultants.com.jm,6,4.5
+273,NCC-10273,Manpower And Maintenance Service Limited,Food & Perishables,Jamaica,Accounts Desk - Manpower And Maintenance ,876-922-2065,procurement@manpowerandmainten.com.jm,6,4.5
+274,NCC-10274,Draft Fcb,Food & Perishables,Jamaica,Accounts Desk - Draft Fcb,876-923-2102,procurement@draftfcb.com.jm,6,4.5
+275,NCC-10275,Advanced Integrated Systems Limited,IT & Office Supplies,Jamaica,Accounts Desk - Advanced Integrated Syste,876-924-2139,procurement@advancedintegrated.com.jm,6,4.5
+276,NCC-10276,Consumables Direct Sales Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Consumables Direct Sales ,876-925-2176,procurement@consumablesdirects.com.jm,6,4.5
+277,NCC-10277,Industrial & Municipal Supplies Inc.,General Merchandise & Goods,Jamaica,Accounts Desk - Industrial & Municipal Su,876-926-2213,procurement@industrialmunicipa.com.jm,6,4.5
+278,NCC-10278,Port Computer Services Limited,IT & Office Supplies,Jamaica,Accounts Desk - Port Computer Services Li,876-927-2250,procurement@portcomputerservic.com.jm,6,4.5
+279,NCC-10279,Digicel Jamaica Limited,Food & Perishables,Jamaica,Accounts Desk - Digicel Jamaica Limited,876-928-2287,procurement@digiceljamaicalimi.com.jm,6,4.5
+280,NCC-10280,T. Geddes Grant Limited,General Merchandise & Goods,Jamaica,Accounts Desk - T. Geddes Grant Limited,876-929-2324,procurement@tgeddesgrantlimite.com.jm,6,4.5
+281,NCC-10281,Alcar Construction & Haulage Company Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Alcar Construction & Haul,876-920-2361,procurement@alcarconstructionh.com.jm,6,4.5
+282,NCC-10282,Industrial & Technical Supplies Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Industrial & Technical Su,876-921-2398,procurement@industrialtechnica.com.jm,6,4.5
+283,NCC-10283,Jones Chemical Inc,General Merchandise & Goods,Jamaica,Accounts Desk - Jones Chemical Inc,876-922-2435,procurement@joneschemicalinc.com.jm,6,4.5
+284,NCC-10284,G .M. & Associates Ltd.,Facilities & Maintenance,Jamaica,Accounts Desk - G .M. & Associates Ltd.,876-923-2472,procurement@gmassociatesltd.com.jm,6,4.5
+285,NCC-10285,Ian K (Agencies) Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Ian K (Agencies) Limited,876-924-2509,procurement@iankagencieslimite.com.jm,6,4.5
+286,NCC-10286,Construction Solutions Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Construction Solutions Li,876-925-2546,procurement@constructionsoluti.com.jm,6,4.5
+287,NCC-10287,Roche Diagnostics,General Merchandise & Goods,Jamaica,Accounts Desk - Roche Diagnostics,876-926-2583,procurement@rochediagnostics.com.jm,6,4.5
+288,NCC-10288,Jatlin Construction & Associates Ltd.,Facilities & Maintenance,Jamaica,Accounts Desk - Jatlin Construction & Ass,876-927-2620,procurement@jatlinconstruction.com.jm,6,4.5
+289,NCC-10289,Kingston Industrial Garage,General Merchandise & Goods,Jamaica,Accounts Desk - Kingston Industrial Garag,876-928-2657,procurement@kingstonindustrial.com.jm,6,4.5
+290,NCC-10290,Chicago Bridge & Iron Ltd,General Merchandise & Goods,Jamaica,Accounts Desk - Chicago Bridge & Iron Ltd,876-929-2694,procurement@chicagobridgeironl.com.jm,6,4.5
+291,NCC-10291,W. A. Reid Construction Co. Ltd.,Facilities & Maintenance,Jamaica,Accounts Desk - W. A. Reid Construction C,876-920-2731,procurement@wareidconstruction.com.jm,6,4.5
+292,NCC-10292,Protection Security Company Limited,Food & Perishables,Jamaica,Accounts Desk - Protection Security Compa,876-921-2768,procurement@protectionsecurity.com.jm,6,4.5
+293,NCC-10293,Please Contact Agency For Further Details,Logistics & Security,Jamaica,Accounts Desk - Please Contact Agency For,876-922-2805,procurement@pleasecontactagenc.com.jm,6,4.5
+294,NCC-10294,T. Geddes Grant Distributors Limited,General Merchandise & Goods,Jamaica,Accounts Desk - T. Geddes Grant Distribut,876-923-2842,procurement@tgeddesgrantdistri.com.jm,6,4.5
+295,NCC-10295,Solid Engineering Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Solid Engineering Limited,876-924-2879,procurement@solidengineeringli.com.jm,6,4.5
+296,NCC-10296,A.E. Parnell & Company Ltd.,Food & Perishables,Jamaica,Accounts Desk - A.E. Parnell & Company Lt,876-925-2916,procurement@aeparnellcompanylt.com.jm,6,4.5
+297,NCC-10297,Eniath'S Printing Company Limited,Food & Perishables,Jamaica,Accounts Desk - Eniath'S Printing Company,876-926-2953,procurement@eniathsprintingcom.com.jm,6,4.5
+298,NCC-10298,Designs By Marc Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Designs By Marc Limited,876-927-2990,procurement@designsbymarclimit.com.jm,6,4.5
+299,NCC-10299,Novo Nordisk,General Merchandise & Goods,Jamaica,Accounts Desk - Novo Nordisk,876-928-3027,procurement@novonordisk.com.jm,6,4.5
+300,NCC-10300,"3M Interamerica, Inc.",Food & Perishables,Jamaica,"Accounts Desk - 3M Interamerica, Inc.",876-929-3064,procurement@3minteramericainc.com.jm,6,4.5
+301,NCC-10301,Alcar Construction & Haulage Co. Ltd.,Facilities & Maintenance,Jamaica,Accounts Desk - Alcar Construction & Haul,876-920-3101,procurement@alcarconstructionh.com.jm,6,4.5
+302,NCC-10302,Bell Communications Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Bell Communications Limit,876-921-3138,procurement@bellcommunications.com.jm,6,4.5
+303,NCC-10303,Newport-Fersan (Jamaica) Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Newport-Fersan (Jamaica) ,876-922-3175,procurement@newportfersanjamai.com.jm,6,4.5
+304,NCC-10304,Samson Equipment And Haulage,General Merchandise & Goods,Jamaica,Accounts Desk - Samson Equipment And Haul,876-923-3212,procurement@samsonequipmentand.com.jm,6,4.5
+305,NCC-10305,Apec Consultants Limited,Food & Perishables,Jamaica,Accounts Desk - Apec Consultants Limited,876-924-3249,procurement@apecconsultantslim.com.jm,6,4.5
+306,NCC-10306,Medianet Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Medianet Limited,876-925-3286,procurement@medianetlimited.com.jm,6,4.5
+307,NCC-10307,Alcar Construction Company Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Alcar Construction Compan,876-926-3323,procurement@alcarconstructionc.com.jm,6,4.5
+308,NCC-10308,Digicel (Jamaica) Limited,Food & Perishables,Jamaica,Accounts Desk - Digicel (Jamaica) Limited,876-927-3360,procurement@digiceljamaicalimi.com.jm,6,4.5
+309,NCC-10309,Imca Jamaica Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Imca Jamaica Limited,876-928-3397,procurement@imcajamaicalimited.com.jm,6,4.5
+310,NCC-10310,Chin'S Equipment Rentals And Construction Company Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Chin'S Equipment Rentals ,876-929-3434,procurement@chinsequipmentrent.com.jm,6,4.5
+311,NCC-10311,_____,Logistics & Security,Jamaica,Accounts Desk - _____,876-920-3471,procurement@supplier.com.jm,6,4.5
+312,NCC-10312,Cargotec Limited,Food & Perishables,Jamaica,Accounts Desk - Cargotec Limited,876-921-3508,procurement@cargoteclimited.com.jm,6,4.5
+313,NCC-10313,Jatlin Construction & Associates Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Jatlin Construction & Ass,876-922-3545,procurement@jatlinconstruction.com.jm,6,4.5
+314,NCC-10314,Industrial Chemicals Company Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Industrial Chemicals Comp,876-923-3582,procurement@industrialchemical.com.jm,6,4.5
+315,NCC-10315,Media Net Limited,IT & Office Supplies,Jamaica,Accounts Desk - Media Net Limited,876-924-3619,procurement@medianetlimited.com.jm,6,4.5
+316,NCC-10316,Premier Business Services Ja. Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Premier Business Services,876-925-3656,procurement@premierbusinessser.com.jm,6,4.5
+317,NCC-10317,Accupower Jamaica Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Accupower Jamaica Limited,876-926-3693,procurement@accupowerjamaicali.com.jm,6,4.5
+318,NCC-10318,Aegisco Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Aegisco Limited,876-927-3730,procurement@aegiscolimited.com.jm,6,4.5
+319,NCC-10319,Modoffice By Ehc Industries Ltd,General Merchandise & Goods,Jamaica,Accounts Desk - Modoffice By Ehc Industri,876-928-3767,procurement@modofficebyehcindu.com.jm,6,4.5
+320,NCC-10320,Dpk Information Systems Limited,Food & Perishables,Jamaica,Accounts Desk - Dpk Information Systems L,876-929-3804,procurement@dpkinformationsyst.com.jm,6,4.5
+321,NCC-10321,Allied Insurance Brokers Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Allied Insurance Brokers ,876-920-3841,procurement@alliedinsurancebro.com.jm,6,4.5
+322,NCC-10322,Ricam Construction Company,Facilities & Maintenance,Jamaica,Accounts Desk - Ricam Construction Compan,876-921-3878,procurement@ricamconstructionc.com.jm,6,4.5
+323,NCC-10323,Llewelyn Allen & Associates,General Merchandise & Goods,Jamaica,Accounts Desk - Llewelyn Allen & Associat,876-922-3915,procurement@llewelynallenassoc.com.jm,6,4.5
+324,NCC-10324,Ranbaxy Laboratories,General Merchandise & Goods,Jamaica,Accounts Desk - Ranbaxy Laboratories,876-923-3952,procurement@ranbaxylaboratorie.com.jm,6,4.5
+325,NCC-10325,Remedica Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Remedica Limited,876-924-3989,procurement@remedicalimited.com.jm,6,4.5
+326,NCC-10326,Heathenson Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Heathenson Limited,876-925-4026,procurement@heathensonlimited.com.jm,6,4.5
+327,NCC-10327,Neveast Supplies Limited,IT & Office Supplies,Jamaica,Accounts Desk - Neveast Supplies Limited,876-926-4063,procurement@neveastsupplieslim.com.jm,6,4.5
+328,NCC-10328,"North Florida Shipyards, Inc.",General Merchandise & Goods,Jamaica,"Accounts Desk - North Florida Shipyards, ",876-927-4100,procurement@northfloridashipya.com.jm,6,4.5
+329,NCC-10329,Arima Engineering Company Limited,IT & Office Supplies,Jamaica,Accounts Desk - Arima Engineering Company,876-928-4137,procurement@arimaengineeringco.com.jm,6,4.5
+330,NCC-10330,3M Jamaica,IT & Office Supplies,Jamaica,Accounts Desk - 3M Jamaica,876-929-4174,procurement@3mjamaica.com.jm,6,4.5
+331,NCC-10331,Deloitte Touche Tohmatsu,Food & Perishables,Jamaica,Accounts Desk - Deloitte Touche Tohmatsu,876-920-4211,procurement@deloittetouchetohm.com.jm,6,4.5
+332,NCC-10332,Eagle Courier Service,Food & Perishables,Jamaica,Accounts Desk - Eagle Courier Service,876-921-4248,procurement@eaglecourierservic.com.jm,6,4.5
+333,NCC-10333,Management Control Systems Limited,IT & Office Supplies,Jamaica,Accounts Desk - Management Control System,876-922-4285,procurement@managementcontrols.com.jm,6,4.5
+334,NCC-10334,Business Management Limited,IT & Office Supplies,Jamaica,Accounts Desk - Business Management Limit,876-923-4322,procurement@businessmanagement.com.jm,6,4.5
+335,NCC-10335,Geecho Consultants & Construction Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Geecho Consultants & Cons,876-924-4359,procurement@geechoconsultantsc.com.jm,6,4.5
+336,NCC-10336,Eastern Saint Thomas Construction Company,IT & Office Supplies,Jamaica,Accounts Desk - Eastern Saint Thomas Cons,876-925-4396,procurement@easternsaintthomas.com.jm,6,4.5
+337,NCC-10337,Management Control Systems Limited,IT & Office Supplies,Jamaica,Accounts Desk - Management Control System,876-926-4433,procurement@managementcontrols.com.jm,6,4.5
+338,NCC-10338,Quality Engineering & Construction Ltd.,General Merchandise & Goods,Jamaica,Accounts Desk - Quality Engineering & Con,876-927-4470,procurement@qualityengineering.com.jm,6,4.5
+339,NCC-10339,Astra Zeneca,General Merchandise & Goods,Jamaica,Accounts Desk - Astra Zeneca,876-928-4507,procurement@astrazeneca.com.jm,6,4.5
+340,NCC-10340,Aegisco Ltd,Facilities & Maintenance,Jamaica,Accounts Desk - Aegisco Ltd,876-929-4544,procurement@aegiscoltd.com.jm,6,4.5
+341,NCC-10341,Another Star Is Born Construction Company Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Another Star Is Born Cons,876-920-4581,procurement@anotherstarisbornc.com.jm,6,4.5
+342,NCC-10342,Mustang Construction & Engineering Company Limited,IT & Office Supplies,Jamaica,Accounts Desk - Mustang Construction & En,876-921-4618,procurement@mustangconstructio.com.jm,6,4.5
+343,NCC-10343,Bristol Myers Squibb,General Merchandise & Goods,Jamaica,Accounts Desk - Bristol Myers Squibb,876-922-4655,procurement@bristolmyerssquibb.com.jm,6,4.5
+344,NCC-10344,Hdb Construction Company Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Hdb Construction Company ,876-923-4692,procurement@hdbconstructioncom.com.jm,6,4.5
+345,NCC-10345,Rock & Dirt (Ja) Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Rock & Dirt (Ja) Limited,876-924-4729,procurement@rockdirtjalimited.com.jm,6,4.5
+346,NCC-10346,V.O. Watson & O'Neil Associates Limited,Facilities & Maintenance,Jamaica,Accounts Desk - V.O. Watson & O'Neil Asso,876-925-4766,procurement@vowatsononeilassoc.com.jm,6,4.5
+347,NCC-10347,Productive Business Solutions Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Productive Business Solut,876-926-4803,procurement@productivebusiness.com.jm,6,4.5
+348,NCC-10348,Marksman Limited,IT & Office Supplies,Jamaica,Accounts Desk - Marksman Limited,876-927-4840,procurement@marksmanlimited.com.jm,6,4.5
+349,NCC-10349,Renal Dynamics Of N. America,General Merchandise & Goods,Jamaica,Accounts Desk - Renal Dynamics Of N. Amer,876-928-4877,procurement@renaldynamicsofnam.com.jm,6,4.5
+350,NCC-10350,S. Green & Associates Company Limited,General Merchandise & Goods,Jamaica,Accounts Desk - S. Green & Associates Com,876-929-4914,procurement@sgreenassociatesco.com.jm,6,4.5
+351,NCC-10351,C.G.R. Communications Limited,General Merchandise & Goods,Jamaica,Accounts Desk - C.G.R. Communications Lim,876-920-4951,procurement@cgrcommunicationsl.com.jm,6,4.5
+352,NCC-10352,Howard Construction Company,Facilities & Maintenance,Jamaica,Accounts Desk - Howard Construction Compa,876-921-4988,procurement@howardconstruction.com.jm,6,4.5
+353,NCC-10353,Industrial And Technical Supplies (Ja.) Ltd.,Food & Perishables,Jamaica,Accounts Desk - Industrial And Technical ,876-922-5025,procurement@industrialandtechn.com.jm,6,4.5
+354,NCC-10354,Pord Construction,Facilities & Maintenance,Jamaica,Accounts Desk - Pord Construction,876-923-5062,procurement@pordconstruction.com.jm,6,4.5
+355,NCC-10355,Seprod Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Seprod Limited,876-924-5099,procurement@seprodlimited.com.jm,6,4.5
+356,NCC-10356,Caribbean Electrical Company Ltd.,Facilities & Maintenance,Jamaica,Accounts Desk - Caribbean Electrical Comp,876-925-5136,procurement@caribbeanelectrica.com.jm,6,4.5
+357,NCC-10357,Grace Kennedy & Company Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Grace Kennedy & Company L,876-926-5173,procurement@gracekennedycompan.com.jm,6,4.5
+358,NCC-10358,Perry'S Construction & Draughting,General Merchandise & Goods,Jamaica,Accounts Desk - Perry'S Construction & Dr,876-927-5210,procurement@perrysconstruction.com.jm,6,4.5
+359,NCC-10359,Fujitsu Transaction Solutions,General Merchandise & Goods,Jamaica,Accounts Desk - Fujitsu Transaction Solut,876-928-5247,procurement@fujitsutransaction.com.jm,6,4.5
+360,NCC-10360,Highlight Electrical Sales & Services Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Highlight Electrical Sale,876-929-5284,procurement@highlightelectrica.com.jm,6,4.5
+361,NCC-10361,Cgm Insurance Brokers Jamaica Limited,Food & Perishables,Jamaica,Accounts Desk - Cgm Insurance Brokers Jam,876-920-5321,procurement@cgminsurancebroker.com.jm,7,4.4
+362,NCC-10362,Cgm Gallagher Insurance Brokers Jamaica Limited,Food & Perishables,Jamaica,Accounts Desk - Cgm Gallagher Insurance B,876-921-5358,procurement@cgmgallagherinsura.com.jm,7,4.4
+363,NCC-10363,Cbi Jamaica Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Cbi Jamaica Limited,876-922-5395,procurement@cbijamaicalimited.com.jm,7,4.4
+364,NCC-10364,Pratt & Whitney Norway Engine Center,Food & Perishables,Jamaica,Accounts Desk - Pratt & Whitney Norway En,876-923-5432,procurement@prattwhitneynorway.com.jm,7,4.4
+365,NCC-10365,Fluid Systems Engineering Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Fluid Systems Engineering,876-924-5469,procurement@fluidsystemsengine.com.jm,7,4.4
+366,NCC-10366,Build Rite Construction Company Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Build Rite Construction C,876-925-5506,procurement@buildriteconstruct.com.jm,7,4.4
+367,NCC-10367,Canadian Bank Note Company (Cbn),General Merchandise & Goods,Jamaica,Accounts Desk - Canadian Bank Note Compan,876-926-5543,procurement@canadianbanknoteco.com.jm,7,4.4
+368,NCC-10368,Kingston Bookshop,General Merchandise & Goods,Jamaica,Accounts Desk - Kingston Bookshop,876-927-5580,procurement@kingstonbookshop.com.jm,7,4.4
+369,NCC-10369,Nationwide News Network,General Merchandise & Goods,Jamaica,Accounts Desk - Nationwide News Network,876-928-5617,procurement@nationwidenewsnetw.com.jm,7,4.4
+370,NCC-10370,Science Application International Corporation (Saic),Food & Perishables,Jamaica,Accounts Desk - Science Application Inter,876-929-5654,procurement@scienceapplication.com.jm,7,4.4
+371,NCC-10371,Macmillan Publishers Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Macmillan Publishers Limi,876-920-5691,procurement@macmillanpublisher.com.jm,7,4.4
+372,NCC-10372,Baxter Sales & Distribution Corporation,General Merchandise & Goods,Jamaica,Accounts Desk - Baxter Sales & Distributi,876-921-5728,procurement@baxtersalesdistrib.com.jm,7,4.4
+373,NCC-10373,Build Rite Construction Company Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Build Rite Construction C,876-922-5765,procurement@buildriteconstruct.com.jm,7,4.4
+374,NCC-10374,M & M  Limited,Facilities & Maintenance,Jamaica,Accounts Desk - M & M  Limited,876-923-5802,procurement@mmlimited.com.jm,7,4.4
+375,NCC-10375,Geddes Refrigeration Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Geddes Refrigeration Limi,876-924-5839,procurement@geddesrefrigeratio.com.jm,7,4.4
+376,NCC-10376,Glaxosmithkline Caribbean Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Glaxosmithkline Caribbean,876-925-5876,procurement@glaxosmithklinecar.com.jm,7,4.4
+377,NCC-10377,Jentech Consultants Limited,Food & Perishables,Jamaica,Accounts Desk - Jentech Consultants Limit,876-926-5913,procurement@jentechconsultants.com.jm,7,4.4
+378,NCC-10378,B & E Caterers,General Merchandise & Goods,Jamaica,Accounts Desk - B & E Caterers,876-927-5950,procurement@becaterers.com.jm,7,4.4
+379,NCC-10379,N.O. Whyte & Associates Limited,General Merchandise & Goods,Jamaica,Accounts Desk - N.O. Whyte & Associates L,876-928-5987,procurement@nowhyteassociatesl.com.jm,7,4.4
+380,NCC-10380,Milestone Environmental Limited,Food & Perishables,Jamaica,Accounts Desk - Milestone Environmental L,876-929-6024,procurement@milestoneenvironme.com.jm,7,4.4
+381,NCC-10381,Commnett (Jamaica) Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Commnett (Jamaica) Limite,876-920-6061,procurement@commnettjamaicalim.com.jm,7,4.4
+382,NCC-10382,Bloomfield Jamaica Limited,Food & Perishables,Jamaica,Accounts Desk - Bloomfield Jamaica Limite,876-921-6098,procurement@bloomfieldjamaical.com.jm,7,4.4
+383,NCC-10383,Lagan-Surrey Joint Venture,IT & Office Supplies,Jamaica,Accounts Desk - Lagan-Surrey Joint Ventur,876-922-6135,procurement@lagansurreyjointve.com.jm,7,4.4
+384,NCC-10384,Wedderbees,General Merchandise & Goods,Jamaica,Accounts Desk - Wedderbees,876-923-6172,procurement@wedderbees.com.jm,7,4.4
+385,NCC-10385,Tsc Supply Company,General Merchandise & Goods,Jamaica,Accounts Desk - Tsc Supply Company,876-924-6209,procurement@tscsupplycompany.com.jm,7,4.4
+386,NCC-10386,Fay Dawkins,General Merchandise & Goods,Jamaica,Accounts Desk - Fay Dawkins,876-925-6246,procurement@faydawkins.com.jm,7,4.4
+387,NCC-10387,Blue Cross Of Jamaica,Food & Perishables,Jamaica,Accounts Desk - Blue Cross Of Jamaica,876-926-6283,procurement@bluecrossofjamaica.com.jm,7,4.4
+388,NCC-10388,Ranbaxy Laboratories Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Ranbaxy Laboratories Limi,876-927-6320,procurement@ranbaxylaboratorie.com.jm,7,4.4
+389,NCC-10389,Tankweld Construction Company Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Tankweld Construction Com,876-928-6357,procurement@tankweldconstructi.com.jm,7,4.4
+390,NCC-10390,G.M. And Associates Limited.,IT & Office Supplies,Jamaica,Accounts Desk - G.M. And Associates Limit,876-929-6394,procurement@gmandassociateslim.com.jm,7,4.4
+391,NCC-10391,Modern Investigation And Security Company Limited,Food & Perishables,Jamaica,Accounts Desk - Modern Investigation And ,876-920-6431,procurement@moderninvestigatio.com.jm,7,4.4
+392,NCC-10392,Lascelles Laboratories Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Lascelles Laboratories Li,876-921-6468,procurement@lascelleslaborator.com.jm,7,4.4
+393,NCC-10393,Frederick Rodriques & Associates Ltd.,General Merchandise & Goods,Jamaica,Accounts Desk - Frederick Rodriques & Ass,876-922-6505,procurement@frederickrodriques.com.jm,7,4.4
+394,NCC-10394,Roche Diagnostics Division,General Merchandise & Goods,Jamaica,Accounts Desk - Roche Diagnostics Divisio,876-923-6542,procurement@rochediagnosticsdi.com.jm,7,4.4
+395,NCC-10395,Dilieu Technology,General Merchandise & Goods,Jamaica,Accounts Desk - Dilieu Technology,876-924-6579,procurement@dilieutechnology.com.jm,7,4.4
+396,NCC-10396,Exterior Iii Construction Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Exterior Iii Construction,876-925-6616,procurement@exterioriiiconstru.com.jm,7,4.4
+397,NCC-10397,C .A.B. Construction,Facilities & Maintenance,Jamaica,Accounts Desk - C .A.B. Construction,876-926-6653,procurement@cabconstruction.com.jm,7,4.4
+398,NCC-10398,Geddes Refrigeration Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Geddes Refrigeration Limi,876-927-6690,procurement@geddesrefrigeratio.com.jm,7,4.4
+399,NCC-10399,Pavements & Structures Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Pavements & Structures Li,876-928-6727,procurement@pavementsstructure.com.jm,7,4.4
+400,NCC-10400,J. H. Dunstan & Associates,General Merchandise & Goods,Jamaica,Accounts Desk - J. H. Dunstan & Associate,876-929-6764,procurement@jhdunstanassociate.com.jm,7,4.4
+401,NCC-10401,Michael Lake & Associates,Food & Perishables,Jamaica,Accounts Desk - Michael Lake & Associates,876-920-6801,procurement@michaellakeassocia.com.jm,7,4.4
+402,NCC-10402,D.Bisasor & Associates Limited,Facilities & Maintenance,Jamaica,Accounts Desk - D.Bisasor & Associates Li,876-921-6838,procurement@dbisasorassociates.com.jm,7,4.4
+403,NCC-10403,Pa Infrastructure & Development Services Ltd,General Merchandise & Goods,Jamaica,Accounts Desk - Pa Infrastructure & Devel,876-922-6875,procurement@painfrastructurede.com.jm,7,4.4
+404,NCC-10404,Dwight'S Construction Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Dwight'S Construction Lim,876-923-6912,procurement@dwightsconstructio.com.jm,7,4.4
+405,NCC-10405,Brighton Engineers Ltd.,General Merchandise & Goods,Jamaica,Accounts Desk - Brighton Engineers Ltd.,876-924-6949,procurement@brightonengineersl.com.jm,7,4.4
+406,NCC-10406,Uni-Med Health Care Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Uni-Med Health Care Limit,876-925-6986,procurement@unimedhealthcareli.com.jm,7,4.4
+407,NCC-10407,Marathon Insurance Brokers Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Marathon Insurance Broker,876-926-7023,procurement@marathoninsuranceb.com.jm,7,4.4
+408,NCC-10408,Guardsman Armoured Limited,Food & Perishables,Jamaica,Accounts Desk - Guardsman Armoured Limite,876-927-7060,procurement@guardsmanarmouredl.com.jm,7,4.4
+409,NCC-10409,Roche Diagnostics-Lasco Distributors Ltd,Food & Perishables,Jamaica,Accounts Desk - Roche Diagnostics-Lasco D,876-928-7097,procurement@rochediagnosticsla.com.jm,7,4.4
+410,NCC-10410,B & H Structures Ltd.,Facilities & Maintenance,Jamaica,Accounts Desk - B & H Structures Ltd.,876-929-7134,procurement@bhstructuresltd.com.jm,7,4.4
+411,NCC-10411,H.D.B. Construction Limited,General Merchandise & Goods,Jamaica,Accounts Desk - H.D.B. Construction Limit,876-920-7171,procurement@hdbconstructionlim.com.jm,7,4.4
+412,NCC-10412,Meto Corporation Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Meto Corporation Limited,876-921-7208,procurement@metocorporationlim.com.jm,7,4.4
+413,NCC-10413,Medi-Grace Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Medi-Grace Limited,876-922-7245,procurement@medigracelimited.com.jm,7,4.4
+414,NCC-10414,Prism Communications Limited,Food & Perishables,Jamaica,Accounts Desk - Prism Communications Limi,876-923-7282,procurement@prismcommunication.com.jm,7,4.4
+415,NCC-10415,Quest Security Services,Food & Perishables,Jamaica,Accounts Desk - Quest Security Services,876-924-7319,procurement@questsecurityservi.com.jm,7,4.4
+416,NCC-10416,Price Waterhouse Coopers (Pwc),General Merchandise & Goods,Jamaica,Accounts Desk - Price Waterhouse Coopers ,876-925-7356,procurement@pricewaterhousecoo.com.jm,7,4.4
+417,NCC-10417,Allied Insurance Brokers,Food & Perishables,Jamaica,Accounts Desk - Allied Insurance Brokers,876-926-7393,procurement@alliedinsurancebro.com.jm,7,4.4
+418,NCC-10418,Key Motors Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Key Motors Limited,876-927-7430,procurement@keymotorslimited.com.jm,7,4.4
+419,NCC-10419,Chin'S Equipment Rental And Construction Company Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Chin'S Equipment Rental A,876-928-7467,procurement@chinsequipmentrent.com.jm,7,4.4
+420,NCC-10420,Jamaica Industrial Equipment Company Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Jamaica Industrial Equipm,876-929-7504,procurement@jamaicaindustriale.com.jm,7,4.4
+421,NCC-10421,Asphalting Specialist Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Asphalting Specialist Lim,876-920-7541,procurement@asphaltingspeciali.com.jm,7,4.4
+422,NCC-10422,S. G. Simpson Asphalting Co. Ltd.,Facilities & Maintenance,Jamaica,Accounts Desk - S. G. Simpson Asphalting ,876-921-7578,procurement@sgsimpsonasphaltin.com.jm,7,4.4
+423,NCC-10423,Shopust.Com,General Merchandise & Goods,Jamaica,Accounts Desk - Shopust.Com,876-922-7615,procurement@shopustcom.com.jm,7,4.4
+424,NCC-10424,Lasco Distributors Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Lasco Distributors Limite,876-923-7652,procurement@lascodistributorsl.com.jm,7,4.4
+425,NCC-10425,Atos Consulting,Food & Perishables,Jamaica,Accounts Desk - Atos Consulting,876-924-7689,procurement@atosconsulting.com.jm,7,4.4
+426,NCC-10426,Beckford And Dixon Ltd,General Merchandise & Goods,Jamaica,Accounts Desk - Beckford And Dixon Ltd,876-925-7726,procurement@beckfordanddixonlt.com.jm,7,4.4
+427,NCC-10427,Mlo Services Limited,IT & Office Supplies,Jamaica,Accounts Desk - Mlo Services Limited,876-926-7763,procurement@mloserviceslimited.com.jm,7,4.4
+428,NCC-10428,Abbott Laboratories P.R. Inc.,General Merchandise & Goods,Jamaica,Accounts Desk - Abbott Laboratories P.R. ,876-927-7800,procurement@abbottlaboratories.com.jm,7,4.4
+429,NCC-10429,A1 Construction Co. Limited,Facilities & Maintenance,Jamaica,Accounts Desk - A1 Construction Co. Limit,876-928-7837,procurement@a1constructioncoli.com.jm,7,4.4
+430,NCC-10430,Mccluskey International Ltd,Food & Perishables,Jamaica,Accounts Desk - Mccluskey International L,876-929-7874,procurement@mccluskeyinternati.com.jm,7,4.4
+431,NCC-10431,Industrial Chemical Company Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Industrial Chemical Compa,876-920-7911,procurement@industrialchemical.com.jm,7,4.4
+432,NCC-10432,Economic Maintenance Products Ltd.,IT & Office Supplies,Jamaica,Accounts Desk - Economic Maintenance Prod,876-921-7948,procurement@economicmaintenanc.com.jm,7,4.4
+433,NCC-10433,Atl Automotive Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Atl Automotive Limited,876-922-7985,procurement@atlautomotivelimit.com.jm,7,4.4
+434,NCC-10434,S .Green & Associates Company Limited,Facilities & Maintenance,Jamaica,Accounts Desk - S .Green & Associates Com,876-923-8022,procurement@sgreenassociatesco.com.jm,7,4.4
+435,NCC-10435,Michelin Panama Corp.,General Merchandise & Goods,Jamaica,Accounts Desk - Michelin Panama Corp.,876-924-8059,procurement@michelinpanamacorp.com.jm,7,4.4
+436,NCC-10436,Cleaver Brooks Inc,General Merchandise & Goods,Jamaica,Accounts Desk - Cleaver Brooks Inc,876-925-8096,procurement@cleaverbrooksinc.com.jm,7,4.4
+437,NCC-10437,Stewarts Auto Sales And Service,General Merchandise & Goods,Jamaica,Accounts Desk - Stewarts Auto Sales And S,876-926-8133,procurement@stewartsautosalesa.com.jm,7,4.4
+438,NCC-10438,Smiths Detention,Logistics & Security,Jamaica,Accounts Desk - Smiths Detention,876-927-8170,procurement@smithsdetention.com.jm,7,4.4
+439,NCC-10439,Florida Aquastore Ltd,General Merchandise & Goods,Jamaica,Accounts Desk - Florida Aquastore Ltd,876-928-8207,procurement@floridaaquastorelt.com.jm,7,4.4
+440,NCC-10440,Von Hoffmann Corporation,Food & Perishables,Jamaica,Accounts Desk - Von Hoffmann Corporation,876-929-8244,procurement@vonhoffmanncorpora.com.jm,7,4.4
+441,NCC-10441,Forensic Technology Wai Inc.,General Merchandise & Goods,Jamaica,Accounts Desk - Forensic Technology Wai I,876-920-8281,procurement@forensictechnology.com.jm,7,4.4
+442,NCC-10442,C.P. Specialists Limited,Facilities & Maintenance,Jamaica,Accounts Desk - C.P. Specialists Limited,876-921-8318,procurement@cpspecialistslimit.com.jm,7,4.4
+443,NCC-10443,Kingston Industrial Construction Co. Ltd.,General Merchandise & Goods,Jamaica,Accounts Desk - Kingston Industrial Const,876-922-8355,procurement@kingstonindustrial.com.jm,7,4.4
+444,NCC-10444,Elkims Construction Co. Ltd.,IT & Office Supplies,Jamaica,Accounts Desk - Elkims Construction Co. L,876-923-8392,procurement@elkimsconstruction.com.jm,7,4.4
+445,NCC-10445,Machinery And Service Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Machinery And Service Lim,876-924-8429,procurement@machineryandservic.com.jm,7,4.4
+446,NCC-10446,Island Woods & Development Limited,Food & Perishables,Jamaica,Accounts Desk - Island Woods & Developmen,876-925-8466,procurement@islandwoodsdevelop.com.jm,7,4.4
+447,NCC-10447,Fraser Fontaine & Kong Limited,Food & Perishables,Jamaica,Accounts Desk - Fraser Fontaine & Kong Li,876-926-8503,procurement@fraserfontainekong.com.jm,7,4.4
+448,NCC-10448,Rollers And Compressors Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Rollers And Compressors L,876-927-8540,procurement@rollersandcompress.com.jm,7,4.4
+449,NCC-10449,Mona Geoinformatics Institute,General Merchandise & Goods,Jamaica,Accounts Desk - Mona Geoinformatics Insti,876-928-8577,procurement@monageoinformatics.com.jm,7,4.4
+450,NCC-10450,Pavement & Structures Ltd,Facilities & Maintenance,Jamaica,Accounts Desk - Pavement & Structures Ltd,876-929-8614,procurement@pavementstructures.com.jm,7,4.4
+451,NCC-10451,Hi-Tech Chemicals Limited,Food & Perishables,Jamaica,Accounts Desk - Hi-Tech Chemicals Limited,876-920-8651,procurement@hitechchemicalslim.com.jm,7,4.4
+452,NCC-10452,J & J Dabdoub Limited,General Merchandise & Goods,Jamaica,Accounts Desk - J & J Dabdoub Limited,876-921-8688,procurement@jjdabdoublimited.com.jm,7,4.4
+453,NCC-10453,Synergy Engineering Limited,IT & Office Supplies,Jamaica,Accounts Desk - Synergy Engineering Limit,876-922-8725,procurement@synergyengineering.com.jm,7,4.4
+454,NCC-10454,Alpha Security Services Limited,Food & Perishables,Jamaica,Accounts Desk - Alpha Security Services L,876-923-8762,procurement@alphasecurityservi.com.jm,7,4.4
+455,NCC-10455,General Paintings Limited,IT & Office Supplies,Jamaica,Accounts Desk - General Paintings Limited,876-924-8799,procurement@generalpaintingsli.com.jm,7,4.4
+456,NCC-10456,Howard Construction Company Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Howard Construction Compa,876-925-8836,procurement@howardconstruction.com.jm,7,4.4
+457,NCC-10457,Floors Unlimited Limited,Food & Perishables,Jamaica,Accounts Desk - Floors Unlimited Limited,876-926-8873,procurement@floorsunlimitedlim.com.jm,7,4.4
+458,NCC-10458,Britnick,IT & Office Supplies,Jamaica,Accounts Desk - Britnick,876-927-8910,procurement@britnick.com.jm,7,4.4
+459,NCC-10459,Dwight'S Construction Company Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Dwight'S Construction Com,876-928-8947,procurement@dwightsconstructio.com.jm,7,4.4
+460,NCC-10460,Hugh Shirley,IT & Office Supplies,Jamaica,Accounts Desk - Hugh Shirley,876-929-8984,procurement@hughshirley.com.jm,7,4.4
+461,NCC-10461,Rivi Gardner & Associates,Facilities & Maintenance,Jamaica,Accounts Desk - Rivi Gardner & Associates,876-920-9021,procurement@rivigardnerassocia.com.jm,7,4.4
+462,NCC-10462,Fujitsu Transaction Solutions (Jamaica) Limited,IT & Office Supplies,Jamaica,Accounts Desk - Fujitsu Transaction Solut,876-921-9058,procurement@fujitsutransaction.com.jm,7,4.4
+463,NCC-10463,Ashdev Ltd,General Merchandise & Goods,Jamaica,Accounts Desk - Ashdev Ltd,876-922-9095,procurement@ashdevltd.com.jm,7,4.4
+464,NCC-10464,Aventis Pharma,General Merchandise & Goods,Jamaica,Accounts Desk - Aventis Pharma,876-923-9132,procurement@aventispharma.com.jm,7,4.4
+465,NCC-10465,Vehicles & Supplies (Industrial Division) Limited,Logistics & Security,Jamaica,Accounts Desk - Vehicles & Supplies (Indu,876-924-9169,procurement@vehiclessuppliesin.com.jm,7,4.4
+466,NCC-10466,S.G. Simpson/Asphalting Co. Ltd.,Facilities & Maintenance,Jamaica,Accounts Desk - S.G. Simpson/Asphalting C,876-925-9206,procurement@sgsimpsonasphaltin.com.jm,7,4.4
+467,NCC-10467,Nakash Construction And Equipment Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Nakash Construction And E,876-926-9243,procurement@nakashconstruction.com.jm,7,4.4
+468,NCC-10468,Alpha Construction Company Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Alpha Construction Compan,876-927-9280,procurement@alphaconstructionc.com.jm,7,4.4
+469,NCC-10469,W.A. Reid Construction Ltd.,IT & Office Supplies,Jamaica,Accounts Desk - W.A. Reid Construction Lt,876-928-9317,procurement@wareidconstruction.com.jm,7,4.4
+470,NCC-10470,Alpha Security Services Limited,Logistics & Security,Jamaica,Accounts Desk - Alpha Security Services L,876-929-9354,procurement@alphasecurityservi.com.jm,7,4.4
+471,NCC-10471,Professional Haulage & Construction 2000 Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Professional Haulage & Co,876-920-9391,procurement@professionalhaulag.com.jm,7,4.4
+472,NCC-10472,B.W.Thompson & Associates,Facilities & Maintenance,Jamaica,Accounts Desk - B.W.Thompson & Associates,876-921-9428,procurement@bwthompsonassociat.com.jm,7,4.4
+473,NCC-10473,Advanced Integrated Systems,General Merchandise & Goods,Jamaica,Accounts Desk - Advanced Integrated Syste,876-922-9465,procurement@advancedintegrated.com.jm,7,4.4
+474,NCC-10474,Biochemie West Indies,General Merchandise & Goods,Jamaica,Accounts Desk - Biochemie West Indies,876-923-9502,procurement@biochemiewestindie.com.jm,7,4.4
+475,NCC-10475,Kam-Hc& Associates Company Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Kam-Hc& Associates Compan,876-924-9539,procurement@kamhcassociatescom.com.jm,7,4.4
+476,NCC-10476,Kpmg Peat Marwick And Partners,IT & Office Supplies,Jamaica,Accounts Desk - Kpmg Peat Marwick And Par,876-925-9576,procurement@kpmgpeatmarwickand.com.jm,7,4.4
+477,NCC-10477,Swc Woodwork And Construction,Facilities & Maintenance,Jamaica,Accounts Desk - Swc Woodwork And Construc,876-926-9613,procurement@swcwoodworkandcons.com.jm,7,4.4
+478,NCC-10478,Cornwall Development And Engineers Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Cornwall Development And ,876-927-9650,procurement@cornwalldevelopmen.com.jm,7,4.4
+479,NCC-10479,Ronham & Associates Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Ronham & Associates Limit,876-928-9687,procurement@ronhamassociatesli.com.jm,7,4.4
+480,NCC-10480,Terracon Engineers Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Terracon Engineers Limite,876-929-9724,procurement@terraconengineersl.com.jm,7,4.4
+481,NCC-10481,Damen,General Merchandise & Goods,Jamaica,Accounts Desk - Damen,876-920-9761,procurement@damen.com.jm,7,4.4
+482,NCC-10482,Tropicair Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Tropicair Limited,876-921-9798,procurement@tropicairlimited.com.jm,7,4.4
+483,NCC-10483,Alwill & Associates,Facilities & Maintenance,Jamaica,Accounts Desk - Alwill & Associates,876-922-9835,procurement@alwillassociates.com.jm,7,4.4
+484,NCC-10484,D.P. Enterprise Company Limited,General Merchandise & Goods,Jamaica,Accounts Desk - D.P. Enterprise Company L,876-923-9872,procurement@dpenterprisecompan.com.jm,7,4.4
+485,NCC-10485,Mitchell'S Construction Company Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Mitchell'S Construction C,876-924-9909,procurement@mitchellsconstruct.com.jm,7,4.4
+486,NCC-10486,Caleb Construction,Facilities & Maintenance,Jamaica,Accounts Desk - Caleb Construction,876-925-9946,procurement@calebconstruction.com.jm,7,4.4
+487,NCC-10487,Quality Engineering,Facilities & Maintenance,Jamaica,Accounts Desk - Quality Engineering,876-926-9983,procurement@qualityengineering.com.jm,7,4.4
+488,NCC-10488,Bryan'S Bookstore Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Bryan'S Bookstore Limited,876-927-1021,procurement@bryansbookstorelim.com.jm,7,4.4
+489,NCC-10489,S.G. Simpson Asphalting Company Limited,Facilities & Maintenance,Jamaica,Accounts Desk - S.G. Simpson Asphalting C,876-928-1058,procurement@sgsimpsonasphaltin.com.jm,7,4.4
+490,NCC-10490,Bulls Eye Security Ltd,Logistics & Security,Jamaica,Accounts Desk - Bulls Eye Security Ltd,876-929-1095,procurement@bullseyesecuritylt.com.jm,7,4.4
+491,NCC-10491,Adt Projekt Gmbh,Food & Perishables,Jamaica,Accounts Desk - Adt Projekt Gmbh,876-920-1132,procurement@adtprojektgmbh.com.jm,7,4.4
+492,NCC-10492,Crown Agents,General Merchandise & Goods,Jamaica,Accounts Desk - Crown Agents,876-921-1169,procurement@crownagents.com.jm,7,4.4
+493,NCC-10493,North Florida Shipyard Inc.,General Merchandise & Goods,Jamaica,Accounts Desk - North Florida Shipyard In,876-922-1206,procurement@northfloridashipya.com.jm,7,4.4
+494,NCC-10494,Rentokil Initial Jamaica Limited,Food & Perishables,Jamaica,Accounts Desk - Rentokil Initial Jamaica ,876-923-1243,procurement@rentokilinitialjam.com.jm,7,4.4
+495,NCC-10495,Anthony James T/As A. James Construction,Facilities & Maintenance,Jamaica,Accounts Desk - Anthony James T/As A. Jam,876-924-1280,procurement@anthonyjamestasaja.com.jm,7,4.4
+496,NCC-10496,Coldar Construction,Facilities & Maintenance,Jamaica,Accounts Desk - Coldar Construction,876-925-1317,procurement@coldarconstruction.com.jm,7,4.4
+497,NCC-10497,Sun Island Jamaica Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Sun Island Jamaica Limite,876-926-1354,procurement@sunislandjamaicali.com.jm,7,4.4
+498,NCC-10498,Elaine Shields,IT & Office Supplies,Jamaica,Accounts Desk - Elaine Shields,876-927-1391,procurement@elaineshields.com.jm,7,4.4
+499,NCC-10499,Red Hat Incorporated,Food & Perishables,Jamaica,Accounts Desk - Red Hat Incorporated,876-928-1428,procurement@redhatincorporated.com.jm,7,4.4
+500,NCC-10500,El-Mech Engineers Ltd.,General Merchandise & Goods,Jamaica,Accounts Desk - El-Mech Engineers Ltd.,876-929-1465,procurement@elmechengineersltd.com.jm,7,4.4
+501,NCC-10501,Astley Harding,IT & Office Supplies,Jamaica,Accounts Desk - Astley Harding,876-920-1502,procurement@astleyharding.com.jm,7,4.4
+502,NCC-10502,Intouch Construction & Security Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Intouch Construction & Se,876-921-1539,procurement@intouchconstructio.com.jm,7,4.4
+503,NCC-10503,Garbage Disposal & Sanitation Systems Limited,Food & Perishables,Jamaica,Accounts Desk - Garbage Disposal & Sanita,876-922-1576,procurement@garbagedisposalsan.com.jm,7,4.4
+504,NCC-10504,Florizel Greenwood,IT & Office Supplies,Jamaica,Accounts Desk - Florizel Greenwood,876-923-1613,procurement@florizelgreenwood.com.jm,7,4.4
+505,NCC-10505,Swc Woodwork & Construction,Facilities & Maintenance,Jamaica,Accounts Desk - Swc Woodwork & Constructi,876-924-1650,procurement@swcwoodworkconstru.com.jm,7,4.4
+506,NCC-10506,Caromax Enterprises Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Caromax Enterprises Limit,876-925-1687,procurement@caromaxenterprises.com.jm,7,4.4
+507,NCC-10507,Noel Thompson,IT & Office Supplies,Jamaica,Accounts Desk - Noel Thompson,876-926-1724,procurement@noelthompson.com.jm,7,4.4
+508,NCC-10508,Innovative Corporate Solutions Limited,Food & Perishables,Jamaica,Accounts Desk - Innovative Corporate Solu,876-927-1761,procurement@innovativecorporat.com.jm,7,4.4
+509,NCC-10509,Jamaica Publishing House,General Merchandise & Goods,Jamaica,Accounts Desk - Jamaica Publishing House,876-928-1798,procurement@jamaicapublishingh.com.jm,7,4.4
+510,NCC-10510,Carib Lpg Trading Ltd.,General Merchandise & Goods,Jamaica,Accounts Desk - Carib Lpg Trading Ltd.,876-929-1835,procurement@cariblpgtradingltd.com.jm,8,4.3
+511,NCC-10511,E. Pihl & Son A.S.,General Merchandise & Goods,Jamaica,Accounts Desk - E. Pihl & Son A.S.,876-920-1872,procurement@epihlsonas.com.jm,8,4.3
+512,NCC-10512,Surrey Paving And Aggregate Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Surrey Paving And Aggrega,876-921-1909,procurement@surreypavingandagg.com.jm,8,4.3
+513,NCC-10513,E. Pihl & Sons A.S.,General Merchandise & Goods,Jamaica,Accounts Desk - E. Pihl & Sons A.S.,876-922-1946,procurement@epihlsonsas.com.jm,8,4.3
+514,NCC-10514,Intelcan Techno Systems Inc.,Facilities & Maintenance,Jamaica,Accounts Desk - Intelcan Techno Systems I,876-923-1983,procurement@intelcantechnosyst.com.jm,8,4.3
+515,NCC-10515,Noble Americas Corporation,General Merchandise & Goods,Jamaica,Accounts Desk - Noble Americas Corporatio,876-924-2020,procurement@nobleamericascorpo.com.jm,8,4.3
+516,NCC-10516,Presport Joint Venture,General Merchandise & Goods,Jamaica,Accounts Desk - Presport Joint Venture,876-925-2057,procurement@presportjointventu.com.jm,8,4.3
+517,NCC-10517,Damen Shipyards,Facilities & Maintenance,Jamaica,Accounts Desk - Damen Shipyards,876-926-2094,procurement@damenshipyards.com.jm,8,4.3
+518,NCC-10518,Cool Petroleum Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Cool Petroleum Limited,876-927-2131,procurement@coolpetroleumlimit.com.jm,8,4.3
+519,NCC-10519,W. A. Reid Construction Ltd,Facilities & Maintenance,Jamaica,Accounts Desk - W. A. Reid Construction L,876-928-2168,procurement@wareidconstruction.com.jm,8,4.3
+520,NCC-10520,Caterers In Motion,Food & Perishables,Jamaica,Accounts Desk - Caterers In Motion,876-929-2205,procurement@caterersinmotion.com.jm,8,4.3
+521,NCC-10521,Snc Lavalin,General Merchandise & Goods,Jamaica,Accounts Desk - Snc Lavalin,876-920-2242,procurement@snclavalin.com.jm,8,4.3
+522,NCC-10522,Hood-Daniel Well Company Limited,Food & Perishables,Jamaica,Accounts Desk - Hood-Daniel Well Company ,876-921-2279,procurement@hooddanielwellcomp.com.jm,8,4.3
+523,NCC-10523,Seal Construction Company Limited,Facilities & Maintenance,Jamaica,Accounts Desk - Seal Construction Company,876-922-2316,procurement@sealconstructionco.com.jm,8,4.3
+524,NCC-10524,Mabey& Pihl,General Merchandise & Goods,Jamaica,Accounts Desk - Mabey& Pihl,876-923-2353,procurement@mabeypihl.com.jm,8,4.3
+525,NCC-10525,Microsoft Corporation,IT & Office Supplies,Jamaica,Accounts Desk - Microsoft Corporation,876-924-2390,procurement@microsoftcorporati.com.jm,8,4.3
+526,NCC-10526,Asphaltic Concrete Enterprise Limited,IT & Office Supplies,Jamaica,Accounts Desk - Asphaltic Concrete Enterp,876-925-2427,procurement@asphalticconcretee.com.jm,8,4.3
+527,NCC-10527,Macmillan Distribution Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Macmillan Distribution Li,876-926-2464,procurement@macmillandistribut.com.jm,8,4.3
+528,NCC-10528,Vitalmed Distributors Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Vitalmed Distributors Lim,876-927-2501,procurement@vitalmeddistributo.com.jm,8,4.3
+529,NCC-10529,Kinley Construction Group Ltd,Facilities & Maintenance,Jamaica,Accounts Desk - Kinley Construction Group,876-928-2538,procurement@kinleyconstruction.com.jm,8,4.3
+530,NCC-10530,Petroleum Company Of Jamaica,General Merchandise & Goods,Jamaica,Accounts Desk - Petroleum Company Of Jama,876-929-2575,procurement@petroleumcompanyof.com.jm,8,4.3
+531,NCC-10531,Willis Lease Finance Corporation,General Merchandise & Goods,Jamaica,Accounts Desk - Willis Lease Finance Corp,876-920-2612,procurement@willisleasefinance.com.jm,8,4.3
+532,NCC-10532,Kingston Bookshop Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Kingston Bookshop Limited,876-921-2649,procurement@kingstonbookshopli.com.jm,8,4.3
+533,NCC-10533,Zhenua Port Machinery Company Limited (Zpmc),General Merchandise & Goods,Jamaica,Accounts Desk - Zhenua Port Machinery Com,876-922-2686,procurement@zhenuaportmachiner.com.jm,8,4.3
+534,NCC-10534,Reliable Engineers Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Reliable Engineers Limite,876-923-2723,procurement@reliableengineersl.com.jm,8,4.3
+535,NCC-10535,H.D.B Construction Ltd,General Merchandise & Goods,Jamaica,Accounts Desk - H.D.B Construction Ltd,876-924-2760,procurement@hdbconstructionltd.com.jm,8,4.3
+536,NCC-10536,M & M Jamaica Ltd..,Facilities & Maintenance,Jamaica,Accounts Desk - M & M Jamaica Ltd..,876-925-2797,procurement@mmjamaicaltd.com.jm,8,4.3
+537,NCC-10537,J.H. Dunstan Associates Limited,General Merchandise & Goods,Jamaica,Accounts Desk - J.H. Dunstan Associates L,876-926-2834,procurement@jhdunstanassociate.com.jm,8,4.3
+538,NCC-10538,Smada Consultants Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Smada Consultants Limited,876-927-2871,procurement@smadaconsultantsli.com.jm,8,4.3
+539,NCC-10539,Ibi-Maak Caribbean Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Ibi-Maak Caribbean Limite,876-928-2908,procurement@ibimaakcaribbeanli.com.jm,8,4.3
+540,NCC-10540,Ibm World Trade Corporation,General Merchandise & Goods,Jamaica,Accounts Desk - Ibm World Trade Corporati,876-929-2945,procurement@ibmworldtradecorpo.com.jm,8,4.3
+541,NCC-10541,Matrix Laboraties Ltd,General Merchandise & Goods,Jamaica,Accounts Desk - Matrix Laboraties Ltd,876-920-2982,procurement@matrixlaboratieslt.com.jm,8,4.3
+542,NCC-10542,Lamasa Limited,General Merchandise & Goods,Jamaica,Accounts Desk - Lamasa Limited,876-921-3019,procurement@lamasalimited.com.jm,8,4.3

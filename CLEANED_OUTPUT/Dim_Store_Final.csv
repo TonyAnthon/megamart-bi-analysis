@@ -1,0 +1,543 @@
+store_code,store_name,address,parish,city,region,store_type,opening_date,square_footage,store_status,closure_date,manager_name
+MM-JM-101,MegaMart May Pen #1,"Lot 11, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-102,MegaMart Falmouth #1,"19 Main Street, Falmouth, Trelawny",Trelawny,Falmouth,Western,Express / Regional,2015-01-01,32975.0,Active,,Store Manager
+MM-JM-103,MegaMart Portmore #1,"Lot 11, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-104,MegaMart Mandeville #1,"19 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-105,MegaMart Kingston #1,"Part Of Cedar Valley, Red Hills , St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-106,MegaMart Portmore #2,"Lot 12, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-107,MegaMart May Pen #2,"Lot 12, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-108,MegaMart May Pen #3,"Lot 13, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-109,MegaMart Kingston #2,"Part Of Mount Zion, Rock Hall, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-110,MegaMart Montego Bay #1,"19 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-111,MegaMart Ocho Rios #1,"19 Main Street, Ocho Rios / St. Ann's Bay, St. Ann",St. Ann,Ocho Rios / St. Ann's Bay,Central,Express / Regional,2015-01-01,39224.0,Active,,Store Manager
+MM-JM-112,MegaMart Portmore #3,"Lot 13, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-113,MegaMart Black River #1,"19 Main Street, Black River, St. Elizabeth",St. Elizabeth,Black River,Western,Express / Regional,2015-01-01,37630.0,Active,,Store Manager
+MM-JM-114,MegaMart Portmore #4,"Lot 14, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-115,MegaMart Montego Bay #2,"23 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-116,MegaMart Kingston #3,"Part Of Salisbury Plain, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-117,MegaMart Savanna-la-Mar #1,"19 Main Street, Savanna-la-Mar, Westmoreland",Westmoreland,Savanna-la-Mar,Western,Express / Regional,2015-01-01,37500.0,Active,,Store Manager
+MM-JM-118,MegaMart Kingston #4,"Lot 114a Part Of Ferry Pen, St, Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-119,MegaMart Portmore #5,"Lot 15, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-120,MegaMart Black River #2,"23 Main Street, Black River, St. Elizabeth",St. Elizabeth,Black River,Western,Express / Regional,2015-01-01,37630.0,Active,,Store Manager
+MM-JM-121,MegaMart May Pen #4,"Lot 14, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-122,MegaMart Ocho Rios #2,"23 Main Street, Ocho Rios / St. Ann's Bay, St. Ann",St. Ann,Ocho Rios / St. Ann's Bay,Central,Express / Regional,2015-01-01,39224.0,Active,,Store Manager
+MM-JM-123,MegaMart Portmore #6,"Lot 16, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-124,MegaMart Portmore #7,"Lot 17, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-125,MegaMart May Pen #5,"Lot 15, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-126,MegaMart Kingston #5,"14 Millsborough Avenue, Kingston 6",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-127,MegaMart Montego Bay #3,"27 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-128,MegaMart Kingston #6,"Part Of Tommy Hill, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-129,MegaMart Kingston #7,"Part Of Golden Spring, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-130,MegaMart Mandeville #2,"23 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-131,MegaMart May Pen #6,"Lot 16, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-132,MegaMart Portmore #8,"Lot 18, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-133,MegaMart Port Maria #1,"19 Main Street, Port Maria, St. Mary",St. Mary,Port Maria,Central,Express / Regional,2015-01-01,35296.0,Active,,Store Manager
+MM-JM-134,MegaMart Ocho Rios #3,"27 Main Street, Ocho Rios / St. Ann's Bay, St. Ann",St. Ann,Ocho Rios / St. Ann's Bay,Central,Express / Regional,2015-01-01,39224.0,Active,,Store Manager
+MM-JM-135,MegaMart Montego Bay #4,"31 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-136,MegaMart Kingston #8,"Part Of Ellerslie, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-137,MegaMart Kingston #9,"Part Of Cedar Valley, Red Hills , St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-138,MegaMart Montego Bay #5,"35 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-139,MegaMart Kingston #10,"Part of Freetown, Woodford, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-140,MegaMart Mandeville #3,"27 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-141,MegaMart Falmouth #2,"23 Main Street, Falmouth, Trelawny",Trelawny,Falmouth,Western,Express / Regional,2015-01-01,32975.0,Active,,Store Manager
+MM-JM-142,MegaMart Portmore #9,"Lot 19, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-143,MegaMart Mandeville #4,"31 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-144,MegaMart Port Maria #2,"23 Main Street, Port Maria, St. Mary",St. Mary,Port Maria,Central,Express / Regional,2015-01-01,35296.0,Active,,Store Manager
+MM-JM-145,MegaMart Portmore #10,"Lot 20, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-146,MegaMart May Pen #7,"Lot 17, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-147,MegaMart Ocho Rios #4,"31 Main Street, Ocho Rios / St. Ann's Bay, St. Ann",St. Ann,Ocho Rios / St. Ann's Bay,Central,Express / Regional,2015-01-01,39224.0,Active,,Store Manager
+MM-JM-148,MegaMart Port Antonio #1,"19 Main Street, Port Antonio, Portland",Portland,Port Antonio,Central,Express / Regional,2015-01-01,33130.0,Active,,Store Manager
+MM-JM-149,MegaMart Mandeville #5,"35 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-150,MegaMart Kingston #11,"Lot 114a Part Of Ferry Pen, St, Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-151,MegaMart Kingston #12,"7 & 9 Clieveden Avenue, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-152,MegaMart Kingston #13,"Part Of Ellerslie, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-153,MegaMart May Pen #8,"Lot 18, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-154,MegaMart Mandeville #6,"39 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-155,MegaMart Mandeville #7,"43 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-156,MegaMart May Pen #9,"Lot 19, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-157,MegaMart Montego Bay #6,"39 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-158,MegaMart Savanna-la-Mar #2,"23 Main Street, Savanna-la-Mar, Westmoreland",Westmoreland,Savanna-la-Mar,Western,Express / Regional,2015-01-01,37500.0,Active,,Store Manager
+MM-JM-159,MegaMart Kingston #14,"Part Of Grosvenor, Manor Park Now Know As 11 Grosvenor Terrace Kingston 8",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-160,MegaMart Kingston #15,"Part Of Tommy Hill, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-161,MegaMart Mandeville #8,"47 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-162,MegaMart Montego Bay #7,"43 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-163,MegaMart Savanna-la-Mar #3,"27 Main Street, Savanna-la-Mar, Westmoreland",Westmoreland,Savanna-la-Mar,Western,Express / Regional,2015-01-01,37500.0,Active,,Store Manager
+MM-JM-164,MegaMart May Pen #10,"Lot 20, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-165,MegaMart Black River #3,"27 Main Street, Black River, St. Elizabeth",St. Elizabeth,Black River,Western,Express / Regional,2015-01-01,37630.0,Active,,Store Manager
+MM-JM-166,MegaMart Savanna-la-Mar #4,"31 Main Street, Savanna-la-Mar, Westmoreland",Westmoreland,Savanna-la-Mar,Western,Express / Regional,2015-01-01,37500.0,Active,,Store Manager
+MM-JM-167,MegaMart Savanna-la-Mar #5,"35 Main Street, Savanna-la-Mar, Westmoreland",Westmoreland,Savanna-la-Mar,Western,Express / Regional,2015-01-01,37500.0,Active,,Store Manager
+MM-JM-168,MegaMart Port Antonio #2,"23 Main Street, Port Antonio, Portland",Portland,Port Antonio,Central,Express / Regional,2015-01-01,33130.0,Active,,Store Manager
+MM-JM-169,MegaMart Kingston #16,"Part Of Cedar Valley, Red Hills , St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-170,MegaMart Falmouth #3,"27 Main Street, Falmouth, Trelawny",Trelawny,Falmouth,Western,Express / Regional,2015-01-01,32975.0,Active,,Store Manager
+MM-JM-171,MegaMart Kingston #17,"Part of Freetown, Woodford, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-172,MegaMart Ocho Rios #5,"35 Main Street, Ocho Rios / St. Ann's Bay, St. Ann",St. Ann,Ocho Rios / St. Ann's Bay,Central,Express / Regional,2015-01-01,39224.0,Active,,Store Manager
+MM-JM-173,MegaMart Portmore #11,"Lot 21, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-174,MegaMart Kingston #18,"14 Millsborough Avenue, Kingston 6",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-175,MegaMart Kingston #19,"Part Of Grosvenor, Manor Park Now Know As 11 Grosvenor Terrace Kingston 8",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-176,MegaMart Port Antonio #3,"27 Main Street, Port Antonio, Portland",Portland,Port Antonio,Central,Express / Regional,2015-01-01,33130.0,Active,,Store Manager
+MM-JM-177,MegaMart Port Antonio #4,"31 Main Street, Port Antonio, Portland",Portland,Port Antonio,Central,Express / Regional,2015-01-01,33130.0,Active,,Store Manager
+MM-JM-178,MegaMart Mandeville #9,"51 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-179,MegaMart Savanna-la-Mar #6,"39 Main Street, Savanna-la-Mar, Westmoreland",Westmoreland,Savanna-la-Mar,Western,Express / Regional,2015-01-01,37500.0,Active,,Store Manager
+MM-JM-180,MegaMart May Pen #11,"Lot 21, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-181,MegaMart Mandeville #10,"55 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-182,MegaMart Ocho Rios #6,"39 Main Street, Ocho Rios / St. Ann's Bay, St. Ann",St. Ann,Ocho Rios / St. Ann's Bay,Central,Express / Regional,2015-01-01,39224.0,Active,,Store Manager
+MM-JM-183,MegaMart Portmore #12,"Lot 22, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-184,MegaMart Kingston #20,"Part Of Ellerslie, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-185,MegaMart Kingston #21,"Part Of Cedar Valley, Red Hills , St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-186,MegaMart Kingston #22,"Part of Lindos Gap, Dallas Castle, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-187,MegaMart May Pen #12,"Lot 22, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-188,MegaMart Montego Bay #8,"47 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-189,MegaMart Kingston #23,"Part Of Mount Zion, Rock Hall, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-190,MegaMart Montego Bay #9,"51 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-191,MegaMart Kingston #24,"Part Of Grosvenor, Manor Park Now Know As 11 Grosvenor Terrace Kingston 8",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-192,MegaMart Mandeville #11,"59 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-193,MegaMart Montego Bay #10,"55 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-194,MegaMart Ocho Rios #7,"43 Main Street, Ocho Rios / St. Ann's Bay, St. Ann",St. Ann,Ocho Rios / St. Ann's Bay,Central,Express / Regional,2015-01-01,39224.0,Active,,Store Manager
+MM-JM-195,MegaMart Port Antonio #5,"35 Main Street, Port Antonio, Portland",Portland,Port Antonio,Central,Express / Regional,2015-01-01,33130.0,Active,,Store Manager
+MM-JM-196,MegaMart Black River #4,"31 Main Street, Black River, St. Elizabeth",St. Elizabeth,Black River,Western,Express / Regional,2015-01-01,37630.0,Active,,Store Manager
+MM-JM-197,MegaMart Ocho Rios #8,"47 Main Street, Ocho Rios / St. Ann's Bay, St. Ann",St. Ann,Ocho Rios / St. Ann's Bay,Central,Express / Regional,2015-01-01,39224.0,Active,,Store Manager
+MM-JM-198,MegaMart Kingston #25,"Lot 114a Part Of Ferry Pen, St, Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-199,MegaMart Kingston #26,"7 & 9 Clieveden Avenue, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-200,MegaMart Portmore #13,"Lot 23, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-201,MegaMart Portmore #14,"Lot 24, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-202,MegaMart Mandeville #12,"63 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-203,MegaMart Morant Bay #1,"19 Main Street, Morant Bay, St. Thomas",St. Thomas,Morant Bay,South East/Urban,Express / Regional,2015-01-01,33984.0,Active,,Store Manager
+MM-JM-204,MegaMart Portmore #15,"Lot 25, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-205,MegaMart May Pen #13,"Lot 23, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-206,MegaMart Mandeville #13,"67 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-207,MegaMart Montego Bay #11,"59 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-208,MegaMart Morant Bay #2,"23 Main Street, Morant Bay, St. Thomas",St. Thomas,Morant Bay,South East/Urban,Express / Regional,2015-01-01,33984.0,Active,,Store Manager
+MM-JM-209,MegaMart Kingston #27,"Part Of Golden Spring, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-210,MegaMart Portmore #16,"Lot 26, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-211,MegaMart Montego Bay #12,"63 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-212,MegaMart Kingston #28,"Part Of Salisbury Plain, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-213,MegaMart Port Antonio #6,"39 Main Street, Port Antonio, Portland",Portland,Port Antonio,Central,Express / Regional,2015-01-01,33130.0,Active,,Store Manager
+MM-JM-214,MegaMart Savanna-la-Mar #7,"43 Main Street, Savanna-la-Mar, Westmoreland",Westmoreland,Savanna-la-Mar,Western,Express / Regional,2015-01-01,37500.0,Active,,Store Manager
+MM-JM-215,MegaMart Kingston #29,"7 & 9 Clieveden Avenue, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-216,MegaMart Portmore #17,"Lot 27, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-217,MegaMart May Pen #14,"Lot 24, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-218,MegaMart May Pen #15,"Lot 25, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-219,MegaMart Falmouth #4,"31 Main Street, Falmouth, Trelawny",Trelawny,Falmouth,Western,Express / Regional,2015-01-01,32975.0,Active,,Store Manager
+MM-JM-220,MegaMart Black River #5,"35 Main Street, Black River, St. Elizabeth",St. Elizabeth,Black River,Western,Express / Regional,2015-01-01,37630.0,Active,,Store Manager
+MM-JM-221,MegaMart Savanna-la-Mar #8,"47 Main Street, Savanna-la-Mar, Westmoreland",Westmoreland,Savanna-la-Mar,Western,Express / Regional,2015-01-01,37500.0,Active,,Store Manager
+MM-JM-222,MegaMart Mandeville #14,"71 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-223,MegaMart Kingston #30,"Part Of Grosvenor, Manor Park Now Know As 11 Grosvenor Terrace Kingston 8",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-224,MegaMart Falmouth #5,"35 Main Street, Falmouth, Trelawny",Trelawny,Falmouth,Western,Express / Regional,2015-01-01,32975.0,Active,,Store Manager
+MM-JM-225,MegaMart Kingston #31,"Part Of Golden Spring, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-226,MegaMart Montego Bay #13,"67 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-227,MegaMart Port Maria #3,"27 Main Street, Port Maria, St. Mary",St. Mary,Port Maria,Central,Express / Regional,2015-01-01,35296.0,Active,,Store Manager
+MM-JM-228,MegaMart Kingston #32,"Part Of Salisbury Plain, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-229,MegaMart Kingston #33,"Part Of Essex Hall , St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-230,MegaMart Savanna-la-Mar #9,"51 Main Street, Savanna-la-Mar, Westmoreland",Westmoreland,Savanna-la-Mar,Western,Express / Regional,2015-01-01,37500.0,Active,,Store Manager
+MM-JM-231,MegaMart Kingston #34,"7 & 9 Clieveden Avenue, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-232,MegaMart Portmore #18,"Lot 28, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-233,MegaMart Savanna-la-Mar #10,"55 Main Street, Savanna-la-Mar, Westmoreland",Westmoreland,Savanna-la-Mar,Western,Express / Regional,2015-01-01,37500.0,Active,,Store Manager
+MM-JM-234,MegaMart Port Maria #4,"31 Main Street, Port Maria, St. Mary",St. Mary,Port Maria,Central,Express / Regional,2015-01-01,35296.0,Active,,Store Manager
+MM-JM-235,MegaMart Savanna-la-Mar #11,"59 Main Street, Savanna-la-Mar, Westmoreland",Westmoreland,Savanna-la-Mar,Western,Express / Regional,2015-01-01,37500.0,Active,,Store Manager
+MM-JM-236,MegaMart Kingston #35,"Lot 23, 5 Oakshore Road, Wellington Heights",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-237,MegaMart Portmore #19,"Lot 29, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-238,MegaMart Montego Bay #14,"71 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-239,MegaMart May Pen #16,"Lot 26, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-240,MegaMart Kingston #36,"Part Of Tommy Hill, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-241,MegaMart Montego Bay #15,"75 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-242,MegaMart Montego Bay #16,"79 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-243,MegaMart Portmore #20,"Lot 30, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-244,MegaMart Savanna-la-Mar #12,"63 Main Street, Savanna-la-Mar, Westmoreland",Westmoreland,Savanna-la-Mar,Western,Express / Regional,2015-01-01,37500.0,Active,,Store Manager
+MM-JM-245,MegaMart Montego Bay #17,"83 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-246,MegaMart Morant Bay #3,"27 Main Street, Morant Bay, St. Thomas",St. Thomas,Morant Bay,South East/Urban,Express / Regional,2015-01-01,33984.0,Active,,Store Manager
+MM-JM-247,MegaMart Port Maria #5,"35 Main Street, Port Maria, St. Mary",St. Mary,Port Maria,Central,Express / Regional,2015-01-01,35296.0,Active,,Store Manager
+MM-JM-248,MegaMart Lucea #1,"19 Main Street, Lucea, Hanover",Hanover,Lucea,Western,Express / Regional,2015-01-01,32597.0,Active,,Store Manager
+MM-JM-249,MegaMart Falmouth #6,"39 Main Street, Falmouth, Trelawny",Trelawny,Falmouth,Western,Express / Regional,2015-01-01,32975.0,Active,,Store Manager
+MM-JM-250,MegaMart Kingston #37,"Part of Lindos Gap, Dallas Castle, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-251,MegaMart Portmore #21,"Lot 31, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-252,MegaMart Portmore #22,"Lot 32, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-253,MegaMart Kingston #38,"Part Of Mount Zion, Rock Hall, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-254,MegaMart Savanna-la-Mar #13,"67 Main Street, Savanna-la-Mar, Westmoreland",Westmoreland,Savanna-la-Mar,Western,Express / Regional,2015-01-01,37500.0,Active,,Store Manager
+MM-JM-255,MegaMart Kingston #39,"Part Of Grosvenor, Manor Park Now Know As 11 Grosvenor Terrace Kingston 8",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-256,MegaMart Mandeville #15,"75 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-257,MegaMart Port Antonio #7,"43 Main Street, Port Antonio, Portland",Portland,Port Antonio,Central,Express / Regional,2015-01-01,33130.0,Active,,Store Manager
+MM-JM-258,MegaMart Mandeville #16,"79 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-259,MegaMart May Pen #17,"Lot 27, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-260,MegaMart May Pen #18,"Lot 28, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-261,MegaMart Kingston #40,"Part Of Essex Hall , St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-262,MegaMart Portmore #23,"Lot 33, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-263,MegaMart Kingston #41,"7 & 9 Clieveden Avenue, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-264,MegaMart Kingston #42,"Part Of Ellerslie, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-265,MegaMart Savanna-la-Mar #14,"71 Main Street, Savanna-la-Mar, Westmoreland",Westmoreland,Savanna-la-Mar,Western,Express / Regional,2015-01-01,37500.0,Active,,Store Manager
+MM-JM-266,MegaMart Ocho Rios #9,"51 Main Street, Ocho Rios / St. Ann's Bay, St. Ann",St. Ann,Ocho Rios / St. Ann's Bay,Central,Express / Regional,2015-01-01,39224.0,Active,,Store Manager
+MM-JM-267,MegaMart Portmore #24,"Lot 34, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-268,MegaMart May Pen #19,"Lot 29, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-269,MegaMart Port Maria #6,"39 Main Street, Port Maria, St. Mary",St. Mary,Port Maria,Central,Express / Regional,2015-01-01,35296.0,Active,,Store Manager
+MM-JM-270,MegaMart Portmore #25,"Lot 35, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-271,MegaMart Port Antonio #8,"47 Main Street, Port Antonio, Portland",Portland,Port Antonio,Central,Express / Regional,2015-01-01,33130.0,Active,,Store Manager
+MM-JM-272,MegaMart Lucea #2,"23 Main Street, Lucea, Hanover",Hanover,Lucea,Western,Express / Regional,2015-01-01,32597.0,Active,,Store Manager
+MM-JM-273,MegaMart Morant Bay #4,"31 Main Street, Morant Bay, St. Thomas",St. Thomas,Morant Bay,South East/Urban,Express / Regional,2015-01-01,33984.0,Active,,Store Manager
+MM-JM-274,MegaMart Portmore #26,"Lot 36, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-275,MegaMart Kingston #43,"Part Of Hansonton Now Known As 78 Old Hope Road, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-276,MegaMart Kingston #44,"Part Of Salisbury Plain, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-277,MegaMart Falmouth #7,"43 Main Street, Falmouth, Trelawny",Trelawny,Falmouth,Western,Express / Regional,2015-01-01,32975.0,Active,,Store Manager
+MM-JM-278,MegaMart Portmore #27,"Lot 37, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-279,MegaMart Portmore #28,"Lot 38, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-280,MegaMart May Pen #20,"Lot 30, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-281,MegaMart Portmore #29,"Lot 39, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-282,MegaMart Portmore #30,"Lot 40, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-283,MegaMart Lucea #3,"27 Main Street, Lucea, Hanover",Hanover,Lucea,Western,Express / Regional,2015-01-01,32597.0,Active,,Store Manager
+MM-JM-284,MegaMart Port Maria #7,"43 Main Street, Port Maria, St. Mary",St. Mary,Port Maria,Central,Express / Regional,2015-01-01,35296.0,Active,,Store Manager
+MM-JM-285,MegaMart May Pen #21,"Lot 31, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-286,MegaMart Mandeville #17,"83 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-287,MegaMart Ocho Rios #10,"55 Main Street, Ocho Rios / St. Ann's Bay, St. Ann",St. Ann,Ocho Rios / St. Ann's Bay,Central,Express / Regional,2015-01-01,39224.0,Active,,Store Manager
+MM-JM-288,MegaMart Kingston #45,"Part Of Tommy Hill, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-289,MegaMart May Pen #22,"Lot 32, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-290,MegaMart Morant Bay #5,"35 Main Street, Morant Bay, St. Thomas",St. Thomas,Morant Bay,South East/Urban,Express / Regional,2015-01-01,33984.0,Active,,Store Manager
+MM-JM-291,MegaMart Portmore #31,"Lot 41, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-292,MegaMart Kingston #46,"Part Of Salisbury Plain, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-293,MegaMart Kingston #47,"Part Of Essex Hall , St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-294,MegaMart Portmore #32,"Lot 42, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-295,MegaMart Kingston #48,"7 & 9 Clieveden Avenue, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-296,MegaMart Kingston #49,"Part Of Ellerslie, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-297,MegaMart Black River #6,"39 Main Street, Black River, St. Elizabeth",St. Elizabeth,Black River,Western,Express / Regional,2015-01-01,37630.0,Active,,Store Manager
+MM-JM-298,MegaMart Portmore #33,"Lot 43, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-299,MegaMart Kingston #50,"Part of Freetown, Woodford, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-300,MegaMart Port Maria #8,"47 Main Street, Port Maria, St. Mary",St. Mary,Port Maria,Central,Express / Regional,2015-01-01,35296.0,Active,,Store Manager
+MM-JM-301,MegaMart May Pen #23,"Lot 33, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-302,MegaMart Portmore #34,"Lot 44, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-303,MegaMart Montego Bay #18,"87 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-304,MegaMart Kingston #51,"Part Of Tommy Hill, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-305,MegaMart Kingston #52,"Part Of Golden Spring, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-306,MegaMart Kingston #53,"Part Of Everton, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-307,MegaMart Kingston #54,"Part Of Hansonton Now Known As 78 Old Hope Road, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-308,MegaMart Mandeville #18,"87 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-309,MegaMart Kingston #55,"Part Of Essex Hall , St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-310,MegaMart Montego Bay #19,"91 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-311,MegaMart Mandeville #19,"91 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-312,MegaMart Savanna-la-Mar #15,"75 Main Street, Savanna-la-Mar, Westmoreland",Westmoreland,Savanna-la-Mar,Western,Express / Regional,2015-01-01,37500.0,Active,,Store Manager
+MM-JM-313,MegaMart Kingston #56,"Part Of Cedar Valley, Red Hills , St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-314,MegaMart May Pen #24,"Lot 34, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-315,MegaMart Mandeville #20,"95 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-316,MegaMart May Pen #25,"Lot 35, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-317,MegaMart Kingston #57,"Part Of Mount Zion, Rock Hall, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-318,MegaMart Kingston #58,"14 Millsborough Avenue, Kingston 6",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-319,MegaMart Portmore #35,"Lot 45, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-320,MegaMart Ocho Rios #11,"59 Main Street, Ocho Rios / St. Ann's Bay, St. Ann",St. Ann,Ocho Rios / St. Ann's Bay,Central,Express / Regional,2015-01-01,39224.0,Active,,Store Manager
+MM-JM-321,MegaMart Port Antonio #9,"51 Main Street, Port Antonio, Portland",Portland,Port Antonio,Central,Express / Regional,2015-01-01,33130.0,Active,,Store Manager
+MM-JM-322,MegaMart Montego Bay #20,"95 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-323,MegaMart Mandeville #21,"99 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-324,MegaMart Portmore #36,"Lot 46, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-325,MegaMart Port Antonio #10,"55 Main Street, Port Antonio, Portland",Portland,Port Antonio,Central,Express / Regional,2015-01-01,33130.0,Active,,Store Manager
+MM-JM-326,MegaMart Portmore #37,"Lot 47, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-327,MegaMart Kingston #59,"7 & 9 Clieveden Avenue, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-328,MegaMart Savanna-la-Mar #16,"79 Main Street, Savanna-la-Mar, Westmoreland",Westmoreland,Savanna-la-Mar,Western,Express / Regional,2015-01-01,37500.0,Active,,Store Manager
+MM-JM-329,MegaMart Black River #7,"43 Main Street, Black River, St. Elizabeth",St. Elizabeth,Black River,Western,Express / Regional,2015-01-01,37630.0,Active,,Store Manager
+MM-JM-330,MegaMart Kingston #60,"Part of Lindos Gap, Dallas Castle, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-331,MegaMart Kingston #61,"Part of Freetown, Woodford, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-332,MegaMart Falmouth #8,"47 Main Street, Falmouth, Trelawny",Trelawny,Falmouth,Western,Express / Regional,2015-01-01,32975.0,Active,,Store Manager
+MM-JM-333,MegaMart Portmore #38,"Lot 48, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-334,MegaMart Black River #8,"47 Main Street, Black River, St. Elizabeth",St. Elizabeth,Black River,Western,Express / Regional,2015-01-01,37630.0,Active,,Store Manager
+MM-JM-335,MegaMart Portmore #39,"Lot 49, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-336,MegaMart May Pen #26,"Lot 36, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-337,MegaMart Montego Bay #21,"99 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-338,MegaMart May Pen #27,"Lot 37, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-339,MegaMart Kingston #62,"Part Of Hansonton Now Known As 78 Old Hope Road, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-340,MegaMart Kingston #63,"Part Of Salisbury Plain, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-341,MegaMart Portmore #40,"Lot 50, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-342,MegaMart May Pen #28,"Lot 38, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-343,MegaMart Kingston #64,"7 & 9 Clieveden Avenue, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-344,MegaMart Lucea #4,"31 Main Street, Lucea, Hanover",Hanover,Lucea,Western,Express / Regional,2015-01-01,32597.0,Active,,Store Manager
+MM-JM-345,MegaMart Black River #9,"51 Main Street, Black River, St. Elizabeth",St. Elizabeth,Black River,Western,Express / Regional,2015-01-01,37630.0,Active,,Store Manager
+MM-JM-346,MegaMart Portmore #41,"Lot 51, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-347,MegaMart Black River #10,"55 Main Street, Black River, St. Elizabeth",St. Elizabeth,Black River,Western,Express / Regional,2015-01-01,37630.0,Active,,Store Manager
+MM-JM-348,MegaMart Ocho Rios #12,"63 Main Street, Ocho Rios / St. Ann's Bay, St. Ann",St. Ann,Ocho Rios / St. Ann's Bay,Central,Express / Regional,2015-01-01,39224.0,Active,,Store Manager
+MM-JM-349,MegaMart Ocho Rios #13,"67 Main Street, Ocho Rios / St. Ann's Bay, St. Ann",St. Ann,Ocho Rios / St. Ann's Bay,Central,Express / Regional,2015-01-01,39224.0,Active,,Store Manager
+MM-JM-350,MegaMart Falmouth #9,"51 Main Street, Falmouth, Trelawny",Trelawny,Falmouth,Western,Express / Regional,2015-01-01,32975.0,Active,,Store Manager
+MM-JM-351,MegaMart Mandeville #22,"103 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-352,MegaMart Portmore #42,"Lot 52, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-353,MegaMart Montego Bay #22,"103 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-354,MegaMart Morant Bay #6,"39 Main Street, Morant Bay, St. Thomas",St. Thomas,Morant Bay,South East/Urban,Express / Regional,2015-01-01,33984.0,Active,,Store Manager
+MM-JM-355,MegaMart Kingston #65,"Part Of Hansonton Now Known As 78 Old Hope Road, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-356,MegaMart May Pen #29,"Lot 39, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-357,MegaMart Portmore #43,"Lot 53, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-358,MegaMart Kingston #66,"Lot 114a Part Of Ferry Pen, St, Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-359,MegaMart Kingston #67,"7 & 9 Clieveden Avenue, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-360,MegaMart Black River #11,"59 Main Street, Black River, St. Elizabeth",St. Elizabeth,Black River,Western,Express / Regional,2015-01-01,37630.0,Active,,Store Manager
+MM-JM-361,MegaMart Kingston #68,"Part Of Cedar Valley, Red Hills , St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-362,MegaMart Portmore #44,"Lot 54, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-363,MegaMart Port Maria #9,"51 Main Street, Port Maria, St. Mary",St. Mary,Port Maria,Central,Express / Regional,2015-01-01,35296.0,Active,,Store Manager
+MM-JM-364,MegaMart Kingston #69,"Lot 23, 5 Oakshore Road, Wellington Heights",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-365,MegaMart Portmore #45,"Lot 55, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-366,MegaMart Kingston #70,"14 Millsborough Avenue, Kingston 6",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-367,MegaMart Port Antonio #11,"59 Main Street, Port Antonio, Portland",Portland,Port Antonio,Central,Express / Regional,2015-01-01,33130.0,Active,,Store Manager
+MM-JM-368,MegaMart Kingston #71,"Part Of Tommy Hill, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-369,MegaMart Kingston #72,"Part Of Golden Spring, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-370,MegaMart Kingston #73,"Part Of Everton, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-371,MegaMart Kingston #74,"Part Of Hansonton Now Known As 78 Old Hope Road, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-372,MegaMart Kingston #75,"Part Of Salisbury Plain, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-373,MegaMart Kingston #76,"Part Of Essex Hall , St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-374,MegaMart Savanna-la-Mar #17,"83 Main Street, Savanna-la-Mar, Westmoreland",Westmoreland,Savanna-la-Mar,Western,Express / Regional,2015-01-01,37500.0,Active,,Store Manager
+MM-JM-375,MegaMart Mandeville #23,"107 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-376,MegaMart Ocho Rios #14,"71 Main Street, Ocho Rios / St. Ann's Bay, St. Ann",St. Ann,Ocho Rios / St. Ann's Bay,Central,Express / Regional,2015-01-01,39224.0,Active,,Store Manager
+MM-JM-377,MegaMart Port Maria #10,"55 Main Street, Port Maria, St. Mary",St. Mary,Port Maria,Central,Express / Regional,2015-01-01,35296.0,Active,,Store Manager
+MM-JM-378,MegaMart Montego Bay #23,"107 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-379,MegaMart Portmore #46,"Lot 56, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-380,MegaMart Portmore #47,"Lot 57, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-381,MegaMart Kingston #77,"Part Of Mount Zion, Rock Hall, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-382,MegaMart Kingston #78,"14 Millsborough Avenue, Kingston 6",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-383,MegaMart Kingston #79,"Part Of Grosvenor, Manor Park Now Know As 11 Grosvenor Terrace Kingston 8",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-384,MegaMart Morant Bay #7,"43 Main Street, Morant Bay, St. Thomas",St. Thomas,Morant Bay,South East/Urban,Express / Regional,2015-01-01,33984.0,Active,,Store Manager
+MM-JM-385,MegaMart Savanna-la-Mar #18,"87 Main Street, Savanna-la-Mar, Westmoreland",Westmoreland,Savanna-la-Mar,Western,Express / Regional,2015-01-01,37500.0,Active,,Store Manager
+MM-JM-386,MegaMart Falmouth #10,"55 Main Street, Falmouth, Trelawny",Trelawny,Falmouth,Western,Express / Regional,2015-01-01,32975.0,Active,,Store Manager
+MM-JM-387,MegaMart Kingston #80,"Part Of Hansonton Now Known As 78 Old Hope Road, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-388,MegaMart Ocho Rios #15,"75 Main Street, Ocho Rios / St. Ann's Bay, St. Ann",St. Ann,Ocho Rios / St. Ann's Bay,Central,Express / Regional,2015-01-01,39224.0,Active,,Store Manager
+MM-JM-389,MegaMart Lucea #5,"35 Main Street, Lucea, Hanover",Hanover,Lucea,Western,Express / Regional,2015-01-01,32597.0,Active,,Store Manager
+MM-JM-390,MegaMart Kingston #81,"Lot 114a Part Of Ferry Pen, St, Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-391,MegaMart Portmore #48,"Lot 58, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-392,MegaMart Kingston #82,"Part Of Ellerslie, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-393,MegaMart Portmore #49,"Lot 59, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-394,MegaMart Kingston #83,"Part of Lindos Gap, Dallas Castle, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-395,MegaMart Portmore #50,"Lot 60, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-396,MegaMart Portmore #51,"Lot 61, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-397,MegaMart Portmore #52,"Lot 62, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-398,MegaMart May Pen #30,"Lot 40, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-399,MegaMart May Pen #31,"Lot 41, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-400,MegaMart Black River #12,"63 Main Street, Black River, St. Elizabeth",St. Elizabeth,Black River,Western,Express / Regional,2015-01-01,37630.0,Active,,Store Manager
+MM-JM-401,MegaMart May Pen #32,"Lot 42, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-402,MegaMart Kingston #84,"Part Of Everton, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-403,MegaMart Lucea #6,"39 Main Street, Lucea, Hanover",Hanover,Lucea,Western,Express / Regional,2015-01-01,32597.0,Active,,Store Manager
+MM-JM-404,MegaMart Lucea #7,"43 Main Street, Lucea, Hanover",Hanover,Lucea,Western,Express / Regional,2015-01-01,32597.0,Active,,Store Manager
+MM-JM-405,MegaMart Portmore #53,"Lot 63, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-406,MegaMart Montego Bay #24,"111 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-407,MegaMart Ocho Rios #16,"79 Main Street, Ocho Rios / St. Ann's Bay, St. Ann",St. Ann,Ocho Rios / St. Ann's Bay,Central,Express / Regional,2015-01-01,39224.0,Active,,Store Manager
+MM-JM-408,MegaMart Black River #13,"67 Main Street, Black River, St. Elizabeth",St. Elizabeth,Black River,Western,Express / Regional,2015-01-01,37630.0,Active,,Store Manager
+MM-JM-409,MegaMart Morant Bay #8,"47 Main Street, Morant Bay, St. Thomas",St. Thomas,Morant Bay,South East/Urban,Express / Regional,2015-01-01,33984.0,Active,,Store Manager
+MM-JM-410,MegaMart Kingston #85,"Part of Lindos Gap, Dallas Castle, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-411,MegaMart Montego Bay #25,"115 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-412,MegaMart Falmouth #11,"59 Main Street, Falmouth, Trelawny",Trelawny,Falmouth,Western,Express / Regional,2015-01-01,32975.0,Active,,Store Manager
+MM-JM-413,MegaMart Kingston #86,"Part Of Mount Zion, Rock Hall, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-414,MegaMart Ocho Rios #17,"83 Main Street, Ocho Rios / St. Ann's Bay, St. Ann",St. Ann,Ocho Rios / St. Ann's Bay,Central,Express / Regional,2015-01-01,39224.0,Active,,Store Manager
+MM-JM-415,MegaMart Ocho Rios #18,"87 Main Street, Ocho Rios / St. Ann's Bay, St. Ann",St. Ann,Ocho Rios / St. Ann's Bay,Central,Express / Regional,2015-01-01,39224.0,Active,,Store Manager
+MM-JM-416,MegaMart Port Maria #11,"59 Main Street, Port Maria, St. Mary",St. Mary,Port Maria,Central,Express / Regional,2015-01-01,35296.0,Active,,Store Manager
+MM-JM-417,MegaMart Ocho Rios #19,"91 Main Street, Ocho Rios / St. Ann's Bay, St. Ann",St. Ann,Ocho Rios / St. Ann's Bay,Central,Express / Regional,2015-01-01,39224.0,Active,,Store Manager
+MM-JM-418,MegaMart Mandeville #24,"111 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-419,MegaMart Port Antonio #12,"63 Main Street, Port Antonio, Portland",Portland,Port Antonio,Central,Express / Regional,2015-01-01,33130.0,Active,,Store Manager
+MM-JM-420,MegaMart Portmore #54,"Lot 64, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-421,MegaMart Portmore #55,"Lot 65, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-422,MegaMart Montego Bay #26,"119 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-423,MegaMart Port Maria #12,"63 Main Street, Port Maria, St. Mary",St. Mary,Port Maria,Central,Express / Regional,2015-01-01,35296.0,Active,,Store Manager
+MM-JM-424,MegaMart Lucea #8,"47 Main Street, Lucea, Hanover",Hanover,Lucea,Western,Express / Regional,2015-01-01,32597.0,Active,,Store Manager
+MM-JM-425,MegaMart Portmore #56,"Lot 66, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-426,MegaMart Mandeville #25,"115 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-427,MegaMart May Pen #33,"Lot 43, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-428,MegaMart Lucea #9,"51 Main Street, Lucea, Hanover",Hanover,Lucea,Western,Express / Regional,2015-01-01,32597.0,Active,,Store Manager
+MM-JM-429,MegaMart Black River #14,"71 Main Street, Black River, St. Elizabeth",St. Elizabeth,Black River,Western,Express / Regional,2015-01-01,37630.0,Active,,Store Manager
+MM-JM-430,MegaMart Port Antonio #13,"67 Main Street, Port Antonio, Portland",Portland,Port Antonio,Central,Express / Regional,2015-01-01,33130.0,Active,,Store Manager
+MM-JM-431,MegaMart May Pen #34,"Lot 44, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-432,MegaMart Kingston #87,"Part Of Tommy Hill, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-433,MegaMart Mandeville #26,"119 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-434,MegaMart Portmore #57,"Lot 67, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-435,MegaMart Kingston #88,"Part Of Hansonton Now Known As 78 Old Hope Road, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-436,MegaMart Black River #15,"75 Main Street, Black River, St. Elizabeth",St. Elizabeth,Black River,Western,Express / Regional,2015-01-01,37630.0,Active,,Store Manager
+MM-JM-437,MegaMart Kingston #89,"Part Of Essex Hall , St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-438,MegaMart May Pen #35,"Lot 45, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-439,MegaMart Kingston #90,"7 & 9 Clieveden Avenue, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-440,MegaMart Portmore #58,"Lot 68, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-441,MegaMart Kingston #91,"Part Of Cedar Valley, Red Hills , St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-442,MegaMart Portmore #59,"Lot 69, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-443,MegaMart May Pen #36,"Lot 46, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-444,MegaMart Black River #16,"79 Main Street, Black River, St. Elizabeth",St. Elizabeth,Black River,Western,Express / Regional,2015-01-01,37630.0,Active,,Store Manager
+MM-JM-445,MegaMart May Pen #37,"Lot 47, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-446,MegaMart May Pen #38,"Lot 48, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-447,MegaMart Portmore #60,"Lot 70, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-448,MegaMart Morant Bay #9,"51 Main Street, Morant Bay, St. Thomas",St. Thomas,Morant Bay,South East/Urban,Express / Regional,2015-01-01,33984.0,Active,,Store Manager
+MM-JM-449,MegaMart Savanna-la-Mar #19,"91 Main Street, Savanna-la-Mar, Westmoreland",Westmoreland,Savanna-la-Mar,Western,Express / Regional,2015-01-01,37500.0,Active,,Store Manager
+MM-JM-450,MegaMart Kingston #92,"Part Of Everton, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-451,MegaMart Black River #17,"83 Main Street, Black River, St. Elizabeth",St. Elizabeth,Black River,Western,Express / Regional,2015-01-01,37630.0,Active,,Store Manager
+MM-JM-452,MegaMart Kingston #93,"Part Of Salisbury Plain, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-453,MegaMart Savanna-la-Mar #20,"95 Main Street, Savanna-la-Mar, Westmoreland",Westmoreland,Savanna-la-Mar,Western,Express / Regional,2015-01-01,37500.0,Active,,Store Manager
+MM-JM-454,MegaMart Savanna-la-Mar #21,"99 Main Street, Savanna-la-Mar, Westmoreland",Westmoreland,Savanna-la-Mar,Western,Express / Regional,2015-01-01,37500.0,Active,,Store Manager
+MM-JM-455,MegaMart Montego Bay #27,"123 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-456,MegaMart Lucea #10,"55 Main Street, Lucea, Hanover",Hanover,Lucea,Western,Express / Regional,2015-01-01,32597.0,Active,,Store Manager
+MM-JM-457,MegaMart May Pen #39,"Lot 49, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-458,MegaMart May Pen #40,"Lot 50, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-459,MegaMart Montego Bay #28,"127 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-460,MegaMart Black River #18,"87 Main Street, Black River, St. Elizabeth",St. Elizabeth,Black River,Western,Express / Regional,2015-01-01,37630.0,Active,,Store Manager
+MM-JM-461,MegaMart Portmore #61,"Lot 71, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-462,MegaMart Kingston #94,"14 Millsborough Avenue, Kingston 6",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-463,MegaMart Kingston #95,"Part Of Grosvenor, Manor Park Now Know As 11 Grosvenor Terrace Kingston 8",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-464,MegaMart Kingston #96,"Part Of Tommy Hill, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-465,MegaMart Mandeville #27,"123 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-466,MegaMart Falmouth #12,"63 Main Street, Falmouth, Trelawny",Trelawny,Falmouth,Western,Express / Regional,2015-01-01,32975.0,Active,,Store Manager
+MM-JM-467,MegaMart May Pen #41,"Lot 51, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-468,MegaMart Mandeville #28,"127 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-469,MegaMart Port Maria #13,"67 Main Street, Port Maria, St. Mary",St. Mary,Port Maria,Central,Express / Regional,2015-01-01,35296.0,Active,,Store Manager
+MM-JM-470,MegaMart Portmore #62,"Lot 72, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-471,MegaMart May Pen #42,"Lot 52, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-472,MegaMart Morant Bay #10,"55 Main Street, Morant Bay, St. Thomas",St. Thomas,Morant Bay,South East/Urban,Express / Regional,2015-01-01,33984.0,Active,,Store Manager
+MM-JM-473,MegaMart Ocho Rios #20,"95 Main Street, Ocho Rios / St. Ann's Bay, St. Ann",St. Ann,Ocho Rios / St. Ann's Bay,Central,Express / Regional,2015-01-01,39224.0,Active,,Store Manager
+MM-JM-474,MegaMart Port Maria #14,"71 Main Street, Port Maria, St. Mary",St. Mary,Port Maria,Central,Express / Regional,2015-01-01,35296.0,Active,,Store Manager
+MM-JM-475,MegaMart Kingston #97,"Part of Freetown, Woodford, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-476,MegaMart Kingston #98,"Lot 23, 5 Oakshore Road, Wellington Heights",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-477,MegaMart Portmore #63,"Lot 73, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-478,MegaMart Falmouth #13,"67 Main Street, Falmouth, Trelawny",Trelawny,Falmouth,Western,Express / Regional,2015-01-01,32975.0,Active,,Store Manager
+MM-JM-479,MegaMart Ocho Rios #21,"99 Main Street, Ocho Rios / St. Ann's Bay, St. Ann",St. Ann,Ocho Rios / St. Ann's Bay,Central,Express / Regional,2015-01-01,39224.0,Active,,Store Manager
+MM-JM-480,MegaMart May Pen #43,"Lot 53, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-481,MegaMart Savanna-la-Mar #22,"103 Main Street, Savanna-la-Mar, Westmoreland",Westmoreland,Savanna-la-Mar,Western,Express / Regional,2015-01-01,37500.0,Active,,Store Manager
+MM-JM-482,MegaMart Portmore #64,"Lot 74, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-483,MegaMart May Pen #44,"Lot 54, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-484,MegaMart Montego Bay #29,"131 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-485,MegaMart Ocho Rios #22,"103 Main Street, Ocho Rios / St. Ann's Bay, St. Ann",St. Ann,Ocho Rios / St. Ann's Bay,Central,Express / Regional,2015-01-01,39224.0,Active,,Store Manager
+MM-JM-486,MegaMart Portmore #65,"Lot 75, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-487,MegaMart Mandeville #29,"131 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-488,MegaMart Portmore #66,"Lot 76, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-489,MegaMart Kingston #99,"Part Of Cedar Valley, Red Hills , St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-490,MegaMart Portmore #67,"Lot 77, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-491,MegaMart Black River #19,"91 Main Street, Black River, St. Elizabeth",St. Elizabeth,Black River,Western,Express / Regional,2015-01-01,37630.0,Active,,Store Manager
+MM-JM-492,MegaMart Kingston #100,"Lot 23, 5 Oakshore Road, Wellington Heights",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-493,MegaMart Savanna-la-Mar #23,"107 Main Street, Savanna-la-Mar, Westmoreland",Westmoreland,Savanna-la-Mar,Western,Express / Regional,2015-01-01,37500.0,Active,,Store Manager
+MM-JM-494,MegaMart Mandeville #30,"135 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-495,MegaMart Kingston #101,"Part Of Grosvenor, Manor Park Now Know As 11 Grosvenor Terrace Kingston 8",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-496,MegaMart Montego Bay #30,"135 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-497,MegaMart Portmore #68,"Lot 78, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-498,MegaMart Port Antonio #14,"71 Main Street, Port Antonio, Portland",Portland,Port Antonio,Central,Express / Regional,2015-01-01,33130.0,Active,,Store Manager
+MM-JM-499,MegaMart Montego Bay #31,"139 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-500,MegaMart Montego Bay #32,"143 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-501,MegaMart Port Antonio #15,"75 Main Street, Port Antonio, Portland",Portland,Port Antonio,Central,Express / Regional,2015-01-01,33130.0,Active,,Store Manager
+MM-JM-502,MegaMart Portmore #69,"Lot 79, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-503,MegaMart May Pen #45,"Lot 55, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-504,MegaMart Kingston #102,"Part Of Ellerslie, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-505,MegaMart Portmore #70,"Lot 80, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-506,MegaMart Portmore #71,"Lot 81, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-507,MegaMart Port Antonio #16,"79 Main Street, Port Antonio, Portland",Portland,Port Antonio,Central,Express / Regional,2015-01-01,33130.0,Active,,Store Manager
+MM-JM-508,MegaMart Portmore #72,"Lot 82, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-509,MegaMart Kingston #103,"Part Of Mount Zion, Rock Hall, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-510,MegaMart Portmore #73,"Lot 83, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-511,MegaMart Mandeville #31,"139 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-512,MegaMart Mandeville #32,"143 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-513,MegaMart Kingston #104,"Part Of Golden Spring, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-514,MegaMart Portmore #74,"Lot 84, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-515,MegaMart Kingston #105,"Part Of Hansonton Now Known As 78 Old Hope Road, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-516,MegaMart Kingston #106,"Part Of Salisbury Plain, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-517,MegaMart Kingston #107,"Part Of Essex Hall , St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-518,MegaMart May Pen #46,"Lot 56, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-519,MegaMart Kingston #108,"7 & 9 Clieveden Avenue, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-520,MegaMart Portmore #75,"Lot 85, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-521,MegaMart Mandeville #33,"147 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-522,MegaMart Kingston #109,"Part of Lindos Gap, Dallas Castle, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-523,MegaMart Kingston #110,"Part of Freetown, Woodford, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-524,MegaMart Kingston #111,"Lot 23, 5 Oakshore Road, Wellington Heights",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-525,MegaMart Black River #20,"95 Main Street, Black River, St. Elizabeth",St. Elizabeth,Black River,Western,Express / Regional,2015-01-01,37630.0,Active,,Store Manager
+MM-JM-526,MegaMart May Pen #47,"Lot 57, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-527,MegaMart Kingston #112,"Part Of Grosvenor, Manor Park Now Know As 11 Grosvenor Terrace Kingston 8",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-528,MegaMart Portmore #76,"Lot 86, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-529,MegaMart Kingston #113,"Part Of Golden Spring, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-530,MegaMart May Pen #48,"Lot 58, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-531,MegaMart Portmore #77,"Lot 87, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-532,MegaMart May Pen #49,"Lot 59, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-533,MegaMart Mandeville #34,"151 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-534,MegaMart Portmore #78,"Lot 88, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-535,MegaMart Kingston #114,"7 & 9 Clieveden Avenue, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-536,MegaMart Kingston #115,"Part Of Ellerslie, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-537,MegaMart Kingston #116,"Part Of Cedar Valley, Red Hills , St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-538,MegaMart Montego Bay #33,"147 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-539,MegaMart May Pen #50,"Lot 60, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-540,MegaMart Black River #21,"99 Main Street, Black River, St. Elizabeth",St. Elizabeth,Black River,Western,Express / Regional,2015-01-01,37630.0,Active,,Store Manager
+MM-JM-541,MegaMart Portmore #79,"Lot 89, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-542,MegaMart Kingston #117,"14 Millsborough Avenue, Kingston 6",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-543,MegaMart May Pen #51,"Lot 61, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-544,MegaMart Kingston #118,"Part Of Tommy Hill, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-545,MegaMart Morant Bay #11,"59 Main Street, Morant Bay, St. Thomas",St. Thomas,Morant Bay,South East/Urban,Express / Regional,2015-01-01,33984.0,Active,,Store Manager
+MM-JM-546,MegaMart Mandeville #35,"155 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-547,MegaMart Portmore #80,"Lot 90, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-548,MegaMart Black River #22,"103 Main Street, Black River, St. Elizabeth",St. Elizabeth,Black River,Western,Express / Regional,2015-01-01,37630.0,Active,,Store Manager
+MM-JM-549,MegaMart Kingston #119,"Part Of Essex Hall , St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-550,MegaMart Black River #23,"107 Main Street, Black River, St. Elizabeth",St. Elizabeth,Black River,Western,Express / Regional,2015-01-01,37630.0,Active,,Store Manager
+MM-JM-551,MegaMart Kingston #120,"7 & 9 Clieveden Avenue, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-552,MegaMart Portmore #81,"Lot 91, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-553,MegaMart Mandeville #36,"159 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-554,MegaMart Kingston #121,"Part of Lindos Gap, Dallas Castle, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-555,MegaMart Kingston #122,"Part of Freetown, Woodford, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-556,MegaMart Kingston #123,"Lot 23, 5 Oakshore Road, Wellington Heights",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-557,MegaMart Portmore #82,"Lot 92, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-558,MegaMart Montego Bay #34,"151 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-559,MegaMart May Pen #52,"Lot 62, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-560,MegaMart Black River #24,"111 Main Street, Black River, St. Elizabeth",St. Elizabeth,Black River,Western,Express / Regional,2015-01-01,37630.0,Active,,Store Manager
+MM-JM-561,MegaMart Savanna-la-Mar #24,"111 Main Street, Savanna-la-Mar, Westmoreland",Westmoreland,Savanna-la-Mar,Western,Express / Regional,2015-01-01,37500.0,Active,,Store Manager
+MM-JM-562,MegaMart Kingston #124,"Part Of Everton, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-563,MegaMart Portmore #83,"Lot 93, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-564,MegaMart Port Antonio #17,"83 Main Street, Port Antonio, Portland",Portland,Port Antonio,Central,Express / Regional,2015-01-01,33130.0,Active,,Store Manager
+MM-JM-565,MegaMart Savanna-la-Mar #25,"115 Main Street, Savanna-la-Mar, Westmoreland",Westmoreland,Savanna-la-Mar,Western,Express / Regional,2015-01-01,37500.0,Active,,Store Manager
+MM-JM-566,MegaMart Mandeville #37,"163 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-567,MegaMart Mandeville #38,"167 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-568,MegaMart Portmore #84,"Lot 94, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-569,MegaMart Kingston #125,"Part Of Cedar Valley, Red Hills , St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-570,MegaMart Montego Bay #35,"155 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-571,MegaMart Ocho Rios #23,"107 Main Street, Ocho Rios / St. Ann's Bay, St. Ann",St. Ann,Ocho Rios / St. Ann's Bay,Central,Express / Regional,2015-01-01,39224.0,Active,,Store Manager
+MM-JM-572,MegaMart Montego Bay #36,"159 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-573,MegaMart Kingston #126,"Part Of Mount Zion, Rock Hall, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-574,MegaMart Kingston #127,"14 Millsborough Avenue, Kingston 6",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-575,MegaMart Port Antonio #18,"87 Main Street, Port Antonio, Portland",Portland,Port Antonio,Central,Express / Regional,2015-01-01,33130.0,Active,,Store Manager
+MM-JM-576,MegaMart Port Antonio #19,"91 Main Street, Port Antonio, Portland",Portland,Port Antonio,Central,Express / Regional,2015-01-01,33130.0,Active,,Store Manager
+MM-JM-577,MegaMart Falmouth #14,"71 Main Street, Falmouth, Trelawny",Trelawny,Falmouth,Western,Express / Regional,2015-01-01,32975.0,Active,,Store Manager
+MM-JM-578,MegaMart Black River #25,"115 Main Street, Black River, St. Elizabeth",St. Elizabeth,Black River,Western,Express / Regional,2015-01-01,37630.0,Active,,Store Manager
+MM-JM-579,MegaMart Black River #26,"119 Main Street, Black River, St. Elizabeth",St. Elizabeth,Black River,Western,Express / Regional,2015-01-01,37630.0,Active,,Store Manager
+MM-JM-580,MegaMart Ocho Rios #24,"111 Main Street, Ocho Rios / St. Ann's Bay, St. Ann",St. Ann,Ocho Rios / St. Ann's Bay,Central,Express / Regional,2015-01-01,39224.0,Active,,Store Manager
+MM-JM-581,MegaMart Ocho Rios #25,"115 Main Street, Ocho Rios / St. Ann's Bay, St. Ann",St. Ann,Ocho Rios / St. Ann's Bay,Central,Express / Regional,2015-01-01,39224.0,Active,,Store Manager
+MM-JM-582,MegaMart Kingston #128,"Lot 114a Part Of Ferry Pen, St, Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-583,MegaMart Savanna-la-Mar #26,"119 Main Street, Savanna-la-Mar, Westmoreland",Westmoreland,Savanna-la-Mar,Western,Express / Regional,2015-01-01,37500.0,Active,,Store Manager
+MM-JM-584,MegaMart Port Maria #15,"75 Main Street, Port Maria, St. Mary",St. Mary,Port Maria,Central,Express / Regional,2015-01-01,35296.0,Active,,Store Manager
+MM-JM-585,MegaMart Kingston #129,"Part Of Cedar Valley, Red Hills , St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-586,MegaMart Falmouth #15,"75 Main Street, Falmouth, Trelawny",Trelawny,Falmouth,Western,Express / Regional,2015-01-01,32975.0,Active,,Store Manager
+MM-JM-587,MegaMart Montego Bay #37,"163 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-588,MegaMart Kingston #130,"Lot 23, 5 Oakshore Road, Wellington Heights",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-589,MegaMart Savanna-la-Mar #27,"123 Main Street, Savanna-la-Mar, Westmoreland",Westmoreland,Savanna-la-Mar,Western,Express / Regional,2015-01-01,37500.0,Active,,Store Manager
+MM-JM-590,MegaMart Savanna-la-Mar #28,"127 Main Street, Savanna-la-Mar, Westmoreland",Westmoreland,Savanna-la-Mar,Western,Express / Regional,2015-01-01,37500.0,Active,,Store Manager
+MM-JM-591,MegaMart Mandeville #39,"171 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-592,MegaMart Black River #27,"123 Main Street, Black River, St. Elizabeth",St. Elizabeth,Black River,Western,Express / Regional,2015-01-01,37630.0,Active,,Store Manager
+MM-JM-593,MegaMart Mandeville #40,"175 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-594,MegaMart Port Maria #16,"79 Main Street, Port Maria, St. Mary",St. Mary,Port Maria,Central,Express / Regional,2015-01-01,35296.0,Active,,Store Manager
+MM-JM-595,MegaMart May Pen #53,"Lot 63, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-596,MegaMart Savanna-la-Mar #29,"131 Main Street, Savanna-la-Mar, Westmoreland",Westmoreland,Savanna-la-Mar,Western,Express / Regional,2015-01-01,37500.0,Active,,Store Manager
+MM-JM-597,MegaMart Falmouth #16,"79 Main Street, Falmouth, Trelawny",Trelawny,Falmouth,Western,Express / Regional,2015-01-01,32975.0,Active,,Store Manager
+MM-JM-598,MegaMart Black River #28,"127 Main Street, Black River, St. Elizabeth",St. Elizabeth,Black River,Western,Express / Regional,2015-01-01,37630.0,Active,,Store Manager
+MM-JM-599,MegaMart Ocho Rios #26,"119 Main Street, Ocho Rios / St. Ann's Bay, St. Ann",St. Ann,Ocho Rios / St. Ann's Bay,Central,Express / Regional,2015-01-01,39224.0,Active,,Store Manager
+MM-JM-600,MegaMart Lucea #11,"59 Main Street, Lucea, Hanover",Hanover,Lucea,Western,Express / Regional,2015-01-01,32597.0,Active,,Store Manager
+MM-JM-601,MegaMart May Pen #54,"Lot 64, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-602,MegaMart Portmore #85,"Lot 95, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-603,MegaMart Portmore #86,"Lot 96, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-604,MegaMart Montego Bay #38,"167 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-605,MegaMart Lucea #12,"63 Main Street, Lucea, Hanover",Hanover,Lucea,Western,Express / Regional,2015-01-01,32597.0,Active,,Store Manager
+MM-JM-606,MegaMart May Pen #55,"Lot 65, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-607,MegaMart Port Maria #17,"83 Main Street, Port Maria, St. Mary",St. Mary,Port Maria,Central,Express / Regional,2015-01-01,35296.0,Active,,Store Manager
+MM-JM-608,MegaMart Portmore #87,"Lot 97, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-609,MegaMart Montego Bay #39,"171 Main Street, Montego Bay, St. James",St. James,Montego Bay,Western,Express / Regional,2015-01-01,40155.0,Active,,Store Manager
+MM-JM-610,MegaMart Kingston #131,"Part Of Everton, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-611,MegaMart Kingston #132,"Part Of Hansonton Now Known As 78 Old Hope Road, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-612,MegaMart Portmore #88,"Lot 98, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-613,MegaMart Kingston #133,"Part Of Essex Hall , St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-614,MegaMart Port Antonio #20,"95 Main Street, Port Antonio, Portland",Portland,Port Antonio,Central,Express / Regional,2015-01-01,33130.0,Active,,Store Manager
+MM-JM-615,MegaMart Port Maria #18,"87 Main Street, Port Maria, St. Mary",St. Mary,Port Maria,Central,Express / Regional,2015-01-01,35296.0,Active,,Store Manager
+MM-JM-616,MegaMart Kingston #134,"Part Of Ellerslie, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-617,MegaMart Port Maria #19,"91 Main Street, Port Maria, St. Mary",St. Mary,Port Maria,Central,Express / Regional,2015-01-01,35296.0,Active,,Store Manager
+MM-JM-618,MegaMart May Pen #56,"Lot 66, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-619,MegaMart Kingston #135,"Part of Freetown, Woodford, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-620,MegaMart Portmore #89,"Lot 99, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-621,MegaMart Portmore #90,"Lot 100, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-622,MegaMart Ocho Rios #27,"123 Main Street, Ocho Rios / St. Ann's Bay, St. Ann",St. Ann,Ocho Rios / St. Ann's Bay,Central,Express / Regional,2015-01-01,39224.0,Active,,Store Manager
+MM-JM-623,MegaMart Kingston #136,"Part Of Grosvenor, Manor Park Now Know As 11 Grosvenor Terrace Kingston 8",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-624,MegaMart Black River #29,"131 Main Street, Black River, St. Elizabeth",St. Elizabeth,Black River,Western,Express / Regional,2015-01-01,37630.0,Active,,Store Manager
+MM-JM-625,MegaMart Kingston #137,"Part Of Golden Spring, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-626,MegaMart Ocho Rios #28,"127 Main Street, Ocho Rios / St. Ann's Bay, St. Ann",St. Ann,Ocho Rios / St. Ann's Bay,Central,Express / Regional,2015-01-01,39224.0,Active,,Store Manager
+MM-JM-627,MegaMart Portmore #91,"Lot 101, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-628,MegaMart Portmore #92,"Lot 102, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-629,MegaMart May Pen #57,"Lot 67, May Pen Commercial Centre, Clarendon",Clarendon,May Pen,Central,Superstore,2015-01-01,43666.0,Active,,Store Manager
+MM-JM-630,MegaMart Port Maria #20,"95 Main Street, Port Maria, St. Mary",St. Mary,Port Maria,Central,Express / Regional,2015-01-01,35296.0,Active,,Store Manager
+MM-JM-631,MegaMart Mandeville #41,"179 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-632,MegaMart Mandeville #42,"183 Main Street, Mandeville, Manchester",Manchester,Mandeville,Central,Express / Regional,2015-01-01,40154.0,Active,,Store Manager
+MM-JM-633,MegaMart Ocho Rios #29,"131 Main Street, Ocho Rios / St. Ann's Bay, St. Ann",St. Ann,Ocho Rios / St. Ann's Bay,Central,Express / Regional,2015-01-01,39224.0,Active,,Store Manager
+MM-JM-634,MegaMart Black River #30,"135 Main Street, Black River, St. Elizabeth",St. Elizabeth,Black River,Western,Express / Regional,2015-01-01,37630.0,Active,,Store Manager
+MM-JM-635,MegaMart Kingston #138,"Part of Freetown, Woodford, St. Andrew",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-636,MegaMart Kingston #139,"Lot 23, 5 Oakshore Road, Wellington Heights",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-637,MegaMart Lucea #13,"67 Main Street, Lucea, Hanover",Hanover,Lucea,Western,Express / Regional,2015-01-01,32597.0,Active,,Store Manager
+MM-JM-638,MegaMart Kingston #140,"14 Millsborough Avenue, Kingston 6",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-639,MegaMart Kingston #141,"Part Of Grosvenor, Manor Park Now Know As 11 Grosvenor Terrace Kingston 8",Kingston and St. Andrew,Kingston,South East/Urban,Flagship Hypermarket,2015-01-01,70000.0,Active,,Store Manager
+MM-JM-640,MegaMart Portmore #93,"Lot 103, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-641,MegaMart Portmore #94,"Lot 104, Portmore Commercial Centre, St. Catherine",St. Catherine,Portmore / Spanish Town,South East/Urban,Superstore,2015-01-01,61017.0,Active,,Store Manager
+MM-JM-642,MegaMart Savanna-la-Mar #30,"135 Main Street, Savanna-la-Mar, Westmoreland",Westmoreland,Savanna-la-Mar,Western,Express / Regional,2015-01-01,37500.0,Active,,Store Manager

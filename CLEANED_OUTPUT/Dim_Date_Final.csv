@@ -1,0 +1,477 @@
+full_date,date_key,day_of_week,day_name,week_of_year,month_name,quarter,fiscal_year,is_weekend,is_holiday,holiday_name,season_name,is_hurricane_season
+2016-10-04,20161004,Tuesday,Tuesday,40,October,4,2016,0,0,,Hurricane / Wet,1
+2016-10-06,20161006,Thursday,Thursday,40,October,4,2016,0,0,,Hurricane / Wet,1
+2016-10-07,20161007,Friday,Friday,40,October,4,2016,0,0,,Hurricane / Wet,1
+2016-10-08,20161008,Saturday,Saturday,40,October,4,2016,1,0,,Hurricane / Wet,1
+2016-10-09,20161009,Sunday,Sunday,40,October,4,2016,1,0,,Hurricane / Wet,1
+2017-01-18,20170118,Wednesday,Wednesday,3,January,1,2017,0,0,,Dry,0
+2017-01-23,20170123,Monday,Monday,4,January,1,2017,0,0,,Dry,0
+2017-01-24,20170124,Tuesday,Tuesday,4,January,1,2017,0,0,,Dry,0
+2017-01-25,20170125,Wednesday,Wednesday,4,January,1,2017,0,0,,Dry,0
+2017-01-26,20170126,Thursday,Thursday,4,January,1,2017,0,0,,Dry,0
+2017-01-27,20170127,Friday,Friday,4,January,1,2017,0,0,,Dry,0
+2017-01-28,20170128,Saturday,Saturday,4,January,1,2017,1,0,,Dry,0
+2017-01-30,20170130,Monday,Monday,5,January,1,2017,0,0,,Dry,0
+2017-02-03,20170203,Friday,Friday,5,February,1,2017,0,0,,Dry,0
+2017-02-04,20170204,Saturday,Saturday,5,February,1,2017,1,0,,Dry,0
+2017-02-05,20170205,Sunday,Sunday,5,February,1,2017,1,0,,Dry,0
+2017-02-06,20170206,Monday,Monday,6,February,1,2017,0,0,,Dry,0
+2017-02-07,20170207,Tuesday,Tuesday,6,February,1,2017,0,0,,Dry,0
+2017-02-11,20170211,Saturday,Saturday,6,February,1,2017,1,0,,Dry,0
+2017-02-13,20170213,Monday,Monday,7,February,1,2017,0,0,,Dry,0
+2017-02-15,20170215,Wednesday,Wednesday,7,February,1,2017,0,0,,Dry,0
+2017-02-17,20170217,Friday,Friday,7,February,1,2017,0,0,,Dry,0
+2017-02-19,20170219,Sunday,Sunday,7,February,1,2017,1,0,,Dry,0
+2017-02-21,20170221,Tuesday,Tuesday,8,February,1,2017,0,0,,Dry,0
+2017-02-22,20170222,Wednesday,Wednesday,8,February,1,2017,0,0,,Dry,0
+2017-02-25,20170225,Saturday,Saturday,8,February,1,2017,1,0,,Dry,0
+2017-02-26,20170226,Sunday,Sunday,8,February,1,2017,1,0,,Dry,0
+2017-03-01,20170301,Wednesday,Wednesday,9,March,1,2017,0,0,,Dry,0
+2017-03-02,20170302,Thursday,Thursday,9,March,1,2017,0,0,,Dry,0
+2017-03-03,20170303,Friday,Friday,9,March,1,2017,0,0,,Dry,0
+2017-03-04,20170304,Saturday,Saturday,9,March,1,2017,1,0,,Dry,0
+2017-03-05,20170305,Sunday,Sunday,9,March,1,2017,1,0,,Dry,0
+2017-03-06,20170306,Monday,Monday,10,March,1,2017,0,0,,Dry,0
+2017-03-08,20170308,Wednesday,Wednesday,10,March,1,2017,0,0,,Dry,0
+2017-03-09,20170309,Thursday,Thursday,10,March,1,2017,0,0,,Dry,0
+2017-03-11,20170311,Saturday,Saturday,10,March,1,2017,1,0,,Dry,0
+2017-03-13,20170313,Monday,Monday,11,March,1,2017,0,0,,Dry,0
+2017-03-14,20170314,Tuesday,Tuesday,11,March,1,2017,0,0,,Dry,0
+2017-03-15,20170315,Wednesday,Wednesday,11,March,1,2017,0,0,,Dry,0
+2017-03-17,20170317,Friday,Friday,11,March,1,2017,0,0,,Dry,0
+2017-03-20,20170320,Monday,Monday,12,March,1,2017,0,0,,Dry,0
+2017-03-21,20170321,Tuesday,Tuesday,12,March,1,2017,0,0,,Dry,0
+2017-03-23,20170323,Thursday,Thursday,12,March,1,2017,0,0,,Dry,0
+2017-03-25,20170325,Saturday,Saturday,12,March,1,2017,1,0,,Dry,0
+2017-03-27,20170327,Monday,Monday,13,March,1,2017,0,0,,Dry,0
+2017-03-28,20170328,Tuesday,Tuesday,13,March,1,2017,0,0,,Dry,0
+2017-03-29,20170329,Wednesday,Wednesday,13,March,1,2017,0,0,,Dry,0
+2017-03-30,20170330,Thursday,Thursday,13,March,1,2017,0,0,,Dry,0
+2017-03-31,20170331,Friday,Friday,13,March,1,2017,0,0,,Dry,0
+2017-04-02,20170402,Sunday,Sunday,13,April,2,2017,1,0,,Dry,0
+2017-04-03,20170403,Monday,Monday,14,April,2,2017,0,0,,Dry,0
+2017-04-04,20170404,Tuesday,Tuesday,14,April,2,2017,0,0,,Dry,0
+2017-04-05,20170405,Wednesday,Wednesday,14,April,2,2017,0,0,,Dry,0
+2017-04-06,20170406,Thursday,Thursday,14,April,2,2017,0,0,,Dry,0
+2017-04-08,20170408,Saturday,Saturday,14,April,2,2017,1,0,,Dry,0
+2017-04-09,20170409,Sunday,Sunday,14,April,2,2017,1,0,,Dry,0
+2017-04-10,20170410,Monday,Monday,15,April,2,2017,0,0,,Dry,0
+2017-04-11,20170411,Tuesday,Tuesday,15,April,2,2017,0,0,,Dry,0
+2017-04-13,20170413,Thursday,Thursday,15,April,2,2017,0,0,,Dry,0
+2017-04-15,20170415,Saturday,Saturday,15,April,2,2017,1,0,,Dry,0
+2017-04-17,20170417,Monday,Monday,16,April,2,2017,0,0,,Dry,0
+2017-04-18,20170418,Tuesday,Tuesday,16,April,2,2017,0,0,,Dry,0
+2017-04-19,20170419,Wednesday,Wednesday,16,April,2,2017,0,0,,Dry,0
+2017-04-20,20170420,Thursday,Thursday,16,April,2,2017,0,0,,Dry,0
+2017-04-21,20170421,Friday,Friday,16,April,2,2017,0,0,,Dry,0
+2017-04-22,20170422,Saturday,Saturday,16,April,2,2017,1,0,,Dry,0
+2017-04-23,20170423,Sunday,Sunday,16,April,2,2017,1,0,,Dry,0
+2017-04-24,20170424,Monday,Monday,17,April,2,2017,0,0,,Dry,0
+2017-04-26,20170426,Wednesday,Wednesday,17,April,2,2017,0,0,,Dry,0
+2017-04-30,20170430,Sunday,Sunday,17,April,2,2017,1,0,,Dry,0
+2017-05-01,20170501,Monday,Monday,18,May,2,2017,0,0,,Dry,0
+2017-05-02,20170502,Tuesday,Tuesday,18,May,2,2017,0,0,,Dry,0
+2017-05-03,20170503,Wednesday,Wednesday,18,May,2,2017,0,0,,Dry,0
+2017-05-04,20170504,Thursday,Thursday,18,May,2,2017,0,0,,Dry,0
+2017-05-05,20170505,Friday,Friday,18,May,2,2017,0,0,,Dry,0
+2017-05-08,20170508,Monday,Monday,19,May,2,2017,0,0,,Dry,0
+2017-05-10,20170510,Wednesday,Wednesday,19,May,2,2017,0,0,,Dry,0
+2017-05-11,20170511,Thursday,Thursday,19,May,2,2017,0,0,,Dry,0
+2017-05-14,20170514,Sunday,Sunday,19,May,2,2017,1,0,,Dry,0
+2017-05-15,20170515,Monday,Monday,20,May,2,2017,0,0,,Dry,0
+2017-05-16,20170516,Tuesday,Tuesday,20,May,2,2017,0,0,,Dry,0
+2017-05-18,20170518,Thursday,Thursday,20,May,2,2017,0,0,,Dry,0
+2017-05-19,20170519,Friday,Friday,20,May,2,2017,0,0,,Dry,0
+2017-05-21,20170521,Sunday,Sunday,20,May,2,2017,1,0,,Dry,0
+2017-05-22,20170522,Monday,Monday,21,May,2,2017,0,0,,Dry,0
+2017-05-23,20170523,Tuesday,Tuesday,21,May,2,2017,0,1,Labour Day,Dry,0
+2017-05-25,20170525,Thursday,Thursday,21,May,2,2017,0,0,,Dry,0
+2017-05-27,20170527,Saturday,Saturday,21,May,2,2017,1,0,,Dry,0
+2017-05-29,20170529,Monday,Monday,22,May,2,2017,0,0,,Dry,0
+2017-05-30,20170530,Tuesday,Tuesday,22,May,2,2017,0,0,,Dry,0
+2017-05-31,20170531,Wednesday,Wednesday,22,May,2,2017,0,0,,Dry,0
+2017-06-02,20170602,Friday,Friday,22,June,2,2017,0,0,,Hurricane / Wet,1
+2017-06-03,20170603,Saturday,Saturday,22,June,2,2017,1,0,,Hurricane / Wet,1
+2017-06-04,20170604,Sunday,Sunday,22,June,2,2017,1,0,,Hurricane / Wet,1
+2017-06-05,20170605,Monday,Monday,23,June,2,2017,0,0,,Hurricane / Wet,1
+2017-06-09,20170609,Friday,Friday,23,June,2,2017,0,0,,Hurricane / Wet,1
+2017-06-11,20170611,Sunday,Sunday,23,June,2,2017,1,0,,Hurricane / Wet,1
+2017-06-12,20170612,Monday,Monday,24,June,2,2017,0,0,,Hurricane / Wet,1
+2017-06-14,20170614,Wednesday,Wednesday,24,June,2,2017,0,0,,Hurricane / Wet,1
+2017-06-16,20170616,Friday,Friday,24,June,2,2017,0,0,,Hurricane / Wet,1
+2017-06-17,20170617,Saturday,Saturday,24,June,2,2017,1,0,,Hurricane / Wet,1
+2017-06-18,20170618,Sunday,Sunday,24,June,2,2017,1,0,,Hurricane / Wet,1
+2017-06-19,20170619,Monday,Monday,25,June,2,2017,0,0,,Hurricane / Wet,1
+2017-06-20,20170620,Tuesday,Tuesday,25,June,2,2017,0,0,,Hurricane / Wet,1
+2017-06-23,20170623,Friday,Friday,25,June,2,2017,0,0,,Hurricane / Wet,1
+2017-06-25,20170625,Sunday,Sunday,25,June,2,2017,1,0,,Hurricane / Wet,1
+2017-06-27,20170627,Tuesday,Tuesday,26,June,2,2017,0,0,,Hurricane / Wet,1
+2017-06-30,20170630,Friday,Friday,26,June,2,2017,0,0,,Hurricane / Wet,1
+2017-07-01,20170701,Saturday,Saturday,26,July,3,2017,1,0,,Hurricane / Wet,1
+2017-07-02,20170702,Sunday,Sunday,26,July,3,2017,1,0,,Hurricane / Wet,1
+2017-07-03,20170703,Monday,Monday,27,July,3,2017,0,0,,Hurricane / Wet,1
+2017-07-04,20170704,Tuesday,Tuesday,27,July,3,2017,0,0,,Hurricane / Wet,1
+2017-07-06,20170706,Thursday,Thursday,27,July,3,2017,0,0,,Hurricane / Wet,1
+2017-07-07,20170707,Friday,Friday,27,July,3,2017,0,0,,Hurricane / Wet,1
+2017-07-08,20170708,Saturday,Saturday,27,July,3,2017,1,0,,Hurricane / Wet,1
+2017-07-11,20170711,Tuesday,Tuesday,28,July,3,2017,0,0,,Hurricane / Wet,1
+2017-07-12,20170712,Wednesday,Wednesday,28,July,3,2017,0,0,,Hurricane / Wet,1
+2017-07-17,20170717,Monday,Monday,29,July,3,2017,0,0,,Hurricane / Wet,1
+2017-07-18,20170718,Tuesday,Tuesday,29,July,3,2017,0,0,,Hurricane / Wet,1
+2017-07-20,20170720,Thursday,Thursday,29,July,3,2017,0,0,,Hurricane / Wet,1
+2017-07-22,20170722,Saturday,Saturday,29,July,3,2017,1,0,,Hurricane / Wet,1
+2017-07-23,20170723,Sunday,Sunday,29,July,3,2017,1,0,,Hurricane / Wet,1
+2017-07-24,20170724,Monday,Monday,30,July,3,2017,0,0,,Hurricane / Wet,1
+2017-07-25,20170725,Tuesday,Tuesday,30,July,3,2017,0,0,,Hurricane / Wet,1
+2017-07-26,20170726,Wednesday,Wednesday,30,July,3,2017,0,0,,Hurricane / Wet,1
+2017-07-27,20170727,Thursday,Thursday,30,July,3,2017,0,0,,Hurricane / Wet,1
+2017-07-28,20170728,Friday,Friday,30,July,3,2017,0,0,,Hurricane / Wet,1
+2017-07-29,20170729,Saturday,Saturday,30,July,3,2017,1,0,,Hurricane / Wet,1
+2017-07-30,20170730,Sunday,Sunday,30,July,3,2017,1,0,,Hurricane / Wet,1
+2017-07-31,20170731,Monday,Monday,31,July,3,2017,0,0,,Hurricane / Wet,1
+2017-08-01,20170801,Tuesday,Tuesday,31,August,3,2017,0,1,Emancipation Day,Hurricane / Wet,1
+2017-08-02,20170802,Wednesday,Wednesday,31,August,3,2017,0,0,,Hurricane / Wet,1
+2017-08-03,20170803,Thursday,Thursday,31,August,3,2017,0,0,,Hurricane / Wet,1
+2017-08-04,20170804,Friday,Friday,31,August,3,2017,0,0,,Hurricane / Wet,1
+2017-08-05,20170805,Saturday,Saturday,31,August,3,2017,1,0,,Hurricane / Wet,1
+2017-08-06,20170806,Sunday,Sunday,31,August,3,2017,1,1,Independence Day,Hurricane / Wet,1
+2017-08-07,20170807,Monday,Monday,32,August,3,2017,0,0,,Hurricane / Wet,1
+2017-08-09,20170809,Wednesday,Wednesday,32,August,3,2017,0,0,,Hurricane / Wet,1
+2017-08-10,20170810,Thursday,Thursday,32,August,3,2017,0,0,,Hurricane / Wet,1
+2017-08-11,20170811,Friday,Friday,32,August,3,2017,0,0,,Hurricane / Wet,1
+2017-08-13,20170813,Sunday,Sunday,32,August,3,2017,1,0,,Hurricane / Wet,1
+2017-08-14,20170814,Monday,Monday,33,August,3,2017,0,0,,Hurricane / Wet,1
+2017-08-15,20170815,Tuesday,Tuesday,33,August,3,2017,0,0,,Hurricane / Wet,1
+2017-08-16,20170816,Wednesday,Wednesday,33,August,3,2017,0,0,,Hurricane / Wet,1
+2017-08-17,20170817,Thursday,Thursday,33,August,3,2017,0,0,,Hurricane / Wet,1
+2017-08-18,20170818,Friday,Friday,33,August,3,2017,0,0,,Hurricane / Wet,1
+2017-08-19,20170819,Saturday,Saturday,33,August,3,2017,1,0,,Hurricane / Wet,1
+2017-08-20,20170820,Sunday,Sunday,33,August,3,2017,1,0,,Hurricane / Wet,1
+2017-08-22,20170822,Tuesday,Tuesday,34,August,3,2017,0,0,,Hurricane / Wet,1
+2017-08-23,20170823,Wednesday,Wednesday,34,August,3,2017,0,0,,Hurricane / Wet,1
+2017-08-24,20170824,Thursday,Thursday,34,August,3,2017,0,0,,Hurricane / Wet,1
+2017-08-26,20170826,Saturday,Saturday,34,August,3,2017,1,0,,Hurricane / Wet,1
+2017-08-27,20170827,Sunday,Sunday,34,August,3,2017,1,0,,Hurricane / Wet,1
+2017-08-28,20170828,Monday,Monday,35,August,3,2017,0,0,,Hurricane / Wet,1
+2017-08-29,20170829,Tuesday,Tuesday,35,August,3,2017,0,0,,Hurricane / Wet,1
+2017-08-30,20170830,Wednesday,Wednesday,35,August,3,2017,0,0,,Hurricane / Wet,1
+2017-08-31,20170831,Thursday,Thursday,35,August,3,2017,0,0,,Hurricane / Wet,1
+2017-09-01,20170901,Friday,Friday,35,September,3,2017,0,0,,Hurricane / Wet,1
+2017-09-02,20170902,Saturday,Saturday,35,September,3,2017,1,0,,Hurricane / Wet,1
+2017-09-03,20170903,Sunday,Sunday,35,September,3,2017,1,0,,Hurricane / Wet,1
+2017-09-04,20170904,Monday,Monday,36,September,3,2017,0,0,,Hurricane / Wet,1
+2017-09-07,20170907,Thursday,Thursday,36,September,3,2017,0,0,,Hurricane / Wet,1
+2017-09-08,20170908,Friday,Friday,36,September,3,2017,0,0,,Hurricane / Wet,1
+2017-09-09,20170909,Saturday,Saturday,36,September,3,2017,1,0,,Hurricane / Wet,1
+2017-09-10,20170910,Sunday,Sunday,36,September,3,2017,1,0,,Hurricane / Wet,1
+2017-09-11,20170911,Monday,Monday,37,September,3,2017,0,0,,Hurricane / Wet,1
+2017-09-12,20170912,Tuesday,Tuesday,37,September,3,2017,0,0,,Hurricane / Wet,1
+2017-09-13,20170913,Wednesday,Wednesday,37,September,3,2017,0,0,,Hurricane / Wet,1
+2017-09-14,20170914,Thursday,Thursday,37,September,3,2017,0,0,,Hurricane / Wet,1
+2017-09-15,20170915,Friday,Friday,37,September,3,2017,0,0,,Hurricane / Wet,1
+2017-09-17,20170917,Sunday,Sunday,37,September,3,2017,1,0,,Hurricane / Wet,1
+2017-09-18,20170918,Monday,Monday,38,September,3,2017,0,0,,Hurricane / Wet,1
+2017-09-19,20170919,Tuesday,Tuesday,38,September,3,2017,0,0,,Hurricane / Wet,1
+2017-09-20,20170920,Wednesday,Wednesday,38,September,3,2017,0,0,,Hurricane / Wet,1
+2017-09-22,20170922,Friday,Friday,38,September,3,2017,0,0,,Hurricane / Wet,1
+2017-09-26,20170926,Tuesday,Tuesday,39,September,3,2017,0,0,,Hurricane / Wet,1
+2017-09-29,20170929,Friday,Friday,39,September,3,2017,0,0,,Hurricane / Wet,1
+2017-09-30,20170930,Saturday,Saturday,39,September,3,2017,1,0,,Hurricane / Wet,1
+2017-10-01,20171001,Sunday,Sunday,39,October,4,2017,1,0,,Hurricane / Wet,1
+2017-10-02,20171002,Monday,Monday,40,October,4,2017,0,0,,Hurricane / Wet,1
+2017-10-03,20171003,Tuesday,Tuesday,40,October,4,2017,0,0,,Hurricane / Wet,1
+2017-10-04,20171004,Wednesday,Wednesday,40,October,4,2017,0,0,,Hurricane / Wet,1
+2017-10-05,20171005,Thursday,Thursday,40,October,4,2017,0,0,,Hurricane / Wet,1
+2017-10-06,20171006,Friday,Friday,40,October,4,2017,0,0,,Hurricane / Wet,1
+2017-10-08,20171008,Sunday,Sunday,40,October,4,2017,1,0,,Hurricane / Wet,1
+2017-10-09,20171009,Monday,Monday,41,October,4,2017,0,0,,Hurricane / Wet,1
+2017-10-10,20171010,Tuesday,Tuesday,41,October,4,2017,0,0,,Hurricane / Wet,1
+2017-10-11,20171011,Wednesday,Wednesday,41,October,4,2017,0,0,,Hurricane / Wet,1
+2017-10-14,20171014,Saturday,Saturday,41,October,4,2017,1,0,,Hurricane / Wet,1
+2017-10-16,20171016,Monday,Monday,42,October,4,2017,0,0,,Hurricane / Wet,1
+2017-10-17,20171017,Tuesday,Tuesday,42,October,4,2017,0,0,,Hurricane / Wet,1
+2017-10-19,20171019,Thursday,Thursday,42,October,4,2017,0,0,,Hurricane / Wet,1
+2017-10-20,20171020,Friday,Friday,42,October,4,2017,0,0,,Hurricane / Wet,1
+2017-10-21,20171021,Saturday,Saturday,42,October,4,2017,1,0,,Hurricane / Wet,1
+2017-10-22,20171022,Sunday,Sunday,42,October,4,2017,1,0,,Hurricane / Wet,1
+2017-10-23,20171023,Monday,Monday,43,October,4,2017,0,0,,Hurricane / Wet,1
+2017-10-24,20171024,Tuesday,Tuesday,43,October,4,2017,0,0,,Hurricane / Wet,1
+2017-10-26,20171026,Thursday,Thursday,43,October,4,2017,0,0,,Hurricane / Wet,1
+2017-10-27,20171027,Friday,Friday,43,October,4,2017,0,0,,Hurricane / Wet,1
+2017-10-28,20171028,Saturday,Saturday,43,October,4,2017,1,0,,Hurricane / Wet,1
+2017-10-29,20171029,Sunday,Sunday,43,October,4,2017,1,0,,Hurricane / Wet,1
+2017-10-30,20171030,Monday,Monday,44,October,4,2017,0,0,,Hurricane / Wet,1
+2017-10-31,20171031,Tuesday,Tuesday,44,October,4,2017,0,0,,Hurricane / Wet,1
+2017-11-01,20171101,Wednesday,Wednesday,44,November,4,2017,0,0,,Hurricane / Wet,1
+2017-11-02,20171102,Thursday,Thursday,44,November,4,2017,0,0,,Hurricane / Wet,1
+2017-11-03,20171103,Friday,Friday,44,November,4,2017,0,0,,Hurricane / Wet,1
+2017-11-04,20171104,Saturday,Saturday,44,November,4,2017,1,0,,Hurricane / Wet,1
+2017-11-05,20171105,Sunday,Sunday,44,November,4,2017,1,0,,Hurricane / Wet,1
+2017-11-06,20171106,Monday,Monday,45,November,4,2017,0,0,,Hurricane / Wet,1
+2017-11-07,20171107,Tuesday,Tuesday,45,November,4,2017,0,0,,Hurricane / Wet,1
+2017-11-08,20171108,Wednesday,Wednesday,45,November,4,2017,0,0,,Hurricane / Wet,1
+2017-11-09,20171109,Thursday,Thursday,45,November,4,2017,0,0,,Hurricane / Wet,1
+2017-11-10,20171110,Friday,Friday,45,November,4,2017,0,0,,Hurricane / Wet,1
+2017-11-11,20171111,Saturday,Saturday,45,November,4,2017,1,0,,Hurricane / Wet,1
+2017-11-13,20171113,Monday,Monday,46,November,4,2017,0,0,,Hurricane / Wet,1
+2017-11-14,20171114,Tuesday,Tuesday,46,November,4,2017,0,0,,Hurricane / Wet,1
+2017-11-15,20171115,Wednesday,Wednesday,46,November,4,2017,0,0,,Hurricane / Wet,1
+2017-11-16,20171116,Thursday,Thursday,46,November,4,2017,0,0,,Hurricane / Wet,1
+2017-11-18,20171118,Saturday,Saturday,46,November,4,2017,1,0,,Hurricane / Wet,1
+2017-11-19,20171119,Sunday,Sunday,46,November,4,2017,1,0,,Hurricane / Wet,1
+2017-11-20,20171120,Monday,Monday,47,November,4,2017,0,0,,Hurricane / Wet,1
+2017-11-22,20171122,Wednesday,Wednesday,47,November,4,2017,0,0,,Hurricane / Wet,1
+2017-11-23,20171123,Thursday,Thursday,47,November,4,2017,0,0,,Hurricane / Wet,1
+2017-11-24,20171124,Friday,Friday,47,November,4,2017,0,0,,Hurricane / Wet,1
+2017-11-25,20171125,Saturday,Saturday,47,November,4,2017,1,0,,Hurricane / Wet,1
+2017-11-26,20171126,Sunday,Sunday,47,November,4,2017,1,0,,Hurricane / Wet,1
+2017-11-27,20171127,Monday,Monday,48,November,4,2017,0,0,,Hurricane / Wet,1
+2017-11-28,20171128,Tuesday,Tuesday,48,November,4,2017,0,0,,Hurricane / Wet,1
+2017-11-29,20171129,Wednesday,Wednesday,48,November,4,2017,0,0,,Hurricane / Wet,1
+2017-11-30,20171130,Thursday,Thursday,48,November,4,2017,0,0,,Hurricane / Wet,1
+2017-12-01,20171201,Friday,Friday,48,December,4,2017,0,0,,Dry,0
+2017-12-02,20171202,Saturday,Saturday,48,December,4,2017,1,0,,Dry,0
+2017-12-03,20171203,Sunday,Sunday,48,December,4,2017,1,0,,Dry,0
+2017-12-04,20171204,Monday,Monday,49,December,4,2017,0,0,,Dry,0
+2017-12-05,20171205,Tuesday,Tuesday,49,December,4,2017,0,0,,Dry,0
+2017-12-06,20171206,Wednesday,Wednesday,49,December,4,2017,0,0,,Dry,0
+2017-12-07,20171207,Thursday,Thursday,49,December,4,2017,0,0,,Dry,0
+2017-12-08,20171208,Friday,Friday,49,December,4,2017,0,0,,Dry,0
+2017-12-09,20171209,Saturday,Saturday,49,December,4,2017,1,0,,Dry,0
+2017-12-10,20171210,Sunday,Sunday,49,December,4,2017,1,0,,Dry,0
+2017-12-11,20171211,Monday,Monday,50,December,4,2017,0,0,,Dry,0
+2017-12-12,20171212,Tuesday,Tuesday,50,December,4,2017,0,0,,Dry,0
+2017-12-13,20171213,Wednesday,Wednesday,50,December,4,2017,0,0,,Dry,0
+2017-12-14,20171214,Thursday,Thursday,50,December,4,2017,0,0,,Dry,0
+2017-12-15,20171215,Friday,Friday,50,December,4,2017,0,0,,Dry,0
+2017-12-16,20171216,Saturday,Saturday,50,December,4,2017,1,0,,Dry,0
+2017-12-17,20171217,Sunday,Sunday,50,December,4,2017,1,0,,Dry,0
+2017-12-18,20171218,Monday,Monday,51,December,4,2017,0,0,,Dry,0
+2017-12-19,20171219,Tuesday,Tuesday,51,December,4,2017,0,0,,Dry,0
+2017-12-20,20171220,Wednesday,Wednesday,51,December,4,2017,0,0,,Dry,0
+2017-12-21,20171221,Thursday,Thursday,51,December,4,2017,0,0,,Dry,0
+2017-12-22,20171222,Friday,Friday,51,December,4,2017,0,0,,Dry,0
+2017-12-23,20171223,Saturday,Saturday,51,December,4,2017,1,0,,Dry,0
+2017-12-25,20171225,Monday,Monday,52,December,4,2017,0,1,Christmas Day,Dry,0
+2017-12-26,20171226,Tuesday,Tuesday,52,December,4,2017,0,1,Boxing Day,Dry,0
+2017-12-27,20171227,Wednesday,Wednesday,52,December,4,2017,0,0,,Dry,0
+2017-12-28,20171228,Thursday,Thursday,52,December,4,2017,0,0,,Dry,0
+2017-12-29,20171229,Friday,Friday,52,December,4,2017,0,0,,Dry,0
+2017-12-30,20171230,Saturday,Saturday,52,December,4,2017,1,0,,Dry,0
+2018-01-02,20180102,Tuesday,Tuesday,1,January,1,2018,0,0,,Dry,0
+2018-01-03,20180103,Wednesday,Wednesday,1,January,1,2018,0,0,,Dry,0
+2018-01-04,20180104,Thursday,Thursday,1,January,1,2018,0,0,,Dry,0
+2018-01-05,20180105,Friday,Friday,1,January,1,2018,0,0,,Dry,0
+2018-01-06,20180106,Saturday,Saturday,1,January,1,2018,1,0,,Dry,0
+2018-01-07,20180107,Sunday,Sunday,1,January,1,2018,1,0,,Dry,0
+2018-01-08,20180108,Monday,Monday,2,January,1,2018,0,0,,Dry,0
+2018-01-09,20180109,Tuesday,Tuesday,2,January,1,2018,0,0,,Dry,0
+2018-01-10,20180110,Wednesday,Wednesday,2,January,1,2018,0,0,,Dry,0
+2018-01-11,20180111,Thursday,Thursday,2,January,1,2018,0,0,,Dry,0
+2018-01-12,20180112,Friday,Friday,2,January,1,2018,0,0,,Dry,0
+2018-01-13,20180113,Saturday,Saturday,2,January,1,2018,1,0,,Dry,0
+2018-01-14,20180114,Sunday,Sunday,2,January,1,2018,1,0,,Dry,0
+2018-01-15,20180115,Monday,Monday,3,January,1,2018,0,0,,Dry,0
+2018-01-16,20180116,Tuesday,Tuesday,3,January,1,2018,0,0,,Dry,0
+2018-01-17,20180117,Wednesday,Wednesday,3,January,1,2018,0,0,,Dry,0
+2018-01-18,20180118,Thursday,Thursday,3,January,1,2018,0,0,,Dry,0
+2018-01-19,20180119,Friday,Friday,3,January,1,2018,0,0,,Dry,0
+2018-01-21,20180121,Sunday,Sunday,3,January,1,2018,1,0,,Dry,0
+2018-01-22,20180122,Monday,Monday,4,January,1,2018,0,0,,Dry,0
+2018-01-23,20180123,Tuesday,Tuesday,4,January,1,2018,0,0,,Dry,0
+2018-01-24,20180124,Wednesday,Wednesday,4,January,1,2018,0,0,,Dry,0
+2018-01-25,20180125,Thursday,Thursday,4,January,1,2018,0,0,,Dry,0
+2018-01-27,20180127,Saturday,Saturday,4,January,1,2018,1,0,,Dry,0
+2018-01-29,20180129,Monday,Monday,5,January,1,2018,0,0,,Dry,0
+2018-01-30,20180130,Tuesday,Tuesday,5,January,1,2018,0,0,,Dry,0
+2018-01-31,20180131,Wednesday,Wednesday,5,January,1,2018,0,0,,Dry,0
+2018-02-01,20180201,Thursday,Thursday,5,February,1,2018,0,0,,Dry,0
+2018-02-02,20180202,Friday,Friday,5,February,1,2018,0,0,,Dry,0
+2018-02-03,20180203,Saturday,Saturday,5,February,1,2018,1,0,,Dry,0
+2018-02-04,20180204,Sunday,Sunday,5,February,1,2018,1,0,,Dry,0
+2018-02-05,20180205,Monday,Monday,6,February,1,2018,0,0,,Dry,0
+2018-02-06,20180206,Tuesday,Tuesday,6,February,1,2018,0,0,,Dry,0
+2018-02-07,20180207,Wednesday,Wednesday,6,February,1,2018,0,0,,Dry,0
+2018-02-08,20180208,Thursday,Thursday,6,February,1,2018,0,0,,Dry,0
+2018-02-09,20180209,Friday,Friday,6,February,1,2018,0,0,,Dry,0
+2018-02-10,20180210,Saturday,Saturday,6,February,1,2018,1,0,,Dry,0
+2018-02-11,20180211,Sunday,Sunday,6,February,1,2018,1,0,,Dry,0
+2018-02-12,20180212,Monday,Monday,7,February,1,2018,0,0,,Dry,0
+2018-02-14,20180214,Wednesday,Wednesday,7,February,1,2018,0,0,,Dry,0
+2018-02-15,20180215,Thursday,Thursday,7,February,1,2018,0,0,,Dry,0
+2018-02-16,20180216,Friday,Friday,7,February,1,2018,0,0,,Dry,0
+2018-02-17,20180217,Saturday,Saturday,7,February,1,2018,1,0,,Dry,0
+2018-02-18,20180218,Sunday,Sunday,7,February,1,2018,1,0,,Dry,0
+2018-02-19,20180219,Monday,Monday,8,February,1,2018,0,0,,Dry,0
+2018-02-20,20180220,Tuesday,Tuesday,8,February,1,2018,0,0,,Dry,0
+2018-02-21,20180221,Wednesday,Wednesday,8,February,1,2018,0,0,,Dry,0
+2018-02-22,20180222,Thursday,Thursday,8,February,1,2018,0,0,,Dry,0
+2018-02-23,20180223,Friday,Friday,8,February,1,2018,0,0,,Dry,0
+2018-02-24,20180224,Saturday,Saturday,8,February,1,2018,1,0,,Dry,0
+2018-02-25,20180225,Sunday,Sunday,8,February,1,2018,1,0,,Dry,0
+2018-02-26,20180226,Monday,Monday,9,February,1,2018,0,0,,Dry,0
+2018-02-27,20180227,Tuesday,Tuesday,9,February,1,2018,0,0,,Dry,0
+2018-02-28,20180228,Wednesday,Wednesday,9,February,1,2018,0,0,,Dry,0
+2018-03-01,20180301,Thursday,Thursday,9,March,1,2018,0,0,,Dry,0
+2018-03-02,20180302,Friday,Friday,9,March,1,2018,0,0,,Dry,0
+2018-03-03,20180303,Saturday,Saturday,9,March,1,2018,1,0,,Dry,0
+2018-03-04,20180304,Sunday,Sunday,9,March,1,2018,1,0,,Dry,0
+2018-03-05,20180305,Monday,Monday,10,March,1,2018,0,0,,Dry,0
+2018-03-06,20180306,Tuesday,Tuesday,10,March,1,2018,0,0,,Dry,0
+2018-03-07,20180307,Wednesday,Wednesday,10,March,1,2018,0,0,,Dry,0
+2018-03-08,20180308,Thursday,Thursday,10,March,1,2018,0,0,,Dry,0
+2018-03-09,20180309,Friday,Friday,10,March,1,2018,0,0,,Dry,0
+2018-03-10,20180310,Saturday,Saturday,10,March,1,2018,1,0,,Dry,0
+2018-03-11,20180311,Sunday,Sunday,10,March,1,2018,1,0,,Dry,0
+2018-03-13,20180313,Tuesday,Tuesday,11,March,1,2018,0,0,,Dry,0
+2018-03-14,20180314,Wednesday,Wednesday,11,March,1,2018,0,0,,Dry,0
+2018-03-15,20180315,Thursday,Thursday,11,March,1,2018,0,0,,Dry,0
+2018-03-16,20180316,Friday,Friday,11,March,1,2018,0,0,,Dry,0
+2018-03-17,20180317,Saturday,Saturday,11,March,1,2018,1,0,,Dry,0
+2018-03-18,20180318,Sunday,Sunday,11,March,1,2018,1,0,,Dry,0
+2018-03-19,20180319,Monday,Monday,12,March,1,2018,0,0,,Dry,0
+2018-03-21,20180321,Wednesday,Wednesday,12,March,1,2018,0,0,,Dry,0
+2018-03-22,20180322,Thursday,Thursday,12,March,1,2018,0,0,,Dry,0
+2018-03-23,20180323,Friday,Friday,12,March,1,2018,0,0,,Dry,0
+2018-03-24,20180324,Saturday,Saturday,12,March,1,2018,1,0,,Dry,0
+2018-03-25,20180325,Sunday,Sunday,12,March,1,2018,1,0,,Dry,0
+2018-03-26,20180326,Monday,Monday,13,March,1,2018,0,0,,Dry,0
+2018-03-27,20180327,Tuesday,Tuesday,13,March,1,2018,0,0,,Dry,0
+2018-03-29,20180329,Thursday,Thursday,13,March,1,2018,0,0,,Dry,0
+2018-03-30,20180330,Friday,Friday,13,March,1,2018,0,0,,Dry,0
+2018-03-31,20180331,Saturday,Saturday,13,March,1,2018,1,0,,Dry,0
+2018-04-01,20180401,Sunday,Sunday,13,April,2,2018,1,0,,Dry,0
+2018-04-02,20180402,Monday,Monday,14,April,2,2018,0,0,,Dry,0
+2018-04-03,20180403,Tuesday,Tuesday,14,April,2,2018,0,0,,Dry,0
+2018-04-04,20180404,Wednesday,Wednesday,14,April,2,2018,0,0,,Dry,0
+2018-04-05,20180405,Thursday,Thursday,14,April,2,2018,0,0,,Dry,0
+2018-04-06,20180406,Friday,Friday,14,April,2,2018,0,0,,Dry,0
+2018-04-07,20180407,Saturday,Saturday,14,April,2,2018,1,0,,Dry,0
+2018-04-08,20180408,Sunday,Sunday,14,April,2,2018,1,0,,Dry,0
+2018-04-09,20180409,Monday,Monday,15,April,2,2018,0,0,,Dry,0
+2018-04-10,20180410,Tuesday,Tuesday,15,April,2,2018,0,0,,Dry,0
+2018-04-11,20180411,Wednesday,Wednesday,15,April,2,2018,0,0,,Dry,0
+2018-04-12,20180412,Thursday,Thursday,15,April,2,2018,0,0,,Dry,0
+2018-04-13,20180413,Friday,Friday,15,April,2,2018,0,0,,Dry,0
+2018-04-14,20180414,Saturday,Saturday,15,April,2,2018,1,0,,Dry,0
+2018-04-15,20180415,Sunday,Sunday,15,April,2,2018,1,0,,Dry,0
+2018-04-16,20180416,Monday,Monday,16,April,2,2018,0,0,,Dry,0
+2018-04-17,20180417,Tuesday,Tuesday,16,April,2,2018,0,0,,Dry,0
+2018-04-18,20180418,Wednesday,Wednesday,16,April,2,2018,0,0,,Dry,0
+2018-04-19,20180419,Thursday,Thursday,16,April,2,2018,0,0,,Dry,0
+2018-04-20,20180420,Friday,Friday,16,April,2,2018,0,0,,Dry,0
+2018-04-21,20180421,Saturday,Saturday,16,April,2,2018,1,0,,Dry,0
+2018-04-22,20180422,Sunday,Sunday,16,April,2,2018,1,0,,Dry,0
+2018-04-23,20180423,Monday,Monday,17,April,2,2018,0,0,,Dry,0
+2018-04-24,20180424,Tuesday,Tuesday,17,April,2,2018,0,0,,Dry,0
+2018-04-25,20180425,Wednesday,Wednesday,17,April,2,2018,0,0,,Dry,0
+2018-04-26,20180426,Thursday,Thursday,17,April,2,2018,0,0,,Dry,0
+2018-04-27,20180427,Friday,Friday,17,April,2,2018,0,0,,Dry,0
+2018-04-28,20180428,Saturday,Saturday,17,April,2,2018,1,0,,Dry,0
+2018-04-29,20180429,Sunday,Sunday,17,April,2,2018,1,0,,Dry,0
+2018-04-30,20180430,Monday,Monday,18,April,2,2018,0,0,,Dry,0
+2018-05-01,20180501,Tuesday,Tuesday,18,May,2,2018,0,0,,Dry,0
+2018-05-02,20180502,Wednesday,Wednesday,18,May,2,2018,0,0,,Dry,0
+2018-05-03,20180503,Thursday,Thursday,18,May,2,2018,0,0,,Dry,0
+2018-05-04,20180504,Friday,Friday,18,May,2,2018,0,0,,Dry,0
+2018-05-05,20180505,Saturday,Saturday,18,May,2,2018,1,0,,Dry,0
+2018-05-06,20180506,Sunday,Sunday,18,May,2,2018,1,0,,Dry,0
+2018-05-07,20180507,Monday,Monday,19,May,2,2018,0,0,,Dry,0
+2018-05-08,20180508,Tuesday,Tuesday,19,May,2,2018,0,0,,Dry,0
+2018-05-09,20180509,Wednesday,Wednesday,19,May,2,2018,0,0,,Dry,0
+2018-05-10,20180510,Thursday,Thursday,19,May,2,2018,0,0,,Dry,0
+2018-05-11,20180511,Friday,Friday,19,May,2,2018,0,0,,Dry,0
+2018-05-12,20180512,Saturday,Saturday,19,May,2,2018,1,0,,Dry,0
+2018-05-13,20180513,Sunday,Sunday,19,May,2,2018,1,0,,Dry,0
+2018-05-14,20180514,Monday,Monday,20,May,2,2018,0,0,,Dry,0
+2018-05-15,20180515,Tuesday,Tuesday,20,May,2,2018,0,0,,Dry,0
+2018-05-16,20180516,Wednesday,Wednesday,20,May,2,2018,0,0,,Dry,0
+2018-05-17,20180517,Thursday,Thursday,20,May,2,2018,0,0,,Dry,0
+2018-05-18,20180518,Friday,Friday,20,May,2,2018,0,0,,Dry,0
+2018-05-19,20180519,Saturday,Saturday,20,May,2,2018,1,0,,Dry,0
+2018-05-20,20180520,Sunday,Sunday,20,May,2,2018,1,0,,Dry,0
+2018-05-21,20180521,Monday,Monday,21,May,2,2018,0,0,,Dry,0
+2018-05-22,20180522,Tuesday,Tuesday,21,May,2,2018,0,0,,Dry,0
+2018-05-23,20180523,Wednesday,Wednesday,21,May,2,2018,0,1,Labour Day,Dry,0
+2018-05-24,20180524,Thursday,Thursday,21,May,2,2018,0,0,,Dry,0
+2018-05-25,20180525,Friday,Friday,21,May,2,2018,0,0,,Dry,0
+2018-05-28,20180528,Monday,Monday,22,May,2,2018,0,0,,Dry,0
+2018-05-30,20180530,Wednesday,Wednesday,22,May,2,2018,0,0,,Dry,0
+2018-05-31,20180531,Thursday,Thursday,22,May,2,2018,0,0,,Dry,0
+2018-06-01,20180601,Friday,Friday,22,June,2,2018,0,0,,Hurricane / Wet,1
+2018-06-02,20180602,Saturday,Saturday,22,June,2,2018,1,0,,Hurricane / Wet,1
+2018-06-03,20180603,Sunday,Sunday,22,June,2,2018,1,0,,Hurricane / Wet,1
+2018-06-04,20180604,Monday,Monday,23,June,2,2018,0,0,,Hurricane / Wet,1
+2018-06-05,20180605,Tuesday,Tuesday,23,June,2,2018,0,0,,Hurricane / Wet,1
+2018-06-06,20180606,Wednesday,Wednesday,23,June,2,2018,0,0,,Hurricane / Wet,1
+2018-06-07,20180607,Thursday,Thursday,23,June,2,2018,0,0,,Hurricane / Wet,1
+2018-06-08,20180608,Friday,Friday,23,June,2,2018,0,0,,Hurricane / Wet,1
+2018-06-09,20180609,Saturday,Saturday,23,June,2,2018,1,0,,Hurricane / Wet,1
+2018-06-11,20180611,Monday,Monday,24,June,2,2018,0,0,,Hurricane / Wet,1
+2018-06-12,20180612,Tuesday,Tuesday,24,June,2,2018,0,0,,Hurricane / Wet,1
+2018-06-13,20180613,Wednesday,Wednesday,24,June,2,2018,0,0,,Hurricane / Wet,1
+2018-06-14,20180614,Thursday,Thursday,24,June,2,2018,0,0,,Hurricane / Wet,1
+2018-06-15,20180615,Friday,Friday,24,June,2,2018,0,0,,Hurricane / Wet,1
+2018-06-16,20180616,Saturday,Saturday,24,June,2,2018,1,0,,Hurricane / Wet,1
+2018-06-17,20180617,Sunday,Sunday,24,June,2,2018,1,0,,Hurricane / Wet,1
+2018-06-18,20180618,Monday,Monday,25,June,2,2018,0,0,,Hurricane / Wet,1
+2018-06-19,20180619,Tuesday,Tuesday,25,June,2,2018,0,0,,Hurricane / Wet,1
+2018-06-20,20180620,Wednesday,Wednesday,25,June,2,2018,0,0,,Hurricane / Wet,1
+2018-06-21,20180621,Thursday,Thursday,25,June,2,2018,0,0,,Hurricane / Wet,1
+2018-06-22,20180622,Friday,Friday,25,June,2,2018,0,0,,Hurricane / Wet,1
+2018-06-23,20180623,Saturday,Saturday,25,June,2,2018,1,0,,Hurricane / Wet,1
+2018-06-26,20180626,Tuesday,Tuesday,26,June,2,2018,0,0,,Hurricane / Wet,1
+2018-06-27,20180627,Wednesday,Wednesday,26,June,2,2018,0,0,,Hurricane / Wet,1
+2018-06-28,20180628,Thursday,Thursday,26,June,2,2018,0,0,,Hurricane / Wet,1
+2018-06-29,20180629,Friday,Friday,26,June,2,2018,0,0,,Hurricane / Wet,1
+2018-06-30,20180630,Saturday,Saturday,26,June,2,2018,1,0,,Hurricane / Wet,1
+2018-07-01,20180701,Sunday,Sunday,26,July,3,2018,1,0,,Hurricane / Wet,1
+2018-07-03,20180703,Tuesday,Tuesday,27,July,3,2018,0,0,,Hurricane / Wet,1
+2018-07-05,20180705,Thursday,Thursday,27,July,3,2018,0,0,,Hurricane / Wet,1
+2018-07-06,20180706,Friday,Friday,27,July,3,2018,0,0,,Hurricane / Wet,1
+2018-07-07,20180707,Saturday,Saturday,27,July,3,2018,1,0,,Hurricane / Wet,1
+2018-07-08,20180708,Sunday,Sunday,27,July,3,2018,1,0,,Hurricane / Wet,1
+2018-07-11,20180711,Wednesday,Wednesday,28,July,3,2018,0,0,,Hurricane / Wet,1
+2018-07-12,20180712,Thursday,Thursday,28,July,3,2018,0,0,,Hurricane / Wet,1
+2018-07-13,20180713,Friday,Friday,28,July,3,2018,0,0,,Hurricane / Wet,1
+2018-07-14,20180714,Saturday,Saturday,28,July,3,2018,1,0,,Hurricane / Wet,1
+2018-07-15,20180715,Sunday,Sunday,28,July,3,2018,1,0,,Hurricane / Wet,1
+2018-07-16,20180716,Monday,Monday,29,July,3,2018,0,0,,Hurricane / Wet,1
+2018-07-17,20180717,Tuesday,Tuesday,29,July,3,2018,0,0,,Hurricane / Wet,1
+2018-07-18,20180718,Wednesday,Wednesday,29,July,3,2018,0,0,,Hurricane / Wet,1
+2018-07-19,20180719,Thursday,Thursday,29,July,3,2018,0,0,,Hurricane / Wet,1
+2018-07-20,20180720,Friday,Friday,29,July,3,2018,0,0,,Hurricane / Wet,1
+2018-07-21,20180721,Saturday,Saturday,29,July,3,2018,1,0,,Hurricane / Wet,1
+2018-07-22,20180722,Sunday,Sunday,29,July,3,2018,1,0,,Hurricane / Wet,1
+2018-07-23,20180723,Monday,Monday,30,July,3,2018,0,0,,Hurricane / Wet,1
+2018-07-24,20180724,Tuesday,Tuesday,30,July,3,2018,0,0,,Hurricane / Wet,1
+2018-07-25,20180725,Wednesday,Wednesday,30,July,3,2018,0,0,,Hurricane / Wet,1
+2018-07-26,20180726,Thursday,Thursday,30,July,3,2018,0,0,,Hurricane / Wet,1
+2018-07-27,20180727,Friday,Friday,30,July,3,2018,0,0,,Hurricane / Wet,1
+2018-07-28,20180728,Saturday,Saturday,30,July,3,2018,1,0,,Hurricane / Wet,1
+2018-07-29,20180729,Sunday,Sunday,30,July,3,2018,1,0,,Hurricane / Wet,1
+2018-07-30,20180730,Monday,Monday,31,July,3,2018,0,0,,Hurricane / Wet,1
+2018-07-31,20180731,Tuesday,Tuesday,31,July,3,2018,0,0,,Hurricane / Wet,1
+2018-08-01,20180801,Wednesday,Wednesday,31,August,3,2018,0,1,Emancipation Day,Hurricane / Wet,1
+2018-08-02,20180802,Thursday,Thursday,31,August,3,2018,0,0,,Hurricane / Wet,1
+2018-08-03,20180803,Friday,Friday,31,August,3,2018,0,0,,Hurricane / Wet,1
+2018-08-04,20180804,Saturday,Saturday,31,August,3,2018,1,0,,Hurricane / Wet,1
+2018-08-05,20180805,Sunday,Sunday,31,August,3,2018,1,0,,Hurricane / Wet,1
+2018-08-06,20180806,Monday,Monday,32,August,3,2018,0,1,Independence Day,Hurricane / Wet,1
+2018-08-07,20180807,Tuesday,Tuesday,32,August,3,2018,0,0,,Hurricane / Wet,1
+2018-08-08,20180808,Wednesday,Wednesday,32,August,3,2018,0,0,,Hurricane / Wet,1
+2018-08-10,20180810,Friday,Friday,32,August,3,2018,0,0,,Hurricane / Wet,1
+2018-08-11,20180811,Saturday,Saturday,32,August,3,2018,1,0,,Hurricane / Wet,1
+2018-08-12,20180812,Sunday,Sunday,32,August,3,2018,1,0,,Hurricane / Wet,1
+2018-08-13,20180813,Monday,Monday,33,August,3,2018,0,0,,Hurricane / Wet,1
+2018-08-14,20180814,Tuesday,Tuesday,33,August,3,2018,0,0,,Hurricane / Wet,1
+2018-08-15,20180815,Wednesday,Wednesday,33,August,3,2018,0,0,,Hurricane / Wet,1
+2018-08-16,20180816,Thursday,Thursday,33,August,3,2018,0,0,,Hurricane / Wet,1
+2018-08-17,20180817,Friday,Friday,33,August,3,2018,0,0,,Hurricane / Wet,1
+2018-08-19,20180819,Sunday,Sunday,33,August,3,2018,1,0,,Hurricane / Wet,1
+2018-08-20,20180820,Monday,Monday,34,August,3,2018,0,0,,Hurricane / Wet,1
+2018-08-21,20180821,Tuesday,Tuesday,34,August,3,2018,0,0,,Hurricane / Wet,1
+2018-08-22,20180822,Wednesday,Wednesday,34,August,3,2018,0,0,,Hurricane / Wet,1
+2018-08-23,20180823,Thursday,Thursday,34,August,3,2018,0,0,,Hurricane / Wet,1
+2018-08-25,20180825,Saturday,Saturday,34,August,3,2018,1,0,,Hurricane / Wet,1
+2018-08-26,20180826,Sunday,Sunday,34,August,3,2018,1,0,,Hurricane / Wet,1
